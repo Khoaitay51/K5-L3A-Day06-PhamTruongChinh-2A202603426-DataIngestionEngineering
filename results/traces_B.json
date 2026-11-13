@@ -1,0 +1,1598 @@
+[
+  {
+    "question_id": "q01",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "How much cash did 3M use to buy property, plant and equipment in fiscal 2018, in USD millions?",
+    "gold_source_id": "3M_2018_10K",
+    "gold_page": 59,
+    "evidence_quote": "Purchases of property, plant and equipment (PP&E) (1,577)",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "3M_2018_10K_p57_para_000",
+        "document_id": "3M_2018_10K",
+        "source": "starter/data/corpus/3M_2018_10K__p57.md",
+        "page": 57,
+        "score": 0.738798,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 57,
+          "year": 2018,
+          "source": "starter/data/corpus/3M_2018_10K__p57.md",
+          "company": "3M",
+          "doc_type": "10K",
+          "char_count": 800,
+          "chunk_index": 0,
+          "document_id": "3M_2018_10K"
+        },
+        "text": "# 3M Financial Filing: 3M_2018_10K\n\n**Company**: 3M\n\n**Document**: 3M_2018_10K\n\nTable of Contents\n3M Company and Subsidiaries\nConsolidated Balance Shee t\nAt December 31\n\nDecember 31,\n\nDecember 31,\n\n(Dollars in millions, except per share amount)\n\n2018\n\n2017\n\nAssets\n\nCurrent assets\n\nCash and cash equivalents\n\n$\n2,853\n$\n3,053\nMarketable securities current\n\n380\n\n1,076\nAccounts receivable net of allowances of $95 and $103\n\n5,020\n\n4,911\nInventories\n\nFinished goods\n\n2,120\n\n1,915\nWork in process\n\n1,292\n\n1,218\nRaw materials and supplies\n\n954\n\n901\nTotal inventories\n\n4,366\n\n4,034\nPrepaids\n\n741\n\n937\nOther current assets\n\n349\n\n266\nTotal current assets\n\n13,709\n\n14,277\nProperty, plant and equipment\n\n24,873\n\n24,914\nLess: Accumulated depreciation\n\n(16,135)\n\n(16,048)\nProperty, plant and equipment net\n\n8,738"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3M_2022_10K_p26_para_003",
+        "document_id": "3M_2022_10K",
+        "source": "starter/data/corpus/3M_2022_10K__p26.md",
+        "page": 26,
+        "score": 0.730834,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 26,
+          "year": 2022,
+          "source": "starter/data/corpus/3M_2022_10K__p26.md",
+          "company": "3M",
+          "doc_type": "10K",
+          "char_count": 777,
+          "chunk_index": 3,
+          "document_id": "3M_2022_10K"
+        },
+        "text": "charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost\nmanagement.\nResearch, Development and Related Expenses:\nR&D, measured as a percent of sales, decreased in 2022 when compared to the same period last year. 3M continues to invest in a range of R&D activities from application\ndevelopment, product and manufacturing support, product development and technology development aimed at disruptive innovations.\nGain on Business Divestitures:\nIn the third quarter of 2022, 3M recorded a pre-tax gain of $2.7 billion ($2.7 billion after tax) related to the split-off and combination of its Food Safety business with Neogen\nCorporation. Refer to Note 3 for further details."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_000",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.719528,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 745,
+          "chunk_index": 0,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q\n\nTable of Contents\nFinancial condition:\nRefer to the section entitled Financial Condition and Liquidity later in MD&A for a discussion of items impacting cash flows.\nIn November 2018, 3Ms Board of Directors replaced the Companys February 2016 repurchase program with a new repurchase program. This new program authorizes the\nrepurchase of up to $10 billion of 3Ms outstanding common stock, with no pre-established end date. In the first six months of 2023, the Company purchased $29 million of its\nown stock, compared to $773 million of stock purchases in the first six months of 2022. As of June 30, 2023, approximately $4.2 billion remained available under the"
+      }
+    ]
+  },
+  {
+    "question_id": "q02",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "What was 3M's net property, plant and equipment at the end of 2018, in USD millions?",
+    "gold_source_id": "3M_2018_10K",
+    "gold_page": 57,
+    "evidence_quote": "Property, plant and equipment net 8,738 8,866",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "3M_2018_10K_p57_para_000",
+        "document_id": "3M_2018_10K",
+        "source": "starter/data/corpus/3M_2018_10K__p57.md",
+        "page": 57,
+        "score": 0.768845,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 57,
+          "year": 2018,
+          "source": "starter/data/corpus/3M_2018_10K__p57.md",
+          "company": "3M",
+          "doc_type": "10K",
+          "char_count": 800,
+          "chunk_index": 0,
+          "document_id": "3M_2018_10K"
+        },
+        "text": "# 3M Financial Filing: 3M_2018_10K\n\n**Company**: 3M\n\n**Document**: 3M_2018_10K\n\nTable of Contents\n3M Company and Subsidiaries\nConsolidated Balance Shee t\nAt December 31\n\nDecember 31,\n\nDecember 31,\n\n(Dollars in millions, except per share amount)\n\n2018\n\n2017\n\nAssets\n\nCurrent assets\n\nCash and cash equivalents\n\n$\n2,853\n$\n3,053\nMarketable securities current\n\n380\n\n1,076\nAccounts receivable net of allowances of $95 and $103\n\n5,020\n\n4,911\nInventories\n\nFinished goods\n\n2,120\n\n1,915\nWork in process\n\n1,292\n\n1,218\nRaw materials and supplies\n\n954\n\n901\nTotal inventories\n\n4,366\n\n4,034\nPrepaids\n\n741\n\n937\nOther current assets\n\n349\n\n266\nTotal current assets\n\n13,709\n\n14,277\nProperty, plant and equipment\n\n24,873\n\n24,914\nLess: Accumulated depreciation\n\n(16,135)\n\n(16,048)\nProperty, plant and equipment net\n\n8,738"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3M_2023Q2_10Q_p4_para_001",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p4.md",
+        "page": 4,
+        "score": 0.753174,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 4,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p4.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 788,
+          "chunk_index": 1,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "Table of Contents\n3M Company and Subsidiaries\nConsolidated Balance Sheet\n(Unaudited)\n(Dollars in millions, except per share amount)\nJune 30, 2023\nDecember 31, 2022\nAssets\nCurrent assets\nCash and cash equivalents\n$\n4,258\n$\n3,655\nMarketable securities current\n56\n238\nAccounts receivable net of allowances of $160 and $174\n4,947\n4,532\nInventories\nFinished goods\n2,526\n2,497\nWork in process\n1,527\n1,606\nRaw materials and supplies\n1,227\n1,269\nTotal inventories\n5,280\n5,372\nPrepaids\n674\n435\nOther current assets\n539\n456\nTotal current assets\n15,754\n14,688\nProperty, plant and equipment\n26,459\n25,998\nLess: Accumulated depreciation\n(17,248)\n(16,820)\nProperty, plant and equipment net\n9,211\n9,178\nOperating lease right of use assets\n812\n829\nGoodwill\n12,869\n12,790\nIntangible assets net\n4,470\n4,699"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3M_2022_10K_p26_para_003",
+        "document_id": "3M_2022_10K",
+        "source": "starter/data/corpus/3M_2022_10K__p26.md",
+        "page": 26,
+        "score": 0.735162,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 26,
+          "year": 2022,
+          "source": "starter/data/corpus/3M_2022_10K__p26.md",
+          "company": "3M",
+          "doc_type": "10K",
+          "char_count": 777,
+          "chunk_index": 3,
+          "document_id": "3M_2022_10K"
+        },
+        "text": "charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost\nmanagement.\nResearch, Development and Related Expenses:\nR&D, measured as a percent of sales, decreased in 2022 when compared to the same period last year. 3M continues to invest in a range of R&D activities from application\ndevelopment, product and manufacturing support, product development and technology development aimed at disruptive innovations.\nGain on Business Divestitures:\nIn the third quarter of 2022, 3M recorded a pre-tax gain of $2.7 billion ($2.7 billion after tax) related to the split-off and combination of its Food Safety business with Neogen\nCorporation. Refer to Note 3 for further details."
+      }
+    ]
+  },
+  {
+    "question_id": "q03",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "How far did 3M's operating margin fall in FY2022, in percentage points?",
+    "gold_source_id": "3M_2022_10K",
+    "gold_page": 26,
+    "evidence_quote": "Operating income margin 19.1 % 20.8 % (1.7)%",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "3M_2022_10K_p26_para_003",
+        "document_id": "3M_2022_10K",
+        "source": "starter/data/corpus/3M_2022_10K__p26.md",
+        "page": 26,
+        "score": 0.744215,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 26,
+          "year": 2022,
+          "source": "starter/data/corpus/3M_2022_10K__p26.md",
+          "company": "3M",
+          "doc_type": "10K",
+          "char_count": 777,
+          "chunk_index": 3,
+          "document_id": "3M_2022_10K"
+        },
+        "text": "charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost\nmanagement.\nResearch, Development and Related Expenses:\nR&D, measured as a percent of sales, decreased in 2022 when compared to the same period last year. 3M continues to invest in a range of R&D activities from application\ndevelopment, product and manufacturing support, product development and technology development aimed at disruptive innovations.\nGain on Business Divestitures:\nIn the third quarter of 2022, 3M recorded a pre-tax gain of $2.7 billion ($2.7 billion after tax) related to the split-off and combination of its Food Safety business with Neogen\nCorporation. Refer to Note 3 for further details."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_001",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.739173,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 754,
+          "chunk_index": 1,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "authorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive\nyear of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\nThree months ended\nJune 30,\nSix months ended\nJune 30,\n(Percent of net sales)\n2023\n2022\nChange\n2023\n2022\nChange\nCost of sales\n55.3 %\n58.5 %\n(3.2)%\n56.4 %\n56.6 %\n(0.2)%\nSelling, general and administrative expenses (SG&A)\n146.6\n34.7\n111.9\n85.0\n27.9\n57.1"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_000",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.724187,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 745,
+          "chunk_index": 0,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q\n\nTable of Contents\nFinancial condition:\nRefer to the section entitled Financial Condition and Liquidity later in MD&A for a discussion of items impacting cash flows.\nIn November 2018, 3Ms Board of Directors replaced the Companys February 2016 repurchase program with a new repurchase program. This new program authorizes the\nrepurchase of up to $10 billion of 3Ms outstanding common stock, with no pre-established end date. In the first six months of 2023, the Company purchased $29 million of its\nown stock, compared to $773 million of stock purchases in the first six months of 2022. As of June 30, 2023, approximately $4.2 billion remained available under the"
+      }
+    ]
+  },
+  {
+    "question_id": "q04",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "Which 3M business segment posted negative organic sales growth in FY2022, and by how much?",
+    "gold_source_id": "3M_2022_10K",
+    "gold_page": 24,
+    "evidence_quote": "Organic sales",
+    "additional_evidence_quotes": [
+      "Consumer (0.9)"
+    ],
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "3M_2022_10K_p26_para_003",
+        "document_id": "3M_2022_10K",
+        "source": "starter/data/corpus/3M_2022_10K__p26.md",
+        "page": 26,
+        "score": 0.748991,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 26,
+          "year": 2022,
+          "source": "starter/data/corpus/3M_2022_10K__p26.md",
+          "company": "3M",
+          "doc_type": "10K",
+          "char_count": 777,
+          "chunk_index": 3,
+          "document_id": "3M_2022_10K"
+        },
+        "text": "charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost\nmanagement.\nResearch, Development and Related Expenses:\nR&D, measured as a percent of sales, decreased in 2022 when compared to the same period last year. 3M continues to invest in a range of R&D activities from application\ndevelopment, product and manufacturing support, product development and technology development aimed at disruptive innovations.\nGain on Business Divestitures:\nIn the third quarter of 2022, 3M recorded a pre-tax gain of $2.7 billion ($2.7 billion after tax) related to the split-off and combination of its Food Safety business with Neogen\nCorporation. Refer to Note 3 for further details."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_001",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.727775,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 754,
+          "chunk_index": 1,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "authorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive\nyear of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\nThree months ended\nJune 30,\nSix months ended\nJune 30,\n(Percent of net sales)\n2023\n2022\nChange\n2023\n2022\nChange\nCost of sales\n55.3 %\n58.5 %\n(3.2)%\n56.4 %\n56.6 %\n(0.2)%\nSelling, general and administrative expenses (SG&A)\n146.6\n34.7\n111.9\n85.0\n27.9\n57.1"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3M_2022_10K_p26_para_000",
+        "document_id": "3M_2022_10K",
+        "source": "starter/data/corpus/3M_2022_10K__p26.md",
+        "page": 26,
+        "score": 0.71121,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 26,
+          "year": 2022,
+          "source": "starter/data/corpus/3M_2022_10K__p26.md",
+          "company": "3M",
+          "doc_type": "10K",
+          "char_count": 573,
+          "chunk_index": 0,
+          "document_id": "3M_2022_10K"
+        },
+        "text": "# 3M Financial Filing: 3M_2022_10K\n\n**Company**: 3M\n\n**Document**: 3M_2022_10K\n\nTable of Contents\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\n(Percent of net sales)\n2022\n2021\nChange\nCost of sales\n56.2 %\n53.2 %\n3.0 %\nSelling, general and administrative expenses (SG&A)\n26.5\n20.4\n6.1\nResearch, development and related expenses (R&D)\n5.4\n5.6\n(0.2)\nGain on business divestitures\n(8.0)\n\n(8.0)\nGoodwill impairment expense\n0.8"
+      }
+    ]
+  },
+  {
+    "question_id": "q05",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "How much cash and cash equivalents did 3M report as of June 30, 2023, and how does that compare with December 31, 2022?",
+    "gold_source_id": "3M_2023Q2_10Q",
+    "gold_page": 4,
+    "evidence_quote": "June 30, 2023 December 31, 2022 Assets Current assets Cash and cash equivalents $ 4,258 $ 3,655",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": false,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "BESTBUY_2024Q2_10Q_p19_para_006",
+        "document_id": "BESTBUY_2024Q2_10Q",
+        "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+        "page": 19,
+        "score": 0.814467,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 19,
+          "year": 2024,
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+          "company": "BESTBUY",
+          "doc_type": "10Q",
+          "char_count": 379,
+          "chunk_index": 6,
+          "document_id": "BESTBUY_2024Q2_10Q"
+        },
+        "text": "Cash and cash equivalents were as follows ($ in millions):\n\nJuly 29, 2023\n\nJanuary 28, 2023\n\nJuly 30, 2022\nCash and cash equivalents\n\n$\n1,093 $\n1,874 $\n840\n\nThe decrease in cash and cash equivalents from January 28, 2023, was primarily due to the timing and volume of inventory purchases and payments, dividend\npayments and capital expenditures, partially offset by earnings.\n\n20"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_001",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.795749,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 754,
+          "chunk_index": 1,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "authorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive\nyear of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\nThree months ended\nJune 30,\nSix months ended\nJune 30,\n(Percent of net sales)\n2023\n2022\nChange\n2023\n2022\nChange\nCost of sales\n55.3 %\n58.5 %\n(3.2)%\n56.4 %\n56.6 %\n(0.2)%\nSelling, general and administrative expenses (SG&A)\n146.6\n34.7\n111.9\n85.0\n27.9\n57.1"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_000",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.795547,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 745,
+          "chunk_index": 0,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q\n\nTable of Contents\nFinancial condition:\nRefer to the section entitled Financial Condition and Liquidity later in MD&A for a discussion of items impacting cash flows.\nIn November 2018, 3Ms Board of Directors replaced the Companys February 2016 repurchase program with a new repurchase program. This new program authorizes the\nrepurchase of up to $10 billion of 3Ms outstanding common stock, with no pre-established end date. In the first six months of 2023, the Company purchased $29 million of its\nown stock, compared to $773 million of stock purchases in the first six months of 2022. As of June 30, 2023, approximately $4.2 billion remained available under the"
+      }
+    ]
+  },
+  {
+    "question_id": "q06",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "How much was 3M's Q2 2023 dividend per share?",
+    "gold_source_id": "3M_2023Q2_10Q",
+    "gold_page": 61,
+    "evidence_quote": "year of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_001",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.839218,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 754,
+          "chunk_index": 1,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "authorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive\nyear of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\nThree months ended\nJune 30,\nSix months ended\nJune 30,\n(Percent of net sales)\n2023\n2022\nChange\n2023\n2022\nChange\nCost of sales\n55.3 %\n58.5 %\n(3.2)%\n56.4 %\n56.6 %\n(0.2)%\nSelling, general and administrative expenses (SG&A)\n146.6\n34.7\n111.9\n85.0\n27.9\n57.1"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3M_2022_10K_p26_para_003",
+        "document_id": "3M_2022_10K",
+        "source": "starter/data/corpus/3M_2022_10K__p26.md",
+        "page": 26,
+        "score": 0.7833,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 26,
+          "year": 2022,
+          "source": "starter/data/corpus/3M_2022_10K__p26.md",
+          "company": "3M",
+          "doc_type": "10K",
+          "char_count": 777,
+          "chunk_index": 3,
+          "document_id": "3M_2022_10K"
+        },
+        "text": "charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost\nmanagement.\nResearch, Development and Related Expenses:\nR&D, measured as a percent of sales, decreased in 2022 when compared to the same period last year. 3M continues to invest in a range of R&D activities from application\ndevelopment, product and manufacturing support, product development and technology development aimed at disruptive innovations.\nGain on Business Divestitures:\nIn the third quarter of 2022, 3M recorded a pre-tax gain of $2.7 billion ($2.7 billion after tax) related to the split-off and combination of its Food Safety business with Neogen\nCorporation. Refer to Note 3 for further details."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_000",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.774782,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 745,
+          "chunk_index": 0,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q\n\nTable of Contents\nFinancial condition:\nRefer to the section entitled Financial Condition and Liquidity later in MD&A for a discussion of items impacting cash flows.\nIn November 2018, 3Ms Board of Directors replaced the Companys February 2016 repurchase program with a new repurchase program. This new program authorizes the\nrepurchase of up to $10 billion of 3Ms outstanding common stock, with no pre-established end date. In the first six months of 2023, the Company purchased $29 million of its\nown stock, compared to $773 million of stock purchases in the first six months of 2022. As of June 30, 2023, approximately $4.2 billion remained available under the"
+      }
+    ]
+  },
+  {
+    "question_id": "q07",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "In February 2023, how many consecutive years of dividend increases did 3M reach?",
+    "gold_source_id": "3M_2023Q2_10Q",
+    "gold_page": 61,
+    "evidence_quote": "authorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive year of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_001",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.818504,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 754,
+          "chunk_index": 1,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "authorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive\nyear of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\nThree months ended\nJune 30,\nSix months ended\nJune 30,\n(Percent of net sales)\n2023\n2022\nChange\n2023\n2022\nChange\nCost of sales\n55.3 %\n58.5 %\n(3.2)%\n56.4 %\n56.6 %\n(0.2)%\nSelling, general and administrative expenses (SG&A)\n146.6\n34.7\n111.9\n85.0\n27.9\n57.1"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "3M_2022_10K_p26_para_003",
+        "document_id": "3M_2022_10K",
+        "source": "starter/data/corpus/3M_2022_10K__p26.md",
+        "page": 26,
+        "score": 0.745015,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 26,
+          "year": 2022,
+          "source": "starter/data/corpus/3M_2022_10K__p26.md",
+          "company": "3M",
+          "doc_type": "10K",
+          "char_count": 777,
+          "chunk_index": 3,
+          "document_id": "3M_2022_10K"
+        },
+        "text": "charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost\nmanagement.\nResearch, Development and Related Expenses:\nR&D, measured as a percent of sales, decreased in 2022 when compared to the same period last year. 3M continues to invest in a range of R&D activities from application\ndevelopment, product and manufacturing support, product development and technology development aimed at disruptive innovations.\nGain on Business Divestitures:\nIn the third quarter of 2022, 3M recorded a pre-tax gain of $2.7 billion ($2.7 billion after tax) related to the split-off and combination of its Food Safety business with Neogen\nCorporation. Refer to Note 3 for further details."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "3M_2023Q2_10Q_p61_para_000",
+        "document_id": "3M_2023Q2_10Q",
+        "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+        "page": 61,
+        "score": 0.733461,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 61,
+          "year": 2023,
+          "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+          "company": "3M",
+          "doc_type": "10Q",
+          "char_count": 745,
+          "chunk_index": 0,
+          "document_id": "3M_2023Q2_10Q"
+        },
+        "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q\n\nTable of Contents\nFinancial condition:\nRefer to the section entitled Financial Condition and Liquidity later in MD&A for a discussion of items impacting cash flows.\nIn November 2018, 3Ms Board of Directors replaced the Companys February 2016 repurchase program with a new repurchase program. This new program authorizes the\nrepurchase of up to $10 billion of 3Ms outstanding common stock, with no pre-established end date. In the first six months of 2023, the Company purchased $29 million of its\nown stock, compared to $773 million of stock purchases in the first six months of 2022. As of June 30, 2023, approximately $4.2 billion remained available under the"
+      }
+    ]
+  },
+  {
+    "question_id": "q08",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "What were Amcor's net trade receivables at June 30, 2020, in USD millions?",
+    "gold_source_id": "AMCOR_2020_10K",
+    "gold_page": 49,
+    "evidence_quote": "Trade receivables, net 1,615.9 1,864.3",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMCOR_2020_10K_p49_para_000",
+        "document_id": "AMCOR_2020_10K",
+        "source": "starter/data/corpus/AMCOR_2020_10K__p49.md",
+        "page": 49,
+        "score": 0.793462,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 49,
+          "year": 2020,
+          "source": "starter/data/corpus/AMCOR_2020_10K__p49.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 586,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2020_10K"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2020_10K\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2020_10K\n\nAmcor plc and Subsidiaries\nConsolidated Balance Sheet\n(in millions)\nAs of June 30,\n2020\n2019\nAssets\nCurrent assets:\nCash and cash equivalents\n$\n742.6\n$\n601.6\nTrade receivables, net\n1,615.9\n1,864.3\nInventories, net\n1,831.9\n1,953.8\nPrepaid expenses and other current assets\n344.3\n374.3\nAssets held for sale\n\n416.1\nTotal current assets\n4,534.7\n5,210.1\nNon-current assets:\nInvestments in affiliated companies\n77.7\n98.9\nProperty, plant and equipment, net\n3,614.8\n3,975.0\nOperating lease assets\n525.3"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMCOR_2023_10K_p51_para_000",
+        "document_id": "AMCOR_2023_10K",
+        "source": "starter/data/corpus/AMCOR_2023_10K__p51.md",
+        "page": 51,
+        "score": 0.768166,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 51,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023_10K__p51.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 553,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2023_10K"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2023_10K\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023_10K\n\nAmcor plc and Subsidiaries\nConsolidated Balance Sheets\n($ in millions, except share and per share data)\nAs of June 30,\n2023\n2022\nAssets\nCurrent assets:\nCash and cash equivalents\n$\n689\n$\n775\nTrade receivables, net of allowance for credit losses of $21 and $25, respectively\n1,875\n1,935\nInventories, net\nRaw materials and supplies\n992\n1,114\nWork in process and finished goods\n1,221\n1,325\nPrepaid expenses and other current assets\n531\n512\nAssets held for sale, net"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_000",
+        "document_id": "AMCOR_2023Q4_EARNINGS",
+        "source": "starter/data/corpus/AMCOR_2023Q4_EARNINGS__p11.md",
+        "page": 11,
+        "score": 0.740342,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 11,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023Q4_EARNINGS__p11.md",
+          "company": "AMCOR",
+          "doc_type": "EARNINGS",
+          "char_count": 775,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2023Q4_EARNINGS"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2023Q4_EARNINGS\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q4_EARNINGS\n\nTwelve Months Ended June 30, 2022\nTwelve Months Ended June 30, 2023\n($ million)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nNet income attributable to Amcor\n\n805\n\n805\n\n805\n\n52.9\n\n1,048\n\n1,048\n\n1,048\n\n70.5\nNet income attributable to non-controlling\ninterests\n\n10\n\n10\n\n10\n\n10\nTax expense\n\n300\n\n300\n\n193\n\n193\nInterest expense, net\n\n135\n\n135\n\n259\n\n259\nDepreciation and amortization\n\n579\n\n569\nEBITDA, EBIT, Net income and EPS\n\n1,829\n\n1,250\n\n805\n\n52.9\n\n2,080\n\n1,510\n\n1,048\n\n70.5\n2019 Bemis Integration Plan\n\n37\n\n37\n\n37\n\n2.5\n\nNet loss on disposals(2)\n\n10\n\n10\n\n10\n\n0.7\n\nImpact of hyperinflation\n\n16\n\n16\n\n16\n\n1.0\n\n24\n\n24\n\n24"
+      }
+    ]
+  },
+  {
+    "question_id": "q09",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "What change to the issuer's obligations did Amcor describe in its July 2022 filing about supplemental indentures?",
+    "gold_source_id": "AMCOR_2022_8K_dated-2022-07-01",
+    "gold_page": 1,
+    "evidence_quote": "Notes and, together with the New 2026 Notes, the New Notes), in each case, relating to the substitution of the Substitute Issuer for the Former Issuer and the assumption by the Substitute Issuer of the covenants of the Former Issuer under the Indentures. As disclosed in the Companys",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_001",
+        "document_id": "AMCOR_2022_8K_dated-2022-07-01",
+        "source": "starter/data/corpus/AMCOR_2022_8K_dated-2022-07-01__p1.md",
+        "page": 1,
+        "score": 0.82597,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 1,
+          "year": 2022,
+          "source": "starter/data/corpus/AMCOR_2022_8K_dated-2022-07-01__p1.md",
+          "company": "AMCOR",
+          "doc_type": "8K",
+          "char_count": 796,
+          "chunk_index": 1,
+          "document_id": "AMCOR_2022_8K_dated-2022-07-01"
+        },
+        "text": "On June 30, 2022, Amcor Finance (USA), Inc. (the Former Issuer) and Amcor Flexibles North America, Inc. (the Substitute Issuer),\neach a wholly-owned subsidiary of Amcor plc (the Company), entered into a (i) Second Supplemental Indenture (the Second Supplemental\nIndenture) with the Trustee (as defined below) with respect to the Indenture, dated as of April 28, 2016 (as amended and/or supplemented to\ndate, the 2016 Indenture and, together with the Second Supplemental Indenture, the 2016 Indenture), among the Former Issuer, the\nguarantors party thereto and Deutsche Bank Trust Company Americas, as trustee (the Trustee), governing the Former Issuers (a) 3.625%\nGuaranteed Senior Notes due 2026 (the 2026 Notes) and (b) 4.500% Guaranteed Senior Notes due 2028 (the 2028 Notes and, together with"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_006",
+        "document_id": "AMCOR_2022_8K_dated-2022-07-01",
+        "source": "starter/data/corpus/AMCOR_2022_8K_dated-2022-07-01__p1.md",
+        "page": 1,
+        "score": 0.779869,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 1,
+          "year": 2022,
+          "source": "starter/data/corpus/AMCOR_2022_8K_dated-2022-07-01__p1.md",
+          "company": "AMCOR",
+          "doc_type": "8K",
+          "char_count": 660,
+          "chunk_index": 6,
+          "document_id": "AMCOR_2022_8K_dated-2022-07-01"
+        },
+        "text": "Supplemental Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK\nFinance PLC and Deutsche Bank Trust Company Americas (incorporated by reference to Exhibit 10.2 to Amcor plcs Current\nReport on Form 8-K, filed on June 17, 2019).\n4.3\n\nForm of 3.625% Guaranteed Senior Notes due 2026 (incorporated by reference to Exhibit 4.8 to Amcor plcs Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.4\n\nForm of 4.500% Guaranteed Senior Notes due 2028 (incorporated by reference to Exhibit 4.9 to Amcor plcs Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.5"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_007",
+        "document_id": "AMCOR_2022_8K_dated-2022-07-01",
+        "source": "starter/data/corpus/AMCOR_2022_8K_dated-2022-07-01__p1.md",
+        "page": 1,
+        "score": 0.778277,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 1,
+          "year": 2022,
+          "source": "starter/data/corpus/AMCOR_2022_8K_dated-2022-07-01__p1.md",
+          "company": "AMCOR",
+          "doc_type": "8K",
+          "char_count": 699,
+          "chunk_index": 7,
+          "document_id": "AMCOR_2022_8K_dated-2022-07-01"
+        },
+        "text": "Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor plc, Amcor Limited, Amcor Flexibles North\nAmerica, Inc. (formerly known as Bemis Company, Inc.) and Amcor UK Finance PLC and Deutsche Bank Trust Company\nAmericas (incorporated by reference to Exhibit 10.4 to Amcor plcs Current Report on Form 8-K, filed on June 17, 2019).\n4.6\n\nSecond Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n4.7\n\nFirst Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n104"
+      }
+    ]
+  },
+  {
+    "question_id": "q10",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "By how much did Amcor's current liabilities decrease from FY2022 to FY2023, in USD millions?",
+    "gold_source_id": "AMCOR_2023_10K",
+    "gold_page": 51,
+    "evidence_quote": "Total current liabilities 4,476 5,103",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMCOR_2023_10K_p51_para_000",
+        "document_id": "AMCOR_2023_10K",
+        "source": "starter/data/corpus/AMCOR_2023_10K__p51.md",
+        "page": 51,
+        "score": 0.791283,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 51,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023_10K__p51.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 553,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2023_10K"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2023_10K\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023_10K\n\nAmcor plc and Subsidiaries\nConsolidated Balance Sheets\n($ in millions, except share and per share data)\nAs of June 30,\n2023\n2022\nAssets\nCurrent assets:\nCash and cash equivalents\n$\n689\n$\n775\nTrade receivables, net of allowance for credit losses of $21 and $25, respectively\n1,875\n1,935\nInventories, net\nRaw materials and supplies\n992\n1,114\nWork in process and finished goods\n1,221\n1,325\nPrepaid expenses and other current assets\n531\n512\nAssets held for sale, net"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMCOR_2023Q2_10Q_p14_para_000",
+        "document_id": "AMCOR_2023Q2_10Q",
+        "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+        "page": 14,
+        "score": 0.78713,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 14,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+          "company": "AMCOR",
+          "doc_type": "10Q",
+          "char_count": 799,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2023Q2_10Q"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2023Q2_10Q\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q2_10Q\n\nNote 6 - Restructuring\nThe Company's restructuring activities in the three and six months ended December 31, 2022 were primarily comprised of restructuring\nactivities related to the Russia-Ukraine conflict and the three and six months ended December 31, 2021 included expenses related to the\nCompany's 2019 plan from the integration of acquired Bemis operations which was substantially completed at the end of fiscal year 2022.\nRestructuring and related expenses, net were $2 million and $10 million during the three months ended December 31, 2022 and 2021, and $3\nmillion and $18 million in the six months ended December 31, 2022 and 2021, respectively, and primarily relate to the Flexibles reportable"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMCOR_2020_10K_p49_para_000",
+        "document_id": "AMCOR_2020_10K",
+        "source": "starter/data/corpus/AMCOR_2020_10K__p49.md",
+        "page": 49,
+        "score": 0.782881,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 49,
+          "year": 2020,
+          "source": "starter/data/corpus/AMCOR_2020_10K__p49.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 586,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2020_10K"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2020_10K\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2020_10K\n\nAmcor plc and Subsidiaries\nConsolidated Balance Sheet\n(in millions)\nAs of June 30,\n2020\n2019\nAssets\nCurrent assets:\nCash and cash equivalents\n$\n742.6\n$\n601.6\nTrade receivables, net\n1,615.9\n1,864.3\nInventories, net\n1,831.9\n1,953.8\nPrepaid expenses and other current assets\n344.3\n374.3\nAssets held for sale\n\n416.1\nTotal current assets\n4,534.7\n5,210.1\nNon-current assets:\nInvestments in affiliated companies\n77.7\n98.9\nProperty, plant and equipment, net\n3,614.8\n3,975.0\nOperating lease assets\n525.3"
+      }
+    ]
+  },
+  {
+    "question_id": "q11",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "Which facility in China did Amcor acquire in March 2023, and what was the purchase consideration?",
+    "gold_source_id": "AMCOR_2023_10K",
+    "gold_page": 63,
+    "evidence_quote": "On March 17, 2023, the Company completed the acquisition of 100% equity interest in a medical device packaging manufacturing site in Shanghai, China. The purchase consideration of $60 million is subject to customary post-closing adjustments. The consideration includes contingent consideration of $20 million, to be earned and paid in cash over the three years following the acquisition date, subject to meeting",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMCOR_2023_10K_p63_para_002",
+        "document_id": "AMCOR_2023_10K",
+        "source": "starter/data/corpus/AMCOR_2023_10K__p63.md",
+        "page": 63,
+        "score": 0.747013,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 63,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023_10K__p63.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 701,
+          "chunk_index": 2,
+          "document_id": "AMCOR_2023_10K"
+        },
+        "text": "On March 17, 2023, the Company completed the acquisition of 100% equity interest in a medical device packaging manufacturing site in\nShanghai, China. The purchase consideration of $60 million is subject to customary post-closing adjustments. The consideration includes\ncontingent consideration of $20 million, to be earned and paid in cash over the three years following the acquisition date, subject to meeting\ncertain performance targets. The acquisition is part of the Company's Flexibles reportable segment and resulted in the recognition of acquired\nidentifiable net assets of $21 million and goodwill of $39 million. Goodwill is not deductible for tax purposes. The fair values of the contingent"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMCOR_2023Q2_10Q_p14_para_000",
+        "document_id": "AMCOR_2023Q2_10Q",
+        "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+        "page": 14,
+        "score": 0.702976,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 14,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+          "company": "AMCOR",
+          "doc_type": "10Q",
+          "char_count": 799,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2023Q2_10Q"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2023Q2_10Q\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q2_10Q\n\nNote 6 - Restructuring\nThe Company's restructuring activities in the three and six months ended December 31, 2022 were primarily comprised of restructuring\nactivities related to the Russia-Ukraine conflict and the three and six months ended December 31, 2021 included expenses related to the\nCompany's 2019 plan from the integration of acquired Bemis operations which was substantially completed at the end of fiscal year 2022.\nRestructuring and related expenses, net were $2 million and $10 million during the three months ended December 31, 2022 and 2021, and $3\nmillion and $18 million in the six months ended December 31, 2022 and 2021, respectively, and primarily relate to the Flexibles reportable"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMCOR_2023_10K_p4_para_001",
+        "document_id": "AMCOR_2023_10K",
+        "source": "starter/data/corpus/AMCOR_2023_10K__p4.md",
+        "page": 4,
+        "score": 0.689706,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 4,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023_10K__p4.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 716,
+          "chunk_index": 1,
+          "document_id": "AMCOR_2023_10K"
+        },
+        "text": "PART I\nItem 1. - Business\nThe Company\nAmcor plc (ARBN 630 385 278) is a public limited company incorporated under the Laws of the Bailiwick of Jersey. Our history dates back\nmore than 150 years, with origins in both Australia and the USA. Today, we are a global leader in developing and producing responsible\npackaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products. Our innovation excellence and global\npackaging expertise enables us to solve packaging challenges around the world every day, producing packaging that is more functional,\nappealing, and cost effective for our customers and their consumers and importantly, more sustainable for the environment.\nSustainability"
+      }
+    ]
+  },
+  {
+    "question_id": "q12",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "Name the customer industries explicitly listed in Amcor's description of its packaging business.",
+    "gold_source_id": "AMCOR_2023_10K",
+    "gold_page": 4,
+    "evidence_quote": "more than 150 years, with origins in both Australia and the USA. Today, we are a global leader in developing and producing responsible packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products. Our innovation excellence and global",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMCOR_2023_10K_p4_para_001",
+        "document_id": "AMCOR_2023_10K",
+        "source": "starter/data/corpus/AMCOR_2023_10K__p4.md",
+        "page": 4,
+        "score": 0.859393,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 4,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023_10K__p4.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 716,
+          "chunk_index": 1,
+          "document_id": "AMCOR_2023_10K"
+        },
+        "text": "PART I\nItem 1. - Business\nThe Company\nAmcor plc (ARBN 630 385 278) is a public limited company incorporated under the Laws of the Bailiwick of Jersey. Our history dates back\nmore than 150 years, with origins in both Australia and the USA. Today, we are a global leader in developing and producing responsible\npackaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products. Our innovation excellence and global\npackaging expertise enables us to solve packaging challenges around the world every day, producing packaging that is more functional,\nappealing, and cost effective for our customers and their consumers and importantly, more sustainable for the environment.\nSustainability"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMCOR_2023_10K_p4_para_002",
+        "document_id": "AMCOR_2023_10K",
+        "source": "starter/data/corpus/AMCOR_2023_10K__p4.md",
+        "page": 4,
+        "score": 0.790708,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 4,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023_10K__p4.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 706,
+          "chunk_index": 2,
+          "document_id": "AMCOR_2023_10K"
+        },
+        "text": "Sustainability is central to our business and one of our most exciting opportunities for growth. Working daily to embed sustainability deeper\ninto everything we do, Amcor has been a leader in the industry in promoting sustainability. We aspire to improve the quality of lives, protect\necosystems, and preserve natural resources for future generations by offering a unique range of responsible packaging solutions, leveraging our\nglobal scale, reach, and expertise to meet our customers growing sustainability expectations. In January 2018, we became the worlds first\npackaging company to pledge that all our packaging would be designed to be recycled, compostable, or reusable by 2025 and also committed to"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_007",
+        "document_id": "AMCOR_2022_8K_dated-2022-07-01",
+        "source": "starter/data/corpus/AMCOR_2022_8K_dated-2022-07-01__p1.md",
+        "page": 1,
+        "score": 0.734536,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 1,
+          "year": 2022,
+          "source": "starter/data/corpus/AMCOR_2022_8K_dated-2022-07-01__p1.md",
+          "company": "AMCOR",
+          "doc_type": "8K",
+          "char_count": 699,
+          "chunk_index": 7,
+          "document_id": "AMCOR_2022_8K_dated-2022-07-01"
+        },
+        "text": "Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor plc, Amcor Limited, Amcor Flexibles North\nAmerica, Inc. (formerly known as Bemis Company, Inc.) and Amcor UK Finance PLC and Deutsche Bank Trust Company\nAmericas (incorporated by reference to Exhibit 10.4 to Amcor plcs Current Report on Form 8-K, filed on June 17, 2019).\n4.6\n\nSecond Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n4.7\n\nFirst Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n104"
+      }
+    ]
+  },
+  {
+    "question_id": "q13",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "At the end of Amcor's FY2023 second quarter, what proportion of the restructuring liability was for employee costs?",
+    "gold_source_id": "AMCOR_2023Q2_10Q",
+    "gold_page": 14,
+    "evidence_quote": "Employee Costs Fixed Asset Related Costs Other Costs Total Restructuring Costs",
+    "additional_evidence_quotes": [
+      "Liability balance at December 31, 2022 $ 81 $ 2 $ 10 $ 93"
+    ],
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMCOR_2023Q2_10Q_p14_para_000",
+        "document_id": "AMCOR_2023Q2_10Q",
+        "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+        "page": 14,
+        "score": 0.761666,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 14,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+          "company": "AMCOR",
+          "doc_type": "10Q",
+          "char_count": 799,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2023Q2_10Q"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2023Q2_10Q\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q2_10Q\n\nNote 6 - Restructuring\nThe Company's restructuring activities in the three and six months ended December 31, 2022 were primarily comprised of restructuring\nactivities related to the Russia-Ukraine conflict and the three and six months ended December 31, 2021 included expenses related to the\nCompany's 2019 plan from the integration of acquired Bemis operations which was substantially completed at the end of fiscal year 2022.\nRestructuring and related expenses, net were $2 million and $10 million during the three months ended December 31, 2022 and 2021, and $3\nmillion and $18 million in the six months ended December 31, 2022 and 2021, respectively, and primarily relate to the Flexibles reportable"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMCOR_2023Q2_10Q_p14_para_002",
+        "document_id": "AMCOR_2023Q2_10Q",
+        "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+        "page": 14,
+        "score": 0.737674,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 14,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+          "company": "AMCOR",
+          "doc_type": "10Q",
+          "char_count": 422,
+          "chunk_index": 2,
+          "document_id": "AMCOR_2023Q2_10Q"
+        },
+        "text": "(2)\nLiability balance at December 31, 2022\n$\n81\n$\n2\n$\n10\n$\n93\nThe Company expects the majority of the liability for employee, fixed assets related, and other costs as of December 31, 2022 to be paid\nwithin the next twelve months. The accruals related to restructuring activities have been recorded on the unaudited condensed consolidated\nbalance sheets under other current liabilities and other non-current liabilities.\n15"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMCOR_2023_10K_p51_para_002",
+        "document_id": "AMCOR_2023_10K",
+        "source": "starter/data/corpus/AMCOR_2023_10K__p51.md",
+        "page": 51,
+        "score": 0.727884,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 51,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023_10K__p51.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 793,
+          "chunk_index": 2,
+          "document_id": "AMCOR_2023_10K"
+        },
+        "text": "65\nTotal current liabilities\n4,476\n5,103\nNon-current liabilities:\nLong-term debt, less current portion\n6,653\n6,340\nOperating lease liabilities\n463\n493\nDeferred tax liabilities\n616\n677\nEmployee benefit obligations\n224\n201\nOther non-current liabilities\n481\n471\nTotal non-current liabilities\n8,437\n8,182\nTotal liabilities\n$\n12,913\n$\n13,285\nCommitments and contingencies (See Note 20)\nShareholders' Equity\nAmcor plc shareholders equity:\nOrdinary shares ($0.01 par value):\nAuthorized (9,000 million shares)\nIssued (1,448 and 1,489 million shares, respectively)\n$\n14\n$\n15\nAdditional paid-in capital\n4,021\n4,431\nRetained earnings\n865\n534\nAccumulated other comprehensive loss\n(862)\n(880)\nTreasury shares (1 and 2 million shares, respectively)\n(12)\n(18)\nTotal Amcor plc shareholders' equity\n4,026\n4,082"
+      }
+    ]
+  },
+  {
+    "question_id": "q14",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "How did Amcor's adjusted EBITDA change in FY2023 versus FY2022, in USD millions?",
+    "gold_source_id": "AMCOR_2023Q4_EARNINGS",
+    "gold_page": 11,
+    "evidence_quote": "Twelve Months Ended June 30, 2022 Twelve Months Ended June 30, 2023 ($ million)",
+    "additional_evidence_quotes": [
+      "Adjusted EBITDA 2,117 2,018"
+    ],
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_000",
+        "document_id": "AMCOR_2023Q4_EARNINGS",
+        "source": "starter/data/corpus/AMCOR_2023Q4_EARNINGS__p11.md",
+        "page": 11,
+        "score": 0.7554,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 11,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023Q4_EARNINGS__p11.md",
+          "company": "AMCOR",
+          "doc_type": "EARNINGS",
+          "char_count": 775,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2023Q4_EARNINGS"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2023Q4_EARNINGS\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q4_EARNINGS\n\nTwelve Months Ended June 30, 2022\nTwelve Months Ended June 30, 2023\n($ million)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nNet income attributable to Amcor\n\n805\n\n805\n\n805\n\n52.9\n\n1,048\n\n1,048\n\n1,048\n\n70.5\nNet income attributable to non-controlling\ninterests\n\n10\n\n10\n\n10\n\n10\nTax expense\n\n300\n\n300\n\n193\n\n193\nInterest expense, net\n\n135\n\n135\n\n259\n\n259\nDepreciation and amortization\n\n579\n\n569\nEBITDA, EBIT, Net income and EPS\n\n1,829\n\n1,250\n\n805\n\n52.9\n\n2,080\n\n1,510\n\n1,048\n\n70.5\n2019 Bemis Integration Plan\n\n37\n\n37\n\n37\n\n2.5\n\nNet loss on disposals(2)\n\n10\n\n10\n\n10\n\n0.7\n\nImpact of hyperinflation\n\n16\n\n16\n\n16\n\n1.0\n\n24\n\n24\n\n24"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "BESTBUY_2024Q2_10Q_p19_para_006",
+        "document_id": "BESTBUY_2024Q2_10Q",
+        "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+        "page": 19,
+        "score": 0.688674,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 19,
+          "year": 2024,
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+          "company": "BESTBUY",
+          "doc_type": "10Q",
+          "char_count": 379,
+          "chunk_index": 6,
+          "document_id": "BESTBUY_2024Q2_10Q"
+        },
+        "text": "Cash and cash equivalents were as follows ($ in millions):\n\nJuly 29, 2023\n\nJanuary 28, 2023\n\nJuly 30, 2022\nCash and cash equivalents\n\n$\n1,093 $\n1,874 $\n840\n\nThe decrease in cash and cash equivalents from January 28, 2023, was primarily due to the timing and volume of inventory purchases and payments, dividend\npayments and capital expenditures, partially offset by earnings.\n\n20"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMCOR_2023Q2_10Q_p14_para_000",
+        "document_id": "AMCOR_2023Q2_10Q",
+        "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+        "page": 14,
+        "score": 0.687524,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 14,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+          "company": "AMCOR",
+          "doc_type": "10Q",
+          "char_count": 799,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2023Q2_10Q"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2023Q2_10Q\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q2_10Q\n\nNote 6 - Restructuring\nThe Company's restructuring activities in the three and six months ended December 31, 2022 were primarily comprised of restructuring\nactivities related to the Russia-Ukraine conflict and the three and six months ended December 31, 2021 included expenses related to the\nCompany's 2019 plan from the integration of acquired Bemis operations which was substantially completed at the end of fiscal year 2022.\nRestructuring and related expenses, net were $2 million and $10 million during the three months ended December 31, 2022 and 2021, and $3\nmillion and $18 million in the six months ended December 31, 2022 and 2021, respectively, and primarily relate to the Flexibles reportable"
+      }
+    ]
+  },
+  {
+    "question_id": "q15",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "What was the net cash consideration Amcor received for disposing of its Russian business, excluding disposed cash and net-settled items?",
+    "gold_source_id": "AMCOR_2023_10K",
+    "gold_page": 63,
+    "evidence_quote": "On December 23, 2022, the Company completed the sale of its Russian business after receiving all necessary regulatory approvals and cash proceeds, including receipt of closing cash balances. The sale follows the Companys previously announced plan to pursue the orderly sale of its Russian business. The total net cash consideration received, excluding disposed cash and items settled net, was $365 million and resulted in a pre-tax net gain of $215 million. The carrying value of the Russian business had previously been impaired by $90 million in the quarter ended",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMCOR_2023_10K_p63_para_005",
+        "document_id": "AMCOR_2023_10K",
+        "source": "starter/data/corpus/AMCOR_2023_10K__p63.md",
+        "page": 63,
+        "score": 0.795704,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 63,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023_10K__p63.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 740,
+          "chunk_index": 5,
+          "document_id": "AMCOR_2023_10K"
+        },
+        "text": "these acquisitions has not been presented, as the effect of the acquisitions on the Company's consolidated financial statements was not material.\nDisposal of Russian business\nOn December 23, 2022, the Company completed the sale of its Russian business after receiving all necessary regulatory approvals and cash\nproceeds, including receipt of closing cash balances. The sale follows the Companys previously announced plan to pursue the orderly sale of its\nRussian business. The total net cash consideration received, excluding disposed cash and items settled net, was $365 million and resulted in a\npre-tax net gain of $215 million. The carrying value of the Russian business had previously been impaired by $90 million in the quarter ended"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMCOR_2023_10K_p63_para_006",
+        "document_id": "AMCOR_2023_10K",
+        "source": "starter/data/corpus/AMCOR_2023_10K__p63.md",
+        "page": 63,
+        "score": 0.769042,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 63,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023_10K__p63.md",
+          "company": "AMCOR",
+          "doc_type": "10K",
+          "char_count": 800,
+          "chunk_index": 6,
+          "document_id": "AMCOR_2023_10K"
+        },
+        "text": "June 30, 2022. The impairment charge was based on the Company's best estimate of the fair value of its Russian business, which considered the\nwide range of indicative bids received and uncertain regulatory environment. The net pre-tax gain on disposal of the Russian business has been\nrecorded as restructuring, impairment, and other related activities, net within the consolidated statements of income. The Russian business had a\nnet carrying value of $252 million, including allocated goodwill of $46 million and accumulated other comprehensive losses of $73 million,\nprimarily attributed to foreign currency translation adjustments.\nYear ended June 30, 2022\nDuring the third quarter of fiscal year 2022, the Company completed the disposal of non-core assets in the Flexibles reporting segment. The"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMCOR_2023Q2_10Q_p14_para_000",
+        "document_id": "AMCOR_2023Q2_10Q",
+        "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+        "page": 14,
+        "score": 0.768552,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 14,
+          "year": 2023,
+          "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+          "company": "AMCOR",
+          "doc_type": "10Q",
+          "char_count": 799,
+          "chunk_index": 0,
+          "document_id": "AMCOR_2023Q2_10Q"
+        },
+        "text": "# AMCOR Financial Filing: AMCOR_2023Q2_10Q\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q2_10Q\n\nNote 6 - Restructuring\nThe Company's restructuring activities in the three and six months ended December 31, 2022 were primarily comprised of restructuring\nactivities related to the Russia-Ukraine conflict and the three and six months ended December 31, 2021 included expenses related to the\nCompany's 2019 plan from the integration of acquired Bemis operations which was substantially completed at the end of fiscal year 2022.\nRestructuring and related expenses, net were $2 million and $10 million during the three months ended December 31, 2022 and 2021, and $3\nmillion and $18 million in the six months ended December 31, 2022 and 2021, respectively, and primarily relate to the Flexibles reportable"
+      }
+    ]
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "What was AMD's FY2022 gross margin, and what was the main reason for the decline from FY2021?",
+    "gold_source_id": "AMD_2022_10K",
+    "gold_page": 42,
+    "evidence_quote": "driven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022, was 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMD_2022_10K_p42_para_001",
+        "document_id": "AMD_2022_10K",
+        "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+        "page": 42,
+        "score": 0.711811,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 42,
+          "year": 2022,
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "company": "AMD",
+          "doc_type": "10K",
+          "char_count": 695,
+          "chunk_index": 1,
+          "document_id": "AMD_2022_10K"
+        },
+        "text": "(collectively, us, our or AMD), including a discussion of our results of operations for 2022 compared to 2021, an analysis of changes in our financial\ncondition and a discussion of our off-balance sheet arrangements. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 that are\nnot included in this Form 10-K can be found in Managements Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of\nour Annual Report on Form 10-K for the fiscal year ended December 25, 2021.\nOverview\n2022 was a transformative year for AMD as we took several major steps that scaled and reshaped our business. In February 2022, we completed our strategic"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMD_2022_10K_p42_para_004",
+        "document_id": "AMD_2022_10K",
+        "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+        "page": 42,
+        "score": 0.708296,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 42,
+          "year": 2022,
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "company": "AMD",
+          "doc_type": "10K",
+          "char_count": 778,
+          "chunk_index": 4,
+          "document_id": "AMD_2022_10K"
+        },
+        "text": "primarily due to higher semi-custom product sales, and a significant increase in Embedded segment revenue from the prior year period driven by the inclusion\nof Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue primarily due to lower processor shipments\ndriven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022,\nwas 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.\nOperating income for 2022 was $1.3 billion compared to operating income of $3.6 billion for 2021. The decrease in operating income was primarily driven by"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMD_2022_10K_p42_para_000",
+        "document_id": "AMD_2022_10K",
+        "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+        "page": 42,
+        "score": 0.669576,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 42,
+          "year": 2022,
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "company": "AMD",
+          "doc_type": "10K",
+          "char_count": 789,
+          "chunk_index": 0,
+          "document_id": "AMD_2022_10K"
+        },
+        "text": "# AMD Financial Filing: AMD_2022_10K\n\n**Company**: AMD\n\n**Document**: AMD_2022_10K\n\nTable of Contents\nITEM 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS\nThe following discussion should be read in conjunction with the consolidated financial statements as of December 31, 2022 and December 25, 2021 and for\neach of the three years in the period ended December 31, 2022 and related notes, which are included in this Annual Report on Form 10-K as well as with the\nother sections of this Annual Report on Form 10-K, Part II, Item 8: Financial Statements and Supplementary Data.\nIntroduction\nIn this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries"
+      }
+    ]
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "What primarily drove the 7.6% growth in Best Buy's comparable services sales in fiscal Q2 2024?",
+    "gold_source_id": "BESTBUY_2024Q2_10Q",
+    "gold_page": 17,
+    "evidence_quote": "Services: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.",
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_000",
+        "document_id": "BESTBUY_2024Q2_10Q",
+        "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+        "page": 17,
+        "score": 0.797135,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 17,
+          "year": 2024,
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+          "company": "BESTBUY",
+          "doc_type": "10Q",
+          "char_count": 744,
+          "chunk_index": 0,
+          "document_id": "BESTBUY_2024Q2_10Q"
+        },
+        "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nNotable comparable sales changes by revenue category were as follows:\n\nComputing and Mobile Phones: The 6.4% comparable sales decline was driven primarily by computing, mobile phones and tablets.\n\nConsumer Electronics: The 5.7% comparable sales decline was driven primarily by home theater, partially offset by comparable sales growth in\nheadphones and portable speakers.\n\nAppliances: The 16.1% comparable sales decline was driven primarily by large appliances.\n\nEntertainment: The 9.0% comparable sales growth was driven primarily by gaming, partially offset by comparable sales declines in virtual reality and\ndrones."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_001",
+        "document_id": "BESTBUY_2024Q2_10Q",
+        "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+        "page": 17,
+        "score": 0.746812,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 17,
+          "year": 2024,
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+          "company": "BESTBUY",
+          "doc_type": "10Q",
+          "char_count": 494,
+          "chunk_index": 1,
+          "document_id": "BESTBUY_2024Q2_10Q"
+        },
+        "text": "Services: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.\n\nOur gross profit rate increased in the second quarter of fiscal 2024, primarily due to favorable product margin rates, improved financial performance from our\nmembership offerings, which included higher services margin rates and reduced costs associated with program changes made to our free membership offering,\nand an improved gross profit rate from our Health initiatives."
+      },
+      {
+        "rank": 3,
+        "chunk_id": "BESTBUY_2024Q2_10Q_p16_para_000",
+        "document_id": "BESTBUY_2024Q2_10Q",
+        "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p16.md",
+        "page": 16,
+        "score": 0.71658,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 16,
+          "year": 2024,
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p16.md",
+          "company": "BESTBUY",
+          "doc_type": "10Q",
+          "char_count": 665,
+          "chunk_index": 0,
+          "document_id": "BESTBUY_2024Q2_10Q"
+        },
+        "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nSegment Performance Summary\n\nDomestic Segment\n\nSelected financial data for the Domestic segment was as follows ($ in millions):\n\nThree Months Ended\n\nSix Months Ended\n\nJuly 29, 2023\n\nJuly 30, 2022\n\nJuly 29, 2023\n\nJuly 30, 2022\nRevenue\n$\n8,890\n$\n9,569\n$\n17,691\n$\n19,463\nRevenue % change\n\n(7.1)%\n(13.1)%\n(9.1)%\n(10.9)%\nComparable sales % change(1)\n\n(6.3)%\n(12.7)%\n(8.4)%\n(10.6)%\nGross profit\n$\n2,052\n$\n2,109\n$\n4,044\n$\n4,279\nGross profit as a % of revenue\n\n23.1 %\n22.0 %\n22.9 %\n22.0 %\nSG&A\n$\n1,730\n$\n1,732\n$\n3,440\n$\n3,473\nSG&A as a % of revenue"
+      }
+    ]
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "type": "source_evidence",
+    "question": "Between which months and years were Boeing 787 deliveries suspended because of production quality issues?",
+    "gold_source_id": "BOEING_2022_10K",
+    "gold_page": 8,
+    "evidence_quote": "In addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries, including a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "BOEING_2022_10K_p8_para_005",
+        "document_id": "BOEING_2022_10K",
+        "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+        "page": 8,
+        "score": 0.843386,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 8,
+          "year": 2022,
+          "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+          "company": "BOEING",
+          "doc_type": "10K",
+          "char_count": 687,
+          "chunk_index": 5,
+          "document_id": "BOEING_2022_10K"
+        },
+        "text": "In addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries,\nincluding a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787\naircraft. A number of our customers have contractual remedies, including compensation for late deliveries or rights to reject individual airplane\ndeliveries based on delivery delays. Delays on the 737, 777X and 787 programs have resulted in, and may continue to result in, customers\nhaving the right to terminate orders, be compensated for late deliveries and/or substitute orders for other Boeing aircraft."
+      },
+      {
+        "rank": 2,
+        "chunk_id": "BOEING_2022_10K_p8_para_006",
+        "document_id": "BOEING_2022_10K",
+        "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+        "page": 8,
+        "score": 0.752428,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 8,
+          "year": 2022,
+          "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+          "company": "BOEING",
+          "doc_type": "10K",
+          "char_count": 689,
+          "chunk_index": 6,
+          "document_id": "BOEING_2022_10K"
+        },
+        "text": "We must minimize disruption caused by production changes, achieve operational stability and implement productivity improvements in order to\nmeet customer demand and maintain our profitability. We have previously announced plans to adjust production rates on several of our\ncommercial aircraft programs. The 787 program is currently producing at low rates and we expect to gradually increase to 5 per month in 2023.\nProduction of the 777X is currently paused and is expected to resume in 2023. The 737 program has experienced operational and supply chain\nchallenges stabilizing production at 31 per month. We plan to gradually increase 737 production rates based on market demand and supply"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "BOEING_2022_10K_p7_para_004",
+        "document_id": "BOEING_2022_10K",
+        "source": "starter/data/corpus/BOEING_2022_10K__p7.md",
+        "page": 7,
+        "score": 0.631609,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 7,
+          "year": 2022,
+          "source": "starter/data/corpus/BOEING_2022_10K__p7.md",
+          "company": "BOEING",
+          "doc_type": "10K",
+          "char_count": 680,
+          "chunk_index": 4,
+          "document_id": "BOEING_2022_10K"
+        },
+        "text": "competitive. Significant deterioration in the global economic environment, the airline industry generally or the financial stability of one or more of\nour major customers could result in fewer new orders for aircraft or services, or could cause customers to seek to postpone or cancel contractual\norders and/or payments to us, which could result in lower revenues, profitability and cash flows and a reduction in our contractual backlog. In\naddition, because our commercial aircraft backlog consists of aircraft scheduled for delivery over a period of several years, any of these\nmacroeconomic, industry or customer impacts could unexpectedly affect deliveries over a long period."
+      }
+    ]
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "type": "source_evidence",
+    "question": "How much did American Express's net income change from 2021 to 2022, in USD millions?",
+    "gold_source_id": "AMERICANEXPRESS_2022_10K",
+    "gold_page": 43,
+    "evidence_quote": "Net income 7,514 8,060",
+    "alternate_evidence": [
+      {
+        "gold_source_id": "AMERICANEXPRESS_2022_10K",
+        "gold_page": 95,
+        "evidence_quote": "Net income $ 7,514 $ 8,060"
+      }
+    ],
+    "applied_filter": null,
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "AMERICANEXPRESS_2022_10K_p43_para_000",
+        "document_id": "AMERICANEXPRESS_2022_10K",
+        "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
+        "page": 43,
+        "score": 0.727037,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 43,
+          "year": 2022,
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
+          "company": "AMERICANEXPRESS",
+          "doc_type": "10K",
+          "char_count": 132,
+          "chunk_index": 0,
+          "document_id": "AMERICANEXPRESS_2022_10K"
+        },
+        "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMERICANEXPRESS_2022_10K_p154_para_000",
+        "document_id": "AMERICANEXPRESS_2022_10K",
+        "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p154.md",
+        "page": 154,
+        "score": 0.727037,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 154,
+          "year": 2022,
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p154.md",
+          "company": "AMERICANEXPRESS",
+          "doc_type": "10K",
+          "char_count": 132,
+          "chunk_index": 0,
+          "document_id": "AMERICANEXPRESS_2022_10K"
+        },
+        "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "AMERICANEXPRESS_2022_10K_p44_para_000",
+        "document_id": "AMERICANEXPRESS_2022_10K",
+        "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p44.md",
+        "page": 44,
+        "score": 0.727037,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 44,
+          "year": 2022,
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p44.md",
+          "company": "AMERICANEXPRESS",
+          "doc_type": "10K",
+          "char_count": 132,
+          "chunk_index": 0,
+          "document_id": "AMERICANEXPRESS_2022_10K"
+        },
+        "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+      }
+    ]
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "type": "source_evidence",
+    "question": "What net earnings figure starts Best Buy's consolidated operating cash flow reconciliation for FY2023, in USD millions?",
+    "gold_source_id": "BESTBUY_2023_10K",
+    "gold_page": 41,
+    "evidence_quote": "Net earnings $ 1,419",
+    "applied_filter": null,
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "page_hit_at_3": true,
+    "filter_compliant": null,
+    "top_3": [
+      {
+        "rank": 1,
+        "chunk_id": "BESTBUY_2023_10K_p41_para_000",
+        "document_id": "BESTBUY_2023_10K",
+        "source": "starter/data/corpus/BESTBUY_2023_10K__p41.md",
+        "page": 41,
+        "score": 0.794212,
+        "evidence_hit": true,
+        "page_match": true,
+        "metadata": {
+          "page": 41,
+          "year": 2023,
+          "source": "starter/data/corpus/BESTBUY_2023_10K__p41.md",
+          "company": "BESTBUY",
+          "doc_type": "10K",
+          "char_count": 800,
+          "chunk_index": 0,
+          "document_id": "BESTBUY_2023_10K"
+        },
+        "text": "# BEST_BUY Financial Filing: BESTBUY_2023_10K\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2023_10K\n\nConsolidated Statements of Cash Flows\n$ in millions\n\nFiscal Years Ended\nJanuary 28, 2023\n\nJanuary 29, 2022\n\nJanuary 30, 2021\nOperating activities\n\nNet earnings\n$\n1,419\n\n$\n2,454\n\n$\n1,798\n\nAdjustments to reconcile net earnings to total cash provided by operating activities:\n\nDepreciation and amortization\n\n918\n\n869\n\n839\nRestructuring charges\n\n147\n\n(34)\n\n254\nStock-based compensation\n\n138\n\n141\n\n135\nDeferred income taxes\n\n51\n\n14\n\n(36)\nOther, net\n\n12\n\n11\n\n3\nChanges in operating assets and liabilities, net of acquired assets and liabilities:\n\nReceivables\n\n(103)\n\n17\n\n73\nMerchandise inventories\n\n809\n\n(328)\n\n(435)\nOther assets\n\n(21)\n\n(14)\n\n(51)\nAccounts payable\n\n(1,099)\n\n(201)\n\n1,676\nIncome taxes\n\n36"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "BESTBUY_2024Q2_10Q_p19_para_000",
+        "document_id": "BESTBUY_2024Q2_10Q",
+        "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+        "page": 19,
+        "score": 0.761784,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 19,
+          "year": 2024,
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+          "company": "BESTBUY",
+          "doc_type": "10Q",
+          "char_count": 794,
+          "chunk_index": 0,
+          "document_id": "BESTBUY_2024Q2_10Q"
+        },
+        "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nConsolidated Non-GAAP Financial Measures\n\nReconciliations of operating income, effective tax rate and diluted EPS (GAAP financial measures) to non-GAAP operating income, non-GAAP effective tax rate\nand non-GAAP diluted EPS (non-GAAP financial measures) were as follows ($ in millions, except per share amounts):\n\nThree Months Ended\n\nSix Months Ended\n\nJuly 29, 2023\n\nJuly 30, 2022\n\nJuly 29, 2023\n\nJuly 30, 2022\nOperating income\n$\n348\n$\n371\n$\n659\n$\n833\n% of revenue\n\n3.6 %\n3.6 %\n3.5 %\n4.0 %\nIntangible asset amortization(1)\n\n21\n\n22\n\n41\n\n44\nRestructuring charges(2)\n\n(7)\n\n34\n\n(16)\n\n35\nNon-GAAP operating income\n$\n362\n$\n427\n$\n684\n$\n912\n% of revenue\n\n3.8 %\n4.1 %\n3.6 %\n4.3 %"
+      },
+      {
+        "rank": 3,
+        "chunk_id": "BESTBUY_2017_10K_p55_para_000",
+        "document_id": "BESTBUY_2017_10K",
+        "source": "starter/data/corpus/BESTBUY_2017_10K__p55.md",
+        "page": 55,
+        "score": 0.736115,
+        "evidence_hit": false,
+        "page_match": false,
+        "metadata": {
+          "page": 55,
+          "year": 2017,
+          "source": "starter/data/corpus/BESTBUY_2017_10K__p55.md",
+          "company": "BESTBUY",
+          "doc_type": "10K",
+          "char_count": 785,
+          "chunk_index": 0,
+          "document_id": "BESTBUY_2017_10K"
+        },
+        "text": "# BEST_BUY Financial Filing: BESTBUY_2017_10K\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2017_10K\n\nTable of Contents\nConsolidated Statements of Earnings\n$ and shares in millions, except per share amounts\nFiscal Years Ended\n\nJanuary 28, 2017\nJanuary 30, 2016\nJanuary 31, 2015\nRevenue\n$\n39,403\n$\n39,528\n$\n40,339\nCostofgoodssold\n\n29,963\n\n30,334\n\n31,292\nRestructuringchargescostofgoodssold\n\n3\n\nGrossprofit\n\n9,440\n\n9,191\n\n9,047\nSelling,generalandadministrativeexpenses\n\n7,547\n\n7,618\n\n7,592\nRestructuringcharges\n\n39\n\n198\n\n5\nOperatingincome\n\n1,854\n\n1,375\n\n1,450\nOtherincome(expense)\n\nGainonsaleofinvestments\n\n3\n\n2\n\n13\nInvestmentincomeandother\n\n31\n\n13\n\n14\nInterestexpense\n\n(72)\n(80)\n(90)\nEarningsfromcontinuingoperationsbeforeincometaxexpense\n\n1,816\n\n1,310\n\n1,387\nIncometaxexpense\n\n609\n\n503"
+      }
+    ]
+  }
+]

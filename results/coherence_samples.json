@@ -1,0 +1,792 @@
+[
+  {
+    "document_id": "3M_2018_10K",
+    "page": 57,
+    "source": "starter/data/corpus/3M_2018_10K__p57.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "3M_2018_10K_p57_fixed_000",
+          "text": "# 3M Financial Filing: 3M_2018_10K\n\n**Company**: 3M\n\n**Document**: 3M_2018_10K\n\nTable of Contents\n3M Company and Subsidiaries\nConsolidated Balance Shee t\nAt December 31\n\nDecember 31,\n\nDecember 31,\n\n(Dollars in millions, except per share amount)\n\n2018\n\n2017\n\nAssets\n\nCurrent assets\n\nCash and cash equivalents\n\n$\n2,853\n$\n3,053\nMarketable securities current\n\n380\n\n1,076\nAccounts receivable net of allowances of $95 and $103\n\n5,020\n\n4,911\nInventories\n\nFinished goods\n\n2,120\n\n1,915\nWork in process\n\n1,292"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p57_fixed_001",
+          "text": "nished goods\n\n2,120\n\n1,915\nWork in process\n\n1,292\n\n1,218\nRaw materials and supplies\n\n954\n\n901\nTotal inventories\n\n4,366\n\n4,034\nPrepaids\n\n741\n\n937\nOther current assets\n\n349\n\n266\nTotal current assets\n\n13,709\n\n14,277\nProperty, plant and equipment\n\n24,873\n\n24,914\nLess: Accumulated depreciation\n\n(16,135)\n\n(16,048)\nProperty, plant and equipment net\n\n8,738\n\n8,866\nGoodwill\n\n10,051\n\n10,513\nIntangible assets net\n\n2,657\n\n2,936\nOther assets\n\n1,345\n\n1,395\nTotal assets\n\n$\n36,500\n$\n37,987\nLiabilities\n\nCurrent l"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p57_fixed_002",
+          "text": "l assets\n\n$\n36,500\n$\n37,987\nLiabilities\n\nCurrent liabilities\n\nShort-term borrowings and current portion of long-term debt\n\n$\n1,211\n$\n1,853\nAccounts payable\n\n2,266\n\n1,945\nAccrued payroll\n\n749\n\n870\nAccrued income taxes\n\n243\n\n310\nOther current liabilities\n\n2,775\n\n2,709\nTotal current liabilities\n\n7,244\n\n7,687\n\nLong-term debt\n\n13,411\n\n12,096\nPension and postretirement benefits\n\n2,987\n\n3,620\nOther liabilities\n\n3,010\n\n2,962\nTotal liabilities\n\n$\n26,652\n$\n26,365\nCommitments and contingencies (Note 16)\n\nE"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p57_fixed_003",
+          "text": "26,365\nCommitments and contingencies (Note 16)\n\nEquity\n\n3M Company shareholders equity:\n\nCommon stock par value, $.01 par value\n\n$\n9\n$\n9\nShares outstanding - 2018: 576,575,168\n\nShares outstanding - 2017: 594,884,237\n\nAdditional paid-in capital\n\n5,643\n\n5,352\nRetained earnings\n\n40,636\n\n39,115\nTreasury stock\n\n(29,626)\n\n(25,887)\nAccumulated other comprehensive income (loss)\n\n(6,866)\n\n(7,026)\nTotal 3M Company shareholders equity\n\n9,796\n\n11,563\nNoncontrolling interest\n\n52\n\n59\nTotal equity\n\n$\n9,848\n$"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p57_fixed_004",
+          "text": "trolling interest\n\n52\n\n59\nTotal equity\n\n$\n9,848\n$\n11,622\nTotal liabilities and equity\n\n$\n36,500\n$\n37,987\n\nThe accompanying Notes to Consolidated Financial Statements are an integral part of this statement.\n58"
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "3M_2018_10K_p57_para_000",
+          "text": "# 3M Financial Filing: 3M_2018_10K\n\n**Company**: 3M\n\n**Document**: 3M_2018_10K\n\nTable of Contents\n3M Company and Subsidiaries\nConsolidated Balance Shee t\nAt December 31\n\nDecember 31,\n\nDecember 31,\n\n(Dollars in millions, except per share amount)\n\n2018\n\n2017\n\nAssets\n\nCurrent assets\n\nCash and cash equivalents\n\n$\n2,853\n$\n3,053\nMarketable securities current\n\n380\n\n1,076\nAccounts receivable net of allowances of $95 and $103\n\n5,020\n\n4,911\nInventories\n\nFinished goods\n\n2,120\n\n1,915\nWork in process\n\n1,292\n\n1,218\nRaw materials and supplies\n\n954\n\n901\nTotal inventories\n\n4,366\n\n4,034\nPrepaids\n\n741\n\n937\nOther current assets\n\n349\n\n266\nTotal current assets\n\n13,709\n\n14,277\nProperty, plant and equipment\n\n24,873\n\n24,914\nLess: Accumulated depreciation\n\n(16,135)\n\n(16,048)\nProperty, plant and equipment net\n\n8,738"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p57_para_001",
+          "text": "8,866\nGoodwill\n\n10,051\n\n10,513\nIntangible assets net\n\n2,657\n\n2,936\nOther assets\n\n1,345\n\n1,395\nTotal assets\n\n$\n36,500\n$\n37,987\nLiabilities\n\nCurrent liabilities\n\nShort-term borrowings and current portion of long-term debt\n\n$\n1,211\n$\n1,853\nAccounts payable\n\n2,266\n\n1,945\nAccrued payroll\n\n749\n\n870\nAccrued income taxes\n\n243\n\n310\nOther current liabilities\n\n2,775\n\n2,709\nTotal current liabilities\n\n7,244\n\n7,687\n\nLong-term debt\n\n13,411\n\n12,096\nPension and postretirement benefits\n\n2,987\n\n3,620\nOther liabilities\n\n3,010\n\n2,962\nTotal liabilities\n\n$\n26,652\n$\n26,365\nCommitments and contingencies (Note 16)\n\nEquity\n\n3M Company shareholders equity:\n\nCommon stock par value, $.01 par value\n\n$\n9\n$\n9\nShares outstanding - 2018: 576,575,168\n\nShares outstanding - 2017: 594,884,237\n\nAdditional paid-in capital\n\n5,643"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p57_para_002",
+          "text": "5,352\nRetained earnings\n\n40,636\n\n39,115\nTreasury stock\n\n(29,626)\n\n(25,887)\nAccumulated other comprehensive income (loss)\n\n(6,866)\n\n(7,026)\nTotal 3M Company shareholders equity\n\n9,796\n\n11,563\nNoncontrolling interest\n\n52\n\n59\nTotal equity\n\n$\n9,848\n$\n11,622\nTotal liabilities and equity\n\n$\n36,500\n$\n37,987\n\nThe accompanying Notes to Consolidated Financial Statements are an integral part of this statement.\n58"
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "3M_2018_10K_p57_para_000",
+          "text": "# 3M Financial Filing: 3M_2018_10K\n\n**Company**: 3M\n\n**Document**: 3M_2018_10K\n\nTable of Contents\n3M Company and Subsidiaries\nConsolidated Balance Shee t\nAt December 31\n\nDecember 31,\n\nDecember 31,\n\n(Dollars in millions, except per share amount)\n\n2018\n\n2017\n\nAssets\n\nCurrent assets\n\nCash and cash equivalents\n\n$\n2,853\n$\n3,053\nMarketable securities current\n\n380\n\n1,076\nAccounts receivable net of allowances of $95 and $103\n\n5,020\n\n4,911\nInventories\n\nFinished goods\n\n2,120\n\n1,915\nWork in process\n\n1,292\n\n1,218\nRaw materials and supplies\n\n954\n\n901\nTotal inventories\n\n4,366\n\n4,034\nPrepaids\n\n741\n\n937\nOther current assets\n\n349\n\n266\nTotal current assets\n\n13,709\n\n14,277\nProperty, plant and equipment\n\n24,873\n\n24,914\nLess: Accumulated depreciation\n\n(16,135)\n\n(16,048)\nProperty, plant and equipment net\n\n8,738"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p57_para_001",
+          "text": "8,866\nGoodwill\n\n10,051\n\n10,513\nIntangible assets net\n\n2,657\n\n2,936\nOther assets\n\n1,345\n\n1,395\nTotal assets\n\n$\n36,500\n$\n37,987\nLiabilities\n\nCurrent liabilities\n\nShort-term borrowings and current portion of long-term debt\n\n$\n1,211\n$\n1,853\nAccounts payable\n\n2,266\n\n1,945\nAccrued payroll\n\n749\n\n870\nAccrued income taxes\n\n243\n\n310\nOther current liabilities\n\n2,775\n\n2,709\nTotal current liabilities\n\n7,244\n\n7,687\n\nLong-term debt\n\n13,411\n\n12,096\nPension and postretirement benefits\n\n2,987\n\n3,620\nOther liabilities\n\n3,010\n\n2,962\nTotal liabilities\n\n$\n26,652\n$\n26,365\nCommitments and contingencies (Note 16)\n\nEquity\n\n3M Company shareholders equity:\n\nCommon stock par value, $.01 par value\n\n$\n9\n$\n9\nShares outstanding - 2018: 576,575,168\n\nShares outstanding - 2017: 594,884,237\n\nAdditional paid-in capital\n\n5,643"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p57_para_002",
+          "text": "5,352\nRetained earnings\n\n40,636\n\n39,115\nTreasury stock\n\n(29,626)\n\n(25,887)\nAccumulated other comprehensive income (loss)\n\n(6,866)\n\n(7,026)\nTotal 3M Company shareholders equity\n\n9,796\n\n11,563\nNoncontrolling interest\n\n52\n\n59\nTotal equity\n\n$\n9,848\n$\n11,622\nTotal liabilities and equity\n\n$\n36,500\n$\n37,987\n\nThe accompanying Notes to Consolidated Financial Statements are an integral part of this statement.\n58"
+        }
+      ]
+    }
+  },
+  {
+    "document_id": "3M_2018_10K",
+    "page": 59,
+    "source": "starter/data/corpus/3M_2018_10K__p59.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "3M_2018_10K_p59_fixed_000",
+          "text": "# 3M Financial Filing: 3M_2018_10K\n\n**Company**: 3M\n\n**Document**: 3M_2018_10K\n\nTable of Contents\n3M Company and Subsidiaries\nConsolidated Statement of Cash Flow s\nYears ended December 31\n\n(Millions)\n\n2018\n\n2017\n\n2016\n\nCash Flows from Operating Activities\n\nNet income including noncontrolling interest\n\n$\n5,363\n$\n4,869\n$\n5,058\nAdjustments to reconcile net income including noncontrolling interest to net cash\nprovided by operating activities\n\nDepreciation and amortization\n\n1,488\n\n1,544\n\n1,474\nCompan"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_fixed_001",
+          "text": "ation and amortization\n\n1,488\n\n1,544\n\n1,474\nCompany pension and postretirement contributions\n\n(370)\n\n(967)\n\n(383)\nCompany pension and postretirement expense\n\n410\n\n334\n\n250\nStock-based compensation expense\n\n302\n\n324\n\n298\nGain on sale of businesses\n\n(545)\n\n(586)\n\n(111)\nDeferred income taxes\n\n(57)\n\n107\n\n7\nChanges in assets and liabilities\n\nAccounts receivable\n\n(305)\n\n(245)\n\n(313)\nInventories\n\n(509)\n\n(387)\n\n57\nAccounts payable\n\n408\n\n24\n\n148\nAccrued income taxes (current and long-term)\n\n134\n\n967\n\n101"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_fixed_002",
+          "text": "ncome taxes (current and long-term)\n\n134\n\n967\n\n101\nOther net\n\n120\n\n256\n\n76\nNet cash provided by (used in) operating activities\n\n6,439\n\n6,240\n\n6,662\n\nCash Flows from Investing Activities\n\nPurchases of property, plant and equipment (PP&E)\n\n(1,577)\n\n(1,373)\n\n(1,420)\nProceeds from sale of PP&E and other assets\n\n262\n\n49\n\n58\nAcquisitions, net of cash acquired\n\n13\n\n(2,023)\n\n(16)\nPurchases of marketable securities and investments\n\n(1,828)\n\n(2,152)\n\n(1,410)\nProceeds from maturities and sale of marketable"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_fixed_003",
+          "text": "0)\nProceeds from maturities and sale of marketable securities and investments\n\n2,497\n\n1,354\n\n1,247\nProceeds from sale of businesses, net of cash sold\n\n846\n\n1,065\n\n142\nOther net\n\n9\n\n(6)\n\n(4)\nNet cash provided by (used in) investing activities\n\n222\n\n(3,086)\n\n(1,403)\n\nCash Flows from Financing Activities\n\nChange in short-term debt net\n\n(284)\n\n578\n\n(797)\nRepayment of debt (maturities greater than 90 days)\n\n(1,034)\n\n(962)\n\n(992)\nProceeds from debt (maturities greater than 90 days)\n\n2,251\n\n1,987\n\n2,83"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_fixed_004",
+          "text": "turities greater than 90 days)\n\n2,251\n\n1,987\n\n2,832\nPurchases of treasury stock\n\n(4,870)\n\n(2,068)\n\n(3,753)\nProceeds from issuance of treasury stock pursuant to stock option and benefit plans\n\n485\n\n734\n\n804\nDividends paid to shareholders\n\n(3,193)\n\n(2,803)\n\n(2,678)\nOther net\n\n(56)\n\n(121)\n\n(42)\nNet cash provided by (used in) financing activities\n\n(6,701)\n\n(2,655)\n\n(4,626)\n\nEffect of exchange rate changes on cash and cash equivalents\n\n(160)\n\n156\n\n(33)\n\nNet increase (decrease) in cash and cash equiva"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_fixed_005",
+          "text": ")\n\nNet increase (decrease) in cash and cash equivalents\n\n(200)\n\n655\n\n600\nCash and cash equivalents at beginning of year\n\n3,053\n\n2,398\n\n1,798\nCash and cash equivalents at end of period\n\n$\n2,853\n$\n3,053\n$\n2,398\n\nThe accompanying Notes to Consolidated Financial Statements are an integral part of this statement.\n\n60"
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "3M_2018_10K_p59_para_000",
+          "text": "# 3M Financial Filing: 3M_2018_10K\n\n**Company**: 3M\n\n**Document**: 3M_2018_10K\n\nTable of Contents\n3M Company and Subsidiaries\nConsolidated Statement of Cash Flow s\nYears ended December 31\n\n(Millions)\n\n2018\n\n2017\n\n2016\n\nCash Flows from Operating Activities\n\nNet income including noncontrolling interest\n\n$\n5,363\n$\n4,869\n$\n5,058\nAdjustments to reconcile net income including noncontrolling interest to net cash\nprovided by operating activities\n\nDepreciation and amortization\n\n1,488\n\n1,544\n\n1,474\nCompany pension and postretirement contributions\n\n(370)\n\n(967)\n\n(383)\nCompany pension and postretirement expense\n\n410\n\n334\n\n250\nStock-based compensation expense\n\n302\n\n324\n\n298\nGain on sale of businesses\n\n(545)\n\n(586)\n\n(111)\nDeferred income taxes\n\n(57)\n\n107\n\n7\nChanges in assets and liabilities"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_para_001",
+          "text": "Accounts receivable\n\n(305)\n\n(245)\n\n(313)\nInventories\n\n(509)\n\n(387)\n\n57\nAccounts payable\n\n408\n\n24\n\n148\nAccrued income taxes (current and long-term)\n\n134\n\n967\n\n101\nOther net\n\n120\n\n256\n\n76\nNet cash provided by (used in) operating activities\n\n6,439\n\n6,240\n\n6,662\n\nCash Flows from Investing Activities\n\nPurchases of property, plant and equipment (PP&E)\n\n(1,577)\n\n(1,373)\n\n(1,420)\nProceeds from sale of PP&E and other assets\n\n262\n\n49\n\n58\nAcquisitions, net of cash acquired\n\n13\n\n(2,023)\n\n(16)\nPurchases of marketable securities and investments\n\n(1,828)\n\n(2,152)\n\n(1,410)\nProceeds from maturities and sale of marketable securities and investments\n\n2,497\n\n1,354\n\n1,247\nProceeds from sale of businesses, net of cash sold\n\n846\n\n1,065\n\n142\nOther net\n\n9\n\n(6)"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_para_002",
+          "text": "(4)\nNet cash provided by (used in) investing activities\n\n222\n\n(3,086)\n\n(1,403)\n\nCash Flows from Financing Activities\n\nChange in short-term debt net\n\n(284)\n\n578\n\n(797)\nRepayment of debt (maturities greater than 90 days)\n\n(1,034)\n\n(962)\n\n(992)\nProceeds from debt (maturities greater than 90 days)\n\n2,251\n\n1,987\n\n2,832\nPurchases of treasury stock\n\n(4,870)\n\n(2,068)\n\n(3,753)\nProceeds from issuance of treasury stock pursuant to stock option and benefit plans\n\n485\n\n734\n\n804\nDividends paid to shareholders\n\n(3,193)\n\n(2,803)\n\n(2,678)\nOther net\n\n(56)\n\n(121)\n\n(42)\nNet cash provided by (used in) financing activities\n\n(6,701)\n\n(2,655)\n\n(4,626)\n\nEffect of exchange rate changes on cash and cash equivalents\n\n(160)\n\n156\n\n(33)\n\nNet increase (decrease) in cash and cash equivalents\n\n(200)\n\n655"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_para_003",
+          "text": "600\nCash and cash equivalents at beginning of year\n\n3,053\n\n2,398\n\n1,798\nCash and cash equivalents at end of period\n\n$\n2,853\n$\n3,053\n$\n2,398\n\nThe accompanying Notes to Consolidated Financial Statements are an integral part of this statement.\n\n60"
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "3M_2018_10K_p59_para_000",
+          "text": "# 3M Financial Filing: 3M_2018_10K\n\n**Company**: 3M\n\n**Document**: 3M_2018_10K\n\nTable of Contents\n3M Company and Subsidiaries\nConsolidated Statement of Cash Flow s\nYears ended December 31\n\n(Millions)\n\n2018\n\n2017\n\n2016\n\nCash Flows from Operating Activities\n\nNet income including noncontrolling interest\n\n$\n5,363\n$\n4,869\n$\n5,058\nAdjustments to reconcile net income including noncontrolling interest to net cash\nprovided by operating activities\n\nDepreciation and amortization\n\n1,488\n\n1,544\n\n1,474\nCompany pension and postretirement contributions\n\n(370)\n\n(967)\n\n(383)\nCompany pension and postretirement expense\n\n410\n\n334\n\n250\nStock-based compensation expense\n\n302\n\n324\n\n298\nGain on sale of businesses\n\n(545)\n\n(586)\n\n(111)\nDeferred income taxes\n\n(57)\n\n107\n\n7\nChanges in assets and liabilities"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_para_001",
+          "text": "Accounts receivable\n\n(305)\n\n(245)\n\n(313)\nInventories\n\n(509)\n\n(387)\n\n57\nAccounts payable\n\n408\n\n24\n\n148\nAccrued income taxes (current and long-term)\n\n134\n\n967\n\n101\nOther net\n\n120\n\n256\n\n76\nNet cash provided by (used in) operating activities\n\n6,439\n\n6,240\n\n6,662\n\nCash Flows from Investing Activities\n\nPurchases of property, plant and equipment (PP&E)\n\n(1,577)\n\n(1,373)\n\n(1,420)\nProceeds from sale of PP&E and other assets\n\n262\n\n49\n\n58\nAcquisitions, net of cash acquired\n\n13\n\n(2,023)\n\n(16)\nPurchases of marketable securities and investments\n\n(1,828)\n\n(2,152)\n\n(1,410)\nProceeds from maturities and sale of marketable securities and investments\n\n2,497\n\n1,354\n\n1,247\nProceeds from sale of businesses, net of cash sold\n\n846\n\n1,065\n\n142\nOther net\n\n9\n\n(6)"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_para_002",
+          "text": "(4)\nNet cash provided by (used in) investing activities\n\n222\n\n(3,086)\n\n(1,403)\n\nCash Flows from Financing Activities\n\nChange in short-term debt net\n\n(284)\n\n578\n\n(797)\nRepayment of debt (maturities greater than 90 days)\n\n(1,034)\n\n(962)\n\n(992)\nProceeds from debt (maturities greater than 90 days)\n\n2,251\n\n1,987\n\n2,832\nPurchases of treasury stock\n\n(4,870)\n\n(2,068)\n\n(3,753)\nProceeds from issuance of treasury stock pursuant to stock option and benefit plans\n\n485\n\n734\n\n804\nDividends paid to shareholders\n\n(3,193)\n\n(2,803)\n\n(2,678)\nOther net\n\n(56)\n\n(121)\n\n(42)\nNet cash provided by (used in) financing activities\n\n(6,701)\n\n(2,655)\n\n(4,626)\n\nEffect of exchange rate changes on cash and cash equivalents\n\n(160)\n\n156\n\n(33)\n\nNet increase (decrease) in cash and cash equivalents\n\n(200)\n\n655"
+        },
+        {
+          "chunk_id": "3M_2018_10K_p59_para_003",
+          "text": "600\nCash and cash equivalents at beginning of year\n\n3,053\n\n2,398\n\n1,798\nCash and cash equivalents at end of period\n\n$\n2,853\n$\n3,053\n$\n2,398\n\nThe accompanying Notes to Consolidated Financial Statements are an integral part of this statement.\n\n60"
+        }
+      ]
+    }
+  },
+  {
+    "document_id": "3M_2022_10K",
+    "page": 24,
+    "source": "starter/data/corpus/3M_2022_10K__p24.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "3M_2022_10K_p24_fixed_000",
+          "text": "# 3M Financial Filing: 3M_2022_10K\n\n**Company**: 3M\n\n**Document**: 3M_2022_10K\n\nTable of Contents\nSales and operating income (loss) by business segment:\nThe following tables contain sales and operating income (loss) results by business segment for the years ended December 31, 2022 and 2021. Refer to the section entitled\nPerformance by Business Segment later in MD&A for additional discussion concerning 2022 versus 2021 results, including Corporate and Unallocated. Refer to Note 19 for\nadditional"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_fixed_001",
+          "text": "and Unallocated. Refer to Note 19 for\nadditional information on business segments.\n2022\n2021\n% change\n(Dollars in millions)\nNet Sales\n% of Total\nOperating\nIncome (Loss)\nNet Sales\n% of Total\nOperating\nIncome (Loss)\nNet Sales\nOperating Income\n(Loss)\nBusiness Segments\nSafety and Industrial\n$\n11,604\n33.9 % $\n1,199 $\n11,981\n33.9 % $\n2,466\n(3.2)%\n(51.4)%\nTransportation and Electronics\n8,902\n26.0\n1,012\n9,262\n26.2\n1,880\n(3.9)\n(46.2)\nHealth Care\n8,421\n24.6\n1,815\n8,597\n24.3\n2,037\n(2.0)\n(10.9)\nConsumer\n5,"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_fixed_002",
+          "text": ".6\n1,815\n8,597\n24.3\n2,037\n(2.0)\n(10.9)\nConsumer\n5,298\n15.5\n994\n5,513\n15.6\n1,162\n(3.9)\n(14.4)\nCorporate and Unallocated\n4\n\n1,519\n2\n\n(176)\nTotal Company\n$\n34,229\n100.0 % $\n6,539 $\n35,355\n100.0 % $\n7,369\n(3.2)%\n(11.3)%\nYear ended December 31, 2022\nWorldwide Sales Change\nBy Business Segment\nOrganic sales\nAcquisitions\nDivestitures\nTranslation\nTotal sales change\nSafety and Industrial\n1.0 %\n\n%\n%\n(4.2) %\n(3.2) %\nTransportation and Electronics\n1.2\n\n(0.5)\n(4.6)\n(3.9)\nHealth Care\n3.2\n\n(1.4)\n(3.8)\n(2.0)\nCon"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_fixed_003",
+          "text": "(4.6)\n(3.9)\nHealth Care\n3.2\n\n(1.4)\n(3.8)\n(2.0)\nConsumer\n(0.9)\n\n(0.4)\n(2.6)\n(3.9)\nTotal Company\n1.2\n\n(0.5)\n(3.9)\n(3.2)\nSales by geographic area:\nPercent change information compares the years ended December 31, 2022 and 2021 with the same prior year period, unless otherwise indicated. Additional discussion of\nbusiness segment results is provided in the Performance by Business Segment section.\nYear ended December 31, 2022\nAmericas\nAsia Pacific\nEurope, Middle East\n& Africa\nOther Unallocated\nWorldwid"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_fixed_004",
+          "text": "e, Middle East\n& Africa\nOther Unallocated\nWorldwide\nNet sales (millions)\n$\n18,400\n$\n9,901\n$\n5,928\n$\n\n$\n34,229\n% of worldwide sales\n53.8 %\n28.9 %\n17.3 %\n100.0 %\nComponents of net sales change:\nOrganic sales\n2.6\n0.3\n(0.6)\n1.2\nDivestitures\n(0.6)\n(0.4)\n(0.6)\n(0.5)\nTranslation\n(0.3)\n(6.5)\n(9.8)\n(3.9)\nTotal sales change\n1.7 %\n(6.6) %\n(11.0) %\n(3.2) %\nYear ended December 31, 2021\nAmericas\nAsia Pacific\nEurope, Middle East\n& Africa\nOther Unallocated\nWorldwide\nNet sales (millions)\n$\n18,097\n$\n10,600\n$\n6,66"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_fixed_005",
+          "text": "wide\nNet sales (millions)\n$\n18,097\n$\n10,600\n$\n6,660\n$\n(2)\n$\n35,355\n% of worldwide sales\n51.2 %\n30.0 %\n18.8 %\n100.0 %\nComponents of net sales change:\nOrganic sales\n9.8\n8.5\n6.3\n8.8\nDivestitures\n(0.6)\n\n(1.1)\n(0.5)\nTranslation\n0.3\n2.3\n3.8\n1.6\nTotal sales change\n9.5 %\n10.8 %\n9.0 %\n9.9 %\n25"
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "3M_2022_10K_p24_para_000",
+          "text": "# 3M Financial Filing: 3M_2022_10K\n\n**Company**: 3M\n\n**Document**: 3M_2022_10K"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_para_001",
+          "text": "Table of Contents\nSales and operating income (loss) by business segment:\nThe following tables contain sales and operating income (loss) results by business segment for the years ended December 31, 2022 and 2021. Refer to the section entitled\nPerformance by Business Segment later in MD&A for additional discussion concerning 2022 versus 2021 results, including Corporate and Unallocated. Refer to Note 19 for\nadditional information on business segments.\n2022\n2021\n% change\n(Dollars in millions)\nNet Sales\n% of Total\nOperating\nIncome (Loss)\nNet Sales\n% of Total\nOperating\nIncome (Loss)\nNet Sales\nOperating Income\n(Loss)\nBusiness Segments\nSafety and Industrial\n$\n11,604\n33.9 % $\n1,199 $\n11,981\n33.9 % $\n2,466\n(3.2)%\n(51.4)%\nTransportation and Electronics\n8,902\n26.0\n1,012\n9,262\n26.2\n1,880\n(3.9)\n(46.2)"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_para_002",
+          "text": "Health Care\n8,421\n24.6\n1,815\n8,597\n24.3\n2,037\n(2.0)\n(10.9)\nConsumer\n5,298\n15.5\n994\n5,513\n15.6\n1,162\n(3.9)\n(14.4)\nCorporate and Unallocated\n4\n\n1,519\n2\n\n(176)\nTotal Company\n$\n34,229\n100.0 % $\n6,539 $\n35,355\n100.0 % $\n7,369\n(3.2)%\n(11.3)%\nYear ended December 31, 2022\nWorldwide Sales Change\nBy Business Segment\nOrganic sales\nAcquisitions\nDivestitures\nTranslation\nTotal sales change\nSafety and Industrial\n1.0 %\n\n%\n%\n(4.2) %\n(3.2) %\nTransportation and Electronics\n1.2\n\n(0.5)\n(4.6)\n(3.9)\nHealth Care\n3.2\n\n(1.4)\n(3.8)\n(2.0)\nConsumer\n(0.9)\n\n(0.4)\n(2.6)\n(3.9)\nTotal Company\n1.2"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_para_003",
+          "text": "(0.5)\n(3.9)\n(3.2)\nSales by geographic area:\nPercent change information compares the years ended December 31, 2022 and 2021 with the same prior year period, unless otherwise indicated. Additional discussion of\nbusiness segment results is provided in the Performance by Business Segment section.\nYear ended December 31, 2022\nAmericas\nAsia Pacific\nEurope, Middle East\n& Africa\nOther Unallocated\nWorldwide\nNet sales (millions)\n$\n18,400\n$\n9,901\n$\n5,928\n$"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_para_004",
+          "text": "$\n34,229\n% of worldwide sales\n53.8 %\n28.9 %\n17.3 %\n100.0 %\nComponents of net sales change:\nOrganic sales\n2.6\n0.3\n(0.6)\n1.2\nDivestitures\n(0.6)\n(0.4)\n(0.6)\n(0.5)\nTranslation\n(0.3)\n(6.5)\n(9.8)\n(3.9)\nTotal sales change\n1.7 %\n(6.6) %\n(11.0) %\n(3.2) %\nYear ended December 31, 2021\nAmericas\nAsia Pacific\nEurope, Middle East\n& Africa\nOther Unallocated\nWorldwide\nNet sales (millions)\n$\n18,097\n$\n10,600\n$\n6,660\n$\n(2)\n$\n35,355\n% of worldwide sales\n51.2 %\n30.0 %\n18.8 %\n100.0 %\nComponents of net sales change:\nOrganic sales\n9.8\n8.5\n6.3\n8.8\nDivestitures\n(0.6)\n\n(1.1)\n(0.5)\nTranslation\n0.3\n2.3\n3.8\n1.6\nTotal sales change\n9.5 %\n10.8 %\n9.0 %\n9.9 %\n25"
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "3M_2022_10K_p24_para_000",
+          "text": "# 3M Financial Filing: 3M_2022_10K\n\n**Company**: 3M\n\n**Document**: 3M_2022_10K"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_para_001",
+          "text": "Table of Contents\nSales and operating income (loss) by business segment:\nThe following tables contain sales and operating income (loss) results by business segment for the years ended December 31, 2022 and 2021. Refer to the section entitled\nPerformance by Business Segment later in MD&A for additional discussion concerning 2022 versus 2021 results, including Corporate and Unallocated. Refer to Note 19 for\nadditional information on business segments.\n2022\n2021\n% change\n(Dollars in millions)\nNet Sales\n% of Total\nOperating\nIncome (Loss)\nNet Sales\n% of Total\nOperating\nIncome (Loss)\nNet Sales\nOperating Income\n(Loss)\nBusiness Segments\nSafety and Industrial\n$\n11,604\n33.9 % $\n1,199 $\n11,981\n33.9 % $\n2,466\n(3.2)%\n(51.4)%\nTransportation and Electronics\n8,902\n26.0\n1,012\n9,262\n26.2\n1,880\n(3.9)\n(46.2)"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_para_002",
+          "text": "Health Care\n8,421\n24.6\n1,815\n8,597\n24.3\n2,037\n(2.0)\n(10.9)\nConsumer\n5,298\n15.5\n994\n5,513\n15.6\n1,162\n(3.9)\n(14.4)\nCorporate and Unallocated\n4\n\n1,519\n2\n\n(176)\nTotal Company\n$\n34,229\n100.0 % $\n6,539 $\n35,355\n100.0 % $\n7,369\n(3.2)%\n(11.3)%\nYear ended December 31, 2022\nWorldwide Sales Change\nBy Business Segment\nOrganic sales\nAcquisitions\nDivestitures\nTranslation\nTotal sales change\nSafety and Industrial\n1.0 %\n\n%\n%\n(4.2) %\n(3.2) %\nTransportation and Electronics\n1.2\n\n(0.5)\n(4.6)\n(3.9)\nHealth Care\n3.2\n\n(1.4)\n(3.8)\n(2.0)\nConsumer\n(0.9)\n\n(0.4)\n(2.6)\n(3.9)\nTotal Company\n1.2"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_para_003",
+          "text": "(0.5)\n(3.9)\n(3.2)\nSales by geographic area:\nPercent change information compares the years ended December 31, 2022 and 2021 with the same prior year period, unless otherwise indicated. Additional discussion of\nbusiness segment results is provided in the Performance by Business Segment section.\nYear ended December 31, 2022\nAmericas\nAsia Pacific\nEurope, Middle East\n& Africa\nOther Unallocated\nWorldwide\nNet sales (millions)\n$\n18,400\n$\n9,901\n$\n5,928\n$"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p24_para_004",
+          "text": "$\n34,229\n% of worldwide sales\n53.8 %\n28.9 %\n17.3 %\n100.0 %\nComponents of net sales change:\nOrganic sales\n2.6\n0.3\n(0.6)\n1.2\nDivestitures\n(0.6)\n(0.4)\n(0.6)\n(0.5)\nTranslation\n(0.3)\n(6.5)\n(9.8)\n(3.9)\nTotal sales change\n1.7 %\n(6.6) %\n(11.0) %\n(3.2) %\nYear ended December 31, 2021\nAmericas\nAsia Pacific\nEurope, Middle East\n& Africa\nOther Unallocated\nWorldwide\nNet sales (millions)\n$\n18,097\n$\n10,600\n$\n6,660\n$\n(2)\n$\n35,355\n% of worldwide sales\n51.2 %\n30.0 %\n18.8 %\n100.0 %\nComponents of net sales change:\nOrganic sales\n9.8\n8.5\n6.3\n8.8\nDivestitures\n(0.6)\n\n(1.1)\n(0.5)\nTranslation\n0.3\n2.3\n3.8\n1.6\nTotal sales change\n9.5 %\n10.8 %\n9.0 %\n9.9 %\n25"
+        }
+      ]
+    }
+  },
+  {
+    "document_id": "3M_2022_10K",
+    "page": 26,
+    "source": "starter/data/corpus/3M_2022_10K__p26.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "3M_2022_10K_p26_fixed_000",
+          "text": "# 3M Financial Filing: 3M_2022_10K\n\n**Company**: 3M\n\n**Document**: 3M_2022_10K\n\nTable of Contents\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\n(Percent of net sales)\n2022\n2021\nChange\nCost of sales\n56.2 %\n53.2 %\n3.0 %\nSelling, general and administrative expenses (SG&A)\n26.5\n20.4\n6.1\nResearch, development and related expenses (R&D)\n5.4\n5.6\n(0.2)\nG"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_fixed_001",
+          "text": "lopment and related expenses (R&D)\n5.4\n5.6\n(0.2)\nGain on business divestitures\n(8.0)\n\n(8.0)\nGoodwill impairment expense\n0.8\n\n0.8\nOperating income margin\n19.1 %\n20.8 %\n(1.7)%\nThe Company is continuing the ongoing deployment of an enterprise resource planning (ERP) system on a worldwide basis, with these investments impacting cost of sales,\nSG&A, and R&D.\nCost of Sales:\nCost of sales, measured as a percent of sales, increased in 2022 when compared to the same period last year. Increases were prima"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_fixed_002",
+          "text": "to the same period last year. Increases were primarily due to 2022 special item costs for\nsignificant litigation from additional commitments to address PFAS-related matters at 3M's Zwijndrecht, Belgium site (discussed in Note 16), higher raw materials and logistics\ncosts, manufacturing productivity headwinds which were further magnified by the shutdown of certain operations in Belgium and progress on restarting previously-idled\noperations, and investments in growth, productivity and sustainabili"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_fixed_003",
+          "text": "vestments in growth, productivity and sustainability. On a percent of sales basis, these increases were partially offset by increases in selling prices.\nSelling, General and Administrative Expenses:\nSG&A, measured as a percent of sales, increased in 2022 when compared to the same period last year. SG&A was impacted by increased special item costs for significant\nlitigation primarily related to steps toward resolving Combat Arms Earplugs litigation (discussed in Note 16) resulting in a 2022 secon"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_fixed_004",
+          "text": "n (discussed in Note 16) resulting in a 2022 second quarter pre-tax charge of approximately\n$1.2 billion, certain impairment costs related to exiting PFAS manufacturing (see Note 15), costs related to exiting Russia (see Note 15), divestiture-related restructuring\ncharges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost\nmanagement.\nResearch, Development and Related Expenses:\nR&D, measured"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_fixed_005",
+          "text": "h, Development and Related Expenses:\nR&D, measured as a percent of sales, decreased in 2022 when compared to the same period last year. 3M continues to invest in a range of R&D activities from application\ndevelopment, product and manufacturing support, product development and technology development aimed at disruptive innovations.\nGain on Business Divestitures:\nIn the third quarter of 2022, 3M recorded a pre-tax gain of $2.7 billion ($2.7 billion after tax) related to the split-off and combinati"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_fixed_006",
+          "text": "after tax) related to the split-off and combination of its Food Safety business with Neogen\nCorporation. Refer to Note 3 for further details.\nGoodwill Impairment Expense:\nAs a result of 3M's commitment to exit per- and polyfluoroalkyl substance (PFAS) manufacturing, 3M recorded a goodwill impairment charge related to the Advanced\nMaterials reporting unit (within the Transportation and Electronics business). Refer to Note 15 for further details.\n27"
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "3M_2022_10K_p26_para_000",
+          "text": "# 3M Financial Filing: 3M_2022_10K\n\n**Company**: 3M\n\n**Document**: 3M_2022_10K\n\nTable of Contents\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\n(Percent of net sales)\n2022\n2021\nChange\nCost of sales\n56.2 %\n53.2 %\n3.0 %\nSelling, general and administrative expenses (SG&A)\n26.5\n20.4\n6.1\nResearch, development and related expenses (R&D)\n5.4\n5.6\n(0.2)\nGain on business divestitures\n(8.0)\n\n(8.0)\nGoodwill impairment expense\n0.8"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_para_001",
+          "text": "0.8\nOperating income margin\n19.1 %\n20.8 %\n(1.7)%\nThe Company is continuing the ongoing deployment of an enterprise resource planning (ERP) system on a worldwide basis, with these investments impacting cost of sales,\nSG&A, and R&D.\nCost of Sales:\nCost of sales, measured as a percent of sales, increased in 2022 when compared to the same period last year. Increases were primarily due to 2022 special item costs for\nsignificant litigation from additional commitments to address PFAS-related matters at 3M's Zwijndrecht, Belgium site (discussed in Note 16), higher raw materials and logistics\ncosts, manufacturing productivity headwinds which were further magnified by the shutdown of certain operations in Belgium and progress on restarting previously-idled"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_para_002",
+          "text": "operations, and investments in growth, productivity and sustainability. On a percent of sales basis, these increases were partially offset by increases in selling prices.\nSelling, General and Administrative Expenses:\nSG&A, measured as a percent of sales, increased in 2022 when compared to the same period last year. SG&A was impacted by increased special item costs for significant\nlitigation primarily related to steps toward resolving Combat Arms Earplugs litigation (discussed in Note 16) resulting in a 2022 second quarter pre-tax charge of approximately\n$1.2 billion, certain impairment costs related to exiting PFAS manufacturing (see Note 15), costs related to exiting Russia (see Note 15), divestiture-related restructuring"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_para_003",
+          "text": "charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost\nmanagement.\nResearch, Development and Related Expenses:\nR&D, measured as a percent of sales, decreased in 2022 when compared to the same period last year. 3M continues to invest in a range of R&D activities from application\ndevelopment, product and manufacturing support, product development and technology development aimed at disruptive innovations.\nGain on Business Divestitures:\nIn the third quarter of 2022, 3M recorded a pre-tax gain of $2.7 billion ($2.7 billion after tax) related to the split-off and combination of its Food Safety business with Neogen\nCorporation. Refer to Note 3 for further details."
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_para_004",
+          "text": "Goodwill Impairment Expense:\nAs a result of 3M's commitment to exit per- and polyfluoroalkyl substance (PFAS) manufacturing, 3M recorded a goodwill impairment charge related to the Advanced\nMaterials reporting unit (within the Transportation and Electronics business). Refer to Note 15 for further details.\n27"
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "3M_2022_10K_p26_para_000",
+          "text": "# 3M Financial Filing: 3M_2022_10K\n\n**Company**: 3M\n\n**Document**: 3M_2022_10K\n\nTable of Contents\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\n(Percent of net sales)\n2022\n2021\nChange\nCost of sales\n56.2 %\n53.2 %\n3.0 %\nSelling, general and administrative expenses (SG&A)\n26.5\n20.4\n6.1\nResearch, development and related expenses (R&D)\n5.4\n5.6\n(0.2)\nGain on business divestitures\n(8.0)\n\n(8.0)\nGoodwill impairment expense\n0.8"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_para_001",
+          "text": "0.8\nOperating income margin\n19.1 %\n20.8 %\n(1.7)%\nThe Company is continuing the ongoing deployment of an enterprise resource planning (ERP) system on a worldwide basis, with these investments impacting cost of sales,\nSG&A, and R&D.\nCost of Sales:\nCost of sales, measured as a percent of sales, increased in 2022 when compared to the same period last year. Increases were primarily due to 2022 special item costs for\nsignificant litigation from additional commitments to address PFAS-related matters at 3M's Zwijndrecht, Belgium site (discussed in Note 16), higher raw materials and logistics\ncosts, manufacturing productivity headwinds which were further magnified by the shutdown of certain operations in Belgium and progress on restarting previously-idled"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_para_002",
+          "text": "operations, and investments in growth, productivity and sustainability. On a percent of sales basis, these increases were partially offset by increases in selling prices.\nSelling, General and Administrative Expenses:\nSG&A, measured as a percent of sales, increased in 2022 when compared to the same period last year. SG&A was impacted by increased special item costs for significant\nlitigation primarily related to steps toward resolving Combat Arms Earplugs litigation (discussed in Note 16) resulting in a 2022 second quarter pre-tax charge of approximately\n$1.2 billion, certain impairment costs related to exiting PFAS manufacturing (see Note 15), costs related to exiting Russia (see Note 15), divestiture-related restructuring"
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_para_003",
+          "text": "charges (see Note 5), and continued investment in key growth initiatives. These increases were partially offset by restructuring benefits and ongoing general 3M cost\nmanagement.\nResearch, Development and Related Expenses:\nR&D, measured as a percent of sales, decreased in 2022 when compared to the same period last year. 3M continues to invest in a range of R&D activities from application\ndevelopment, product and manufacturing support, product development and technology development aimed at disruptive innovations.\nGain on Business Divestitures:\nIn the third quarter of 2022, 3M recorded a pre-tax gain of $2.7 billion ($2.7 billion after tax) related to the split-off and combination of its Food Safety business with Neogen\nCorporation. Refer to Note 3 for further details."
+        },
+        {
+          "chunk_id": "3M_2022_10K_p26_para_004",
+          "text": "Goodwill Impairment Expense:\nAs a result of 3M's commitment to exit per- and polyfluoroalkyl substance (PFAS) manufacturing, 3M recorded a goodwill impairment charge related to the Advanced\nMaterials reporting unit (within the Transportation and Electronics business). Refer to Note 15 for further details.\n27"
+        }
+      ]
+    }
+  },
+  {
+    "document_id": "3M_2023Q2_10Q",
+    "page": 4,
+    "source": "starter/data/corpus/3M_2023Q2_10Q__p4.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_fixed_000",
+          "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q\n\nTable of Contents\n3M Company and Subsidiaries\nConsolidated Balance Sheet\n(Unaudited)\n(Dollars in millions, except per share amount)\nJune 30, 2023\nDecember 31, 2022\nAssets\nCurrent assets\nCash and cash equivalents\n$\n4,258\n$\n3,655\nMarketable securities current\n56\n238\nAccounts receivable net of allowances of $160 and $174\n4,947\n4,532\nInventories\nFinished goods\n2,526\n2,497\nWork in process\n1,527\n1,606\nRaw materials and"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_fixed_001",
+          "text": ",497\nWork in process\n1,527\n1,606\nRaw materials and supplies\n1,227\n1,269\nTotal inventories\n5,280\n5,372\nPrepaids\n674\n435\nOther current assets\n539\n456\nTotal current assets\n15,754\n14,688\nProperty, plant and equipment\n26,459\n25,998\nLess: Accumulated depreciation\n(17,248)\n(16,820)\nProperty, plant and equipment net\n9,211\n9,178\nOperating lease right of use assets\n812\n829\nGoodwill\n12,869\n12,790\nIntangible assets net\n4,470\n4,699\nOther assets\n5,764\n4,271\nTotal assets\n$\n48,880\n$\n46,455\nLiabilities\nCurrent l"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_fixed_002",
+          "text": "tal assets\n$\n48,880\n$\n46,455\nLiabilities\nCurrent liabilities\nShort-term borrowings and current portion of long-term debt\n$\n3,033\n$\n1,938\nAccounts payable\n3,231\n3,183\nAccrued payroll\n785\n692\nAccrued income taxes\n172\n259\nOperating lease liabilities current\n244\n261\nOther current liabilities\n3,471\n3,190\nTotal current liabilities\n10,936\n9,523\nLong-term debt\n12,954\n14,001\nPension and postretirement benefits\n1,912\n1,966\nOperating lease liabilities\n570\n580\nOther liabilities\n14,651\n5,615\nTotal liabilitie"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_fixed_003",
+          "text": "80\nOther liabilities\n14,651\n5,615\nTotal liabilities\n41,023\n31,685\nCommitments and contingencies (Note 14)\nEquity\n3M Company shareholders equity:\nCommon stock par value, $.01 par value; 944,033,056 shares issued\n9\n9\nShares outstanding - June 30, 2023: 551,992,430\nShares outstanding - December 31, 2022: 549,245,105\nAdditional paid-in capital\n6,858\n6,691\nRetained earnings\n40,290\n47,950\nTreasury stock, at cost:\n(32,926)\n(33,255)\nShares at June 30, 2023: 392,040,626\nShares at December 31, 2022: 394,7"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_fixed_004",
+          "text": "23: 392,040,626\nShares at December 31, 2022: 394,787,951\nAccumulated other comprehensive income (loss)\n(6,433)\n(6,673)\nTotal 3M Company shareholders equity\n7,798\n14,722\nNoncontrolling interest\n59\n48\nTotal equity\n7,857\n14,770\nTotal liabilities and equity\n$\n48,880\n$\n46,455\nThe accompanying Notes to Consolidated Financial Statements are an integral part of this statement.\n5"
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_para_000",
+          "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_para_001",
+          "text": "Table of Contents\n3M Company and Subsidiaries\nConsolidated Balance Sheet\n(Unaudited)\n(Dollars in millions, except per share amount)\nJune 30, 2023\nDecember 31, 2022\nAssets\nCurrent assets\nCash and cash equivalents\n$\n4,258\n$\n3,655\nMarketable securities current\n56\n238\nAccounts receivable net of allowances of $160 and $174\n4,947\n4,532\nInventories\nFinished goods\n2,526\n2,497\nWork in process\n1,527\n1,606\nRaw materials and supplies\n1,227\n1,269\nTotal inventories\n5,280\n5,372\nPrepaids\n674\n435\nOther current assets\n539\n456\nTotal current assets\n15,754\n14,688\nProperty, plant and equipment\n26,459\n25,998\nLess: Accumulated depreciation\n(17,248)\n(16,820)\nProperty, plant and equipment net\n9,211\n9,178\nOperating lease right of use assets\n812\n829\nGoodwill\n12,869\n12,790\nIntangible assets net\n4,470\n4,699"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_para_002",
+          "text": "Other assets\n5,764\n4,271\nTotal assets\n$\n48,880\n$\n46,455\nLiabilities\nCurrent liabilities\nShort-term borrowings and current portion of long-term debt\n$\n3,033\n$\n1,938\nAccounts payable\n3,231\n3,183\nAccrued payroll\n785\n692\nAccrued income taxes\n172\n259\nOperating lease liabilities current\n244\n261\nOther current liabilities\n3,471\n3,190\nTotal current liabilities\n10,936\n9,523\nLong-term debt\n12,954\n14,001\nPension and postretirement benefits\n1,912\n1,966\nOperating lease liabilities\n570\n580\nOther liabilities\n14,651\n5,615\nTotal liabilities\n41,023\n31,685\nCommitments and contingencies (Note 14)\nEquity\n3M Company shareholders equity:\nCommon stock par value, $.01 par value; 944,033,056 shares issued\n9\n9\nShares outstanding - June 30, 2023: 551,992,430\nShares outstanding - December 31, 2022: 549,245,105"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_para_003",
+          "text": "Additional paid-in capital\n6,858\n6,691\nRetained earnings\n40,290\n47,950\nTreasury stock, at cost:\n(32,926)\n(33,255)\nShares at June 30, 2023: 392,040,626\nShares at December 31, 2022: 394,787,951\nAccumulated other comprehensive income (loss)\n(6,433)\n(6,673)\nTotal 3M Company shareholders equity\n7,798\n14,722\nNoncontrolling interest\n59\n48\nTotal equity\n7,857\n14,770\nTotal liabilities and equity\n$\n48,880\n$\n46,455\nThe accompanying Notes to Consolidated Financial Statements are an integral part of this statement.\n5"
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_para_000",
+          "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_para_001",
+          "text": "Table of Contents\n3M Company and Subsidiaries\nConsolidated Balance Sheet\n(Unaudited)\n(Dollars in millions, except per share amount)\nJune 30, 2023\nDecember 31, 2022\nAssets\nCurrent assets\nCash and cash equivalents\n$\n4,258\n$\n3,655\nMarketable securities current\n56\n238\nAccounts receivable net of allowances of $160 and $174\n4,947\n4,532\nInventories\nFinished goods\n2,526\n2,497\nWork in process\n1,527\n1,606\nRaw materials and supplies\n1,227\n1,269\nTotal inventories\n5,280\n5,372\nPrepaids\n674\n435\nOther current assets\n539\n456\nTotal current assets\n15,754\n14,688\nProperty, plant and equipment\n26,459\n25,998\nLess: Accumulated depreciation\n(17,248)\n(16,820)\nProperty, plant and equipment net\n9,211\n9,178\nOperating lease right of use assets\n812\n829\nGoodwill\n12,869\n12,790\nIntangible assets net\n4,470\n4,699"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_para_002",
+          "text": "Other assets\n5,764\n4,271\nTotal assets\n$\n48,880\n$\n46,455\nLiabilities\nCurrent liabilities\nShort-term borrowings and current portion of long-term debt\n$\n3,033\n$\n1,938\nAccounts payable\n3,231\n3,183\nAccrued payroll\n785\n692\nAccrued income taxes\n172\n259\nOperating lease liabilities current\n244\n261\nOther current liabilities\n3,471\n3,190\nTotal current liabilities\n10,936\n9,523\nLong-term debt\n12,954\n14,001\nPension and postretirement benefits\n1,912\n1,966\nOperating lease liabilities\n570\n580\nOther liabilities\n14,651\n5,615\nTotal liabilities\n41,023\n31,685\nCommitments and contingencies (Note 14)\nEquity\n3M Company shareholders equity:\nCommon stock par value, $.01 par value; 944,033,056 shares issued\n9\n9\nShares outstanding - June 30, 2023: 551,992,430\nShares outstanding - December 31, 2022: 549,245,105"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p4_para_003",
+          "text": "Additional paid-in capital\n6,858\n6,691\nRetained earnings\n40,290\n47,950\nTreasury stock, at cost:\n(32,926)\n(33,255)\nShares at June 30, 2023: 392,040,626\nShares at December 31, 2022: 394,787,951\nAccumulated other comprehensive income (loss)\n(6,433)\n(6,673)\nTotal 3M Company shareholders equity\n7,798\n14,722\nNoncontrolling interest\n59\n48\nTotal equity\n7,857\n14,770\nTotal liabilities and equity\n$\n48,880\n$\n46,455\nThe accompanying Notes to Consolidated Financial Statements are an integral part of this statement.\n5"
+        }
+      ]
+    }
+  },
+  {
+    "document_id": "3M_2023Q2_10Q",
+    "page": 61,
+    "source": "starter/data/corpus/3M_2023Q2_10Q__p61.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_000",
+          "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q\n\nTable of Contents\nFinancial condition:\nRefer to the section entitled Financial Condition and Liquidity later in MD&A for a discussion of items impacting cash flows.\nIn November 2018, 3Ms Board of Directors replaced the Companys February 2016 repurchase program with a new repurchase program. This new program authorizes the\nrepurchase of up to $10 billion of 3Ms outstanding common stock, with no pre-established end"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_001",
+          "text": "standing common stock, with no pre-established end date. In the first six months of 2023, the Company purchased $29 million of its\nown stock, compared to $773 million of stock purchases in the first six months of 2022. As of June 30, 2023, approximately $4.2 billion remained available under the\nauthorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive\nyear of dividend increases for"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_002",
+          "text": "he 65th consecutive\nyear of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\nThree months ended\nJune 30,\nSix months ended\nJune 30,\n(Percent of net sales)\n2023\n2022\nChange\n2023\n2022\nChange\nCost of sales\n55.3 %\n58.5 %\n(3.2)%\n56.4"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_003",
+          "text": "022\nChange\nCost of sales\n55.3 %\n58.5 %\n(3.2)%\n56.4 %\n56.6 %\n(0.2)%\nSelling, general and administrative expenses (SG&A)\n146.6\n34.7\n111.9\n85.0\n27.9\n57.1\nResearch, development and related expenses (R&D)\n5.7\n5.5\n0.2\n5.8\n5.5\n0.3\nOperating income (loss) margin\n(107.6)%\n1.3 %\n(108.9)%\n(47.2)%\n10.0 %\n(57.2)%\nStock compensation expense was $41 million and $47 million for the second quarter of 2023 and 2022, respectively, and was $176 million and $182 million for the six months\nended June 30, 2023 and 202"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_004",
+          "text": "ion for the six months\nended June 30, 2023 and 2022, respectively, which impacts cost of sales; selling, general and administrative expenses (SG&A); and research, development and related expenses\n(R&D). The Companys annual stock option and restricted stock unit grant is made in February. Accounting rules require recognition of expense under a non-substantive\nvesting period approach, requiring compensation expense recognition when an employee is eligible to retire. This retiree-eligible populatio"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_005",
+          "text": "ligible to retire. This retiree-eligible population represents 35 percent of the annual\ngrant stock-based compensation expense; therefore, higher stock-based compensation expense is recognized in the first quarter each year.\n3M expects global defined benefit pension and postretirement service cost expense in 2023 to decrease by approximately $160 million pre-tax when compared to 2022, which\nimpacts cost of sales, SG&A, and R&D. The year-on-year decrease in defined benefit pension and postretirem"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_006",
+          "text": "ecrease in defined benefit pension and postretirement service cost expense for the second quarter and first six\nmonths of 2023 was approximately $38 million and $80 million, respectively.\nFor total year 2022, the Company recognized consolidated defined benefit pre-tax pension and postretirement service cost expense of $426 million and a benefit of $248\nmillion related to all non-service pension and postretirement net benefit costs (after settlements, curtailments, special termination benefits an"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_007",
+          "text": "nts, curtailments, special termination benefits and other) for a total consolidated\ndefined benefit pre-tax pension and postretirement expense of $178 million.\nFor total year 2023, defined benefit pension and postretirement service cost expense is anticipated to total approximately $270 million while non-service pension and\npostretirement net benefit cost is anticipated to be a benefit of approximately $125 million, for a total consolidated defined benefit pre-tax pension and postretirement expe"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_008",
+          "text": "ed benefit pre-tax pension and postretirement expense\nof approximately $145 million, a decrease in expense of approximately $30 million compared to 2022.\nThe Company is continuing the ongoing deployment of an enterprise resource planning (ERP) system on a worldwide basis, with these investments impacting cost of sales,\nSG&A, and R&D.\nCost of Sales:\nCost of sales, measured as a percent of sales, decreased in the second quarter and first six months of 2023 when compared to the same period last yea"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_fixed_009",
+          "text": "of 2023 when compared to the same period last year. Decreases were\nprimarily due to lower year-on-year net costs for significant litigation to address certain PFAS-related matters at 3M's Zwijndrecht, Belgium site, higher selling prices, spending\ndiscipline and restructuring benefits. These decreases were partially offset by higher raw materials and energy costs; manufacturing productivity headwinds; investments in\ngrowth, productivity and sustainability; and restructuring charges.\n62"
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_000",
+          "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q\n\nTable of Contents\nFinancial condition:\nRefer to the section entitled Financial Condition and Liquidity later in MD&A for a discussion of items impacting cash flows.\nIn November 2018, 3Ms Board of Directors replaced the Companys February 2016 repurchase program with a new repurchase program. This new program authorizes the\nrepurchase of up to $10 billion of 3Ms outstanding common stock, with no pre-established end date. In the first six months of 2023, the Company purchased $29 million of its\nown stock, compared to $773 million of stock purchases in the first six months of 2022. As of June 30, 2023, approximately $4.2 billion remained available under the"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_001",
+          "text": "authorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive\nyear of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\nThree months ended\nJune 30,\nSix months ended\nJune 30,\n(Percent of net sales)\n2023\n2022\nChange\n2023\n2022\nChange\nCost of sales\n55.3 %\n58.5 %\n(3.2)%\n56.4 %\n56.6 %\n(0.2)%\nSelling, general and administrative expenses (SG&A)\n146.6\n34.7\n111.9\n85.0\n27.9\n57.1"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_002",
+          "text": "Research, development and related expenses (R&D)\n5.7\n5.5\n0.2\n5.8\n5.5\n0.3\nOperating income (loss) margin\n(107.6)%\n1.3 %\n(108.9)%\n(47.2)%\n10.0 %\n(57.2)%\nStock compensation expense was $41 million and $47 million for the second quarter of 2023 and 2022, respectively, and was $176 million and $182 million for the six months\nended June 30, 2023 and 2022, respectively, which impacts cost of sales; selling, general and administrative expenses (SG&A); and research, development and related expenses\n(R&D). The Companys annual stock option and restricted stock unit grant is made in February. Accounting rules require recognition of expense under a non-substantive"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_003",
+          "text": "vesting period approach, requiring compensation expense recognition when an employee is eligible to retire. This retiree-eligible population represents 35 percent of the annual\ngrant stock-based compensation expense; therefore, higher stock-based compensation expense is recognized in the first quarter each year.\n3M expects global defined benefit pension and postretirement service cost expense in 2023 to decrease by approximately $160 million pre-tax when compared to 2022, which\nimpacts cost of sales, SG&A, and R&D. The year-on-year decrease in defined benefit pension and postretirement service cost expense for the second quarter and first six\nmonths of 2023 was approximately $38 million and $80 million, respectively."
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_004",
+          "text": "For total year 2022, the Company recognized consolidated defined benefit pre-tax pension and postretirement service cost expense of $426 million and a benefit of $248\nmillion related to all non-service pension and postretirement net benefit costs (after settlements, curtailments, special termination benefits and other) for a total consolidated\ndefined benefit pre-tax pension and postretirement expense of $178 million.\nFor total year 2023, defined benefit pension and postretirement service cost expense is anticipated to total approximately $270 million while non-service pension and\npostretirement net benefit cost is anticipated to be a benefit of approximately $125 million, for a total consolidated defined benefit pre-tax pension and postretirement expense"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_005",
+          "text": "of approximately $145 million, a decrease in expense of approximately $30 million compared to 2022.\nThe Company is continuing the ongoing deployment of an enterprise resource planning (ERP) system on a worldwide basis, with these investments impacting cost of sales,\nSG&A, and R&D.\nCost of Sales:\nCost of sales, measured as a percent of sales, decreased in the second quarter and first six months of 2023 when compared to the same period last year. Decreases were\nprimarily due to lower year-on-year net costs for significant litigation to address certain PFAS-related matters at 3M's Zwijndrecht, Belgium site, higher selling prices, spending"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_006",
+          "text": "discipline and restructuring benefits. These decreases were partially offset by higher raw materials and energy costs; manufacturing productivity headwinds; investments in\ngrowth, productivity and sustainability; and restructuring charges.\n62"
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_000",
+          "text": "# 3M Financial Filing: 3M_2023Q2_10Q\n\n**Company**: 3M\n\n**Document**: 3M_2023Q2_10Q\n\nTable of Contents\nFinancial condition:\nRefer to the section entitled Financial Condition and Liquidity later in MD&A for a discussion of items impacting cash flows.\nIn November 2018, 3Ms Board of Directors replaced the Companys February 2016 repurchase program with a new repurchase program. This new program authorizes the\nrepurchase of up to $10 billion of 3Ms outstanding common stock, with no pre-established end date. In the first six months of 2023, the Company purchased $29 million of its\nown stock, compared to $773 million of stock purchases in the first six months of 2022. As of June 30, 2023, approximately $4.2 billion remained available under the"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_001",
+          "text": "authorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive\nyear of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.\nRESULTS OF OPERATIONS\nNet Sales:\nRefer to the preceding Overview section and the Performance by Business Segment section later in MD&A for additional discussion of sales change.\nOperating Expenses:\nThree months ended\nJune 30,\nSix months ended\nJune 30,\n(Percent of net sales)\n2023\n2022\nChange\n2023\n2022\nChange\nCost of sales\n55.3 %\n58.5 %\n(3.2)%\n56.4 %\n56.6 %\n(0.2)%\nSelling, general and administrative expenses (SG&A)\n146.6\n34.7\n111.9\n85.0\n27.9\n57.1"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_002",
+          "text": "Research, development and related expenses (R&D)\n5.7\n5.5\n0.2\n5.8\n5.5\n0.3\nOperating income (loss) margin\n(107.6)%\n1.3 %\n(108.9)%\n(47.2)%\n10.0 %\n(57.2)%\nStock compensation expense was $41 million and $47 million for the second quarter of 2023 and 2022, respectively, and was $176 million and $182 million for the six months\nended June 30, 2023 and 2022, respectively, which impacts cost of sales; selling, general and administrative expenses (SG&A); and research, development and related expenses\n(R&D). The Companys annual stock option and restricted stock unit grant is made in February. Accounting rules require recognition of expense under a non-substantive"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_003",
+          "text": "vesting period approach, requiring compensation expense recognition when an employee is eligible to retire. This retiree-eligible population represents 35 percent of the annual\ngrant stock-based compensation expense; therefore, higher stock-based compensation expense is recognized in the first quarter each year.\n3M expects global defined benefit pension and postretirement service cost expense in 2023 to decrease by approximately $160 million pre-tax when compared to 2022, which\nimpacts cost of sales, SG&A, and R&D. The year-on-year decrease in defined benefit pension and postretirement service cost expense for the second quarter and first six\nmonths of 2023 was approximately $38 million and $80 million, respectively."
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_004",
+          "text": "For total year 2022, the Company recognized consolidated defined benefit pre-tax pension and postretirement service cost expense of $426 million and a benefit of $248\nmillion related to all non-service pension and postretirement net benefit costs (after settlements, curtailments, special termination benefits and other) for a total consolidated\ndefined benefit pre-tax pension and postretirement expense of $178 million.\nFor total year 2023, defined benefit pension and postretirement service cost expense is anticipated to total approximately $270 million while non-service pension and\npostretirement net benefit cost is anticipated to be a benefit of approximately $125 million, for a total consolidated defined benefit pre-tax pension and postretirement expense"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_005",
+          "text": "of approximately $145 million, a decrease in expense of approximately $30 million compared to 2022.\nThe Company is continuing the ongoing deployment of an enterprise resource planning (ERP) system on a worldwide basis, with these investments impacting cost of sales,\nSG&A, and R&D.\nCost of Sales:\nCost of sales, measured as a percent of sales, decreased in the second quarter and first six months of 2023 when compared to the same period last year. Decreases were\nprimarily due to lower year-on-year net costs for significant litigation to address certain PFAS-related matters at 3M's Zwijndrecht, Belgium site, higher selling prices, spending"
+        },
+        {
+          "chunk_id": "3M_2023Q2_10Q_p61_para_006",
+          "text": "discipline and restructuring benefits. These decreases were partially offset by higher raw materials and energy costs; manufacturing productivity headwinds; investments in\ngrowth, productivity and sustainability; and restructuring charges.\n62"
+        }
+      ]
+    }
+  },
+  {
+    "document_id": "AMCOR_2020_10K",
+    "page": 49,
+    "source": "starter/data/corpus/AMCOR_2020_10K__p49.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_fixed_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2020_10K\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2020_10K\n\nAmcor plc and Subsidiaries\nConsolidated Balance Sheet\n(in millions)\nAs of June 30,\n2020\n2019\nAssets\nCurrent assets:\nCash and cash equivalents\n$\n742.6\n$\n601.6\nTrade receivables, net\n1,615.9\n1,864.3\nInventories, net\n1,831.9\n1,953.8\nPrepaid expenses and other current assets\n344.3\n374.3\nAssets held for sale\n\n416.1\nTotal current assets\n4,534.7\n5,210.1\nNon-current assets:\nInvestments in affiliated companies\n77."
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_fixed_001",
+          "text": "nt assets:\nInvestments in affiliated companies\n77.7\n98.9\nProperty, plant and equipment, net\n3,614.8\n3,975.0\nOperating lease assets\n525.3\n\nDeferred tax assets\n135.4\n190.9\nOther intangible assets, net\n1,994.3\n2,306.8\nGoodwill\n5,339.3\n5,156.0\nEmployee benefit assets\n43.4\n40.2\nOther non-current assets\n177.2\n187.1\nTotal non-current assets\n11,907.4\n11,954.9\nTotal assets\n$\n16,442.1\n$\n17,165.0\nLiabilities\nCurrent liabilities:\nCurrent portion of long-term debt\n$\n11.1\n$\n5.4\nShort-term debt\n195.2\n788.8\nTra"
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_fixed_002",
+          "text": "debt\n$\n11.1\n$\n5.4\nShort-term debt\n195.2\n788.8\nTrade payables\n2,170.8\n2,303.4\nAccrued employee costs\n476.5\n378.4\nOther current liabilities\n1,120.0\n1,044.9\nLiabilities held for sale\n\n20.9\nTotal current liabilities\n3,973.6\n4,541.8\nNon-current liabilities:\nLong-term debt, less current portion\n6,028.4\n5,309.0\nOperating lease liabilities\n465.7\n\nDeferred tax liabilities\n672.4\n1,011.7\nEmployee benefit obligations\n391.7\n386.8\nOther non-current liabilities\n223.2\n241.0\nTotal non-current liabilities\n7,781."
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_fixed_003",
+          "text": "s\n223.2\n241.0\nTotal non-current liabilities\n7,781.4\n6,948.5\nTotal liabilities\n11,755.0\n11,490.3\nCommitments and contingencies (See Note 19)\nShareholders' Equity\nAmcor plc shareholders equity:\nOrdinary shares ($0.01 par value):\nAuthorized (9,000.0 shares)\nIssued (1,568.5 and 1,625.9 shares, respectively)\n15.7\n16.3\nAdditional paid-in capital\n5,480.0\n6,007.5\nRetained earnings\n246.5\n323.7\nAccumulated other comprehensive income (loss)\n(1,049.3)\n(722.4)\nTreasury shares (6.7 and 1.4 shares, respectivel"
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_fixed_004",
+          "text": ")\nTreasury shares (6.7 and 1.4 shares, respectively)\n(67.0)\n(16.1)\nTotal Amcor plc shareholders' equity\n4,625.9\n5,609.0\nNon-controlling interest\n61.2\n65.7\nTotal shareholders' equity\n4,687.1\n5,674.7\nTotal liabilities and shareholders' equity\n$\n16,442.1\n$\n17,165.0\nSee accompanying notes to consolidated financial statements.\n50"
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_para_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2020_10K\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2020_10K\n\nAmcor plc and Subsidiaries\nConsolidated Balance Sheet\n(in millions)\nAs of June 30,\n2020\n2019\nAssets\nCurrent assets:\nCash and cash equivalents\n$\n742.6\n$\n601.6\nTrade receivables, net\n1,615.9\n1,864.3\nInventories, net\n1,831.9\n1,953.8\nPrepaid expenses and other current assets\n344.3\n374.3\nAssets held for sale\n\n416.1\nTotal current assets\n4,534.7\n5,210.1\nNon-current assets:\nInvestments in affiliated companies\n77.7\n98.9\nProperty, plant and equipment, net\n3,614.8\n3,975.0\nOperating lease assets\n525.3"
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_para_001",
+          "text": "Deferred tax assets\n135.4\n190.9\nOther intangible assets, net\n1,994.3\n2,306.8\nGoodwill\n5,339.3\n5,156.0\nEmployee benefit assets\n43.4\n40.2\nOther non-current assets\n177.2\n187.1\nTotal non-current assets\n11,907.4\n11,954.9\nTotal assets\n$\n16,442.1\n$\n17,165.0\nLiabilities\nCurrent liabilities:\nCurrent portion of long-term debt\n$\n11.1\n$\n5.4\nShort-term debt\n195.2\n788.8\nTrade payables\n2,170.8\n2,303.4\nAccrued employee costs\n476.5\n378.4\nOther current liabilities\n1,120.0\n1,044.9\nLiabilities held for sale\n\n20.9\nTotal current liabilities\n3,973.6\n4,541.8\nNon-current liabilities:\nLong-term debt, less current portion\n6,028.4\n5,309.0\nOperating lease liabilities\n465.7"
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_para_002",
+          "text": "Deferred tax liabilities\n672.4\n1,011.7\nEmployee benefit obligations\n391.7\n386.8\nOther non-current liabilities\n223.2\n241.0\nTotal non-current liabilities\n7,781.4\n6,948.5\nTotal liabilities\n11,755.0\n11,490.3\nCommitments and contingencies (See Note 19)\nShareholders' Equity\nAmcor plc shareholders equity:\nOrdinary shares ($0.01 par value):\nAuthorized (9,000.0 shares)\nIssued (1,568.5 and 1,625.9 shares, respectively)\n15.7\n16.3\nAdditional paid-in capital\n5,480.0\n6,007.5\nRetained earnings\n246.5\n323.7\nAccumulated other comprehensive income (loss)\n(1,049.3)\n(722.4)\nTreasury shares (6.7 and 1.4 shares, respectively)\n(67.0)\n(16.1)\nTotal Amcor plc shareholders' equity\n4,625.9\n5,609.0\nNon-controlling interest\n61.2\n65.7\nTotal shareholders' equity\n4,687.1\n5,674.7\nTotal liabilities and shareholders' equity\n$"
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_para_003",
+          "text": "16,442.1\n$\n17,165.0\nSee accompanying notes to consolidated financial statements.\n50"
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_para_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2020_10K\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2020_10K\n\nAmcor plc and Subsidiaries\nConsolidated Balance Sheet\n(in millions)\nAs of June 30,\n2020\n2019\nAssets\nCurrent assets:\nCash and cash equivalents\n$\n742.6\n$\n601.6\nTrade receivables, net\n1,615.9\n1,864.3\nInventories, net\n1,831.9\n1,953.8\nPrepaid expenses and other current assets\n344.3\n374.3\nAssets held for sale\n\n416.1\nTotal current assets\n4,534.7\n5,210.1\nNon-current assets:\nInvestments in affiliated companies\n77.7\n98.9\nProperty, plant and equipment, net\n3,614.8\n3,975.0\nOperating lease assets\n525.3"
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_para_001",
+          "text": "Deferred tax assets\n135.4\n190.9\nOther intangible assets, net\n1,994.3\n2,306.8\nGoodwill\n5,339.3\n5,156.0\nEmployee benefit assets\n43.4\n40.2\nOther non-current assets\n177.2\n187.1\nTotal non-current assets\n11,907.4\n11,954.9\nTotal assets\n$\n16,442.1\n$\n17,165.0\nLiabilities\nCurrent liabilities:\nCurrent portion of long-term debt\n$\n11.1\n$\n5.4\nShort-term debt\n195.2\n788.8\nTrade payables\n2,170.8\n2,303.4\nAccrued employee costs\n476.5\n378.4\nOther current liabilities\n1,120.0\n1,044.9\nLiabilities held for sale\n\n20.9\nTotal current liabilities\n3,973.6\n4,541.8\nNon-current liabilities:\nLong-term debt, less current portion\n6,028.4\n5,309.0\nOperating lease liabilities\n465.7"
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_para_002",
+          "text": "Deferred tax liabilities\n672.4\n1,011.7\nEmployee benefit obligations\n391.7\n386.8\nOther non-current liabilities\n223.2\n241.0\nTotal non-current liabilities\n7,781.4\n6,948.5\nTotal liabilities\n11,755.0\n11,490.3\nCommitments and contingencies (See Note 19)\nShareholders' Equity\nAmcor plc shareholders equity:\nOrdinary shares ($0.01 par value):\nAuthorized (9,000.0 shares)\nIssued (1,568.5 and 1,625.9 shares, respectively)\n15.7\n16.3\nAdditional paid-in capital\n5,480.0\n6,007.5\nRetained earnings\n246.5\n323.7\nAccumulated other comprehensive income (loss)\n(1,049.3)\n(722.4)\nTreasury shares (6.7 and 1.4 shares, respectively)\n(67.0)\n(16.1)\nTotal Amcor plc shareholders' equity\n4,625.9\n5,609.0\nNon-controlling interest\n61.2\n65.7\nTotal shareholders' equity\n4,687.1\n5,674.7\nTotal liabilities and shareholders' equity\n$"
+        },
+        {
+          "chunk_id": "AMCOR_2020_10K_p49_para_003",
+          "text": "16,442.1\n$\n17,165.0\nSee accompanying notes to consolidated financial statements.\n50"
+        }
+      ]
+    }
+  },
+  {
+    "document_id": "AMCOR_2022_8K_dated-2022-07-01",
+    "page": 1,
+    "source": "starter/data/corpus/AMCOR_2022_8K_dated-2022-07-01__p1.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2022_8K_dated-2022-07-01\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2022_8K_dated-2022-07-01\n\nItem 8.01\nOther Events.\n\nOn June 30, 2022, Amcor Finance (USA), Inc. (the Former Issuer) and Amcor Flexibles North America, Inc. (the Substitute Issuer),\neach a wholly-owned subsidiary of Amcor plc (the Company), entered into a (i) Second Supplemental Indenture (the Second Supplemental\nIndenture) with the Trustee (as defined below) with respect to the Indenture, dated as of"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_001",
+          "text": "below) with respect to the Indenture, dated as of April 28, 2016 (as amended and/or supplemented to\ndate, the 2016 Indenture and, together with the Second Supplemental Indenture, the 2016 Indenture), among the Former Issuer, the\nguarantors party thereto and Deutsche Bank Trust Company Americas, as trustee (the Trustee), governing the Former Issuers (a) 3.625%\nGuaranteed Senior Notes due 2026 (the 2026 Notes) and (b) 4.500% Guaranteed Senior Notes due 2028 (the 2028 Notes and, together with\nthe"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_002",
+          "text": "s due 2028 (the 2028 Notes and, together with\nthe 2026 Notes, the Existing Notes) and (ii) First Supplemental Indenture (the First Supplemental Indenture and, together with the Second\nSupplemental Indenture, the Supplemental Indentures) with the Trustee with respect to the Indenture, dated as of June 13, 2019 (as amended\nand/or supplemented to date, the 2019 Indenture and, together with the First Supplemental Indenture, the 2019 Indenture and, together with\nthe 2016 Indenture, the Indentures), a"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_003",
+          "text": "gether with\nthe 2016 Indenture, the Indentures), among the Former Issuer, the guarantors party thereto and the Trustee, governing the Former Issuers\n(a) 3.625% Guaranteed Senior Notes due 2026 (the New 2026 Notes) and (b) 4.500% Guaranteed Senior Notes due 2028 (the New 2028\nNotes and, together with the New 2026 Notes, the New Notes), in each case, relating to the substitution of the Substitute Issuer for the Former\nIssuer and the assumption by the Substitute Issuer of the covenants of the Forme"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_004",
+          "text": "he Substitute Issuer of the covenants of the Former Issuer under the Indentures. As disclosed in the Companys\nCurrent Report on Form 8-K, filed with the Securities and Exchange Commission (the SEC) on June 17, 2019, the New Notes were issued in\nJune 2019 following the completion of the Former Issuers exchange offer to certain eligible holders of the Existing Notes.\n\nThe foregoing description of the Supplemental Indentures does not purport to be complete and is subject to, and qualified in its en"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_005",
+          "text": "omplete and is subject to, and qualified in its entirety\nby, the full text of the (i) 2016 Indenture, which was included as Exhibit 4.7 to the Companys Registration Statement on Form S-4 (File No. 333-\n230217), filed with the SEC on March 12, 2019 (the Registration Statement), including the supplemental indenture thereto, which was included\nas Exhibit 10.2 to the Companys Current Report on Form 8-K, filed with the SEC on June 17, 2019, (ii) form of 2026 Notes, which was included\nas Exhibit 4.8 t"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_006",
+          "text": "of 2026 Notes, which was included\nas Exhibit 4.8 to the Registration Statement, (iii) form of 2028 Notes, which was included as Exhibit 4.9 to the Registration Statement, (iv) 2019\nIndenture, which was included as Exhibit 10.4 to the Companys Current Report on Form 8-K, filed with the SEC on June 17, 2019, (v) Second\nSupplemental Indenture, which is included as Exhibit 4.6 hereto and incorporated herein by reference and (vi) First Supplemental Indenture,\nwhich is included as Exhibit 4.7 hereto a"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_007",
+          "text": "denture,\nwhich is included as Exhibit 4.7 hereto and incorporated herein by reference.\n\nItem 9.01\nFinancial Statements and Exhibits.\n\nExhibit No.\nDescription\n4.1\n\nIndenture, dated as of April 28, 2016, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK Finance PLC and\nDeutsche Bank Trust Company Americas (incorporated by reference to Exhibit 4.7 to Amcor plcs Registration Statement on\nForm S-4 (File No. 333-230217), filed on March 12, 2019).\n4.2\n\nSupplemental Indenture, dated as of June 13"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_008",
+          "text": ".\n4.2\n\nSupplemental Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK\nFinance PLC and Deutsche Bank Trust Company Americas (incorporated by reference to Exhibit 10.2 to Amcor plcs Current\nReport on Form 8-K, filed on June 17, 2019).\n4.3\n\nForm of 3.625% Guaranteed Senior Notes due 2026 (incorporated by reference to Exhibit 4.8 to Amcor plcs Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.4\n\nForm of 4.500% Guarantee"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_009",
+          "text": "on March 12, 2019).\n4.4\n\nForm of 4.500% Guaranteed Senior Notes due 2028 (incorporated by reference to Exhibit 4.9 to Amcor plcs Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.5\n\nIndenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor plc, Amcor Limited, Amcor Flexibles North\nAmerica, Inc. (formerly known as Bemis Company, Inc.) and Amcor UK Finance PLC and Deutsche Bank Trust Company\nAmericas (incorporated by reference to Exhibit 10.4"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_010",
+          "text": "mericas (incorporated by reference to Exhibit 10.4 to Amcor plcs Current Report on Form 8-K, filed on June 17, 2019).\n4.6\n\nSecond Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n4.7\n\nFirst Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n104\n\nCover Page Interactive Data Fi"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_011",
+          "text": "pany Americas.\n104\n\nCover Page Interactive Data File. The cover page XBRL tags are embedded within the inline XBRL document (contained in\nExhibit 101)."
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2022_8K_dated-2022-07-01\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2022_8K_dated-2022-07-01\n\nItem 8.01\nOther Events."
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_001",
+          "text": "On June 30, 2022, Amcor Finance (USA), Inc. (the Former Issuer) and Amcor Flexibles North America, Inc. (the Substitute Issuer),\neach a wholly-owned subsidiary of Amcor plc (the Company), entered into a (i) Second Supplemental Indenture (the Second Supplemental\nIndenture) with the Trustee (as defined below) with respect to the Indenture, dated as of April 28, 2016 (as amended and/or supplemented to\ndate, the 2016 Indenture and, together with the Second Supplemental Indenture, the 2016 Indenture), among the Former Issuer, the\nguarantors party thereto and Deutsche Bank Trust Company Americas, as trustee (the Trustee), governing the Former Issuers (a) 3.625%\nGuaranteed Senior Notes due 2026 (the 2026 Notes) and (b) 4.500% Guaranteed Senior Notes due 2028 (the 2028 Notes and, together with"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_002",
+          "text": "the 2026 Notes, the Existing Notes) and (ii) First Supplemental Indenture (the First Supplemental Indenture and, together with the Second\nSupplemental Indenture, the Supplemental Indentures) with the Trustee with respect to the Indenture, dated as of June 13, 2019 (as amended\nand/or supplemented to date, the 2019 Indenture and, together with the First Supplemental Indenture, the 2019 Indenture and, together with\nthe 2016 Indenture, the Indentures), among the Former Issuer, the guarantors party thereto and the Trustee, governing the Former Issuers\n(a) 3.625% Guaranteed Senior Notes due 2026 (the New 2026 Notes) and (b) 4.500% Guaranteed Senior Notes due 2028 (the New 2028"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_003",
+          "text": "Notes and, together with the New 2026 Notes, the New Notes), in each case, relating to the substitution of the Substitute Issuer for the Former\nIssuer and the assumption by the Substitute Issuer of the covenants of the Former Issuer under the Indentures. As disclosed in the Companys\nCurrent Report on Form 8-K, filed with the Securities and Exchange Commission (the SEC) on June 17, 2019, the New Notes were issued in\nJune 2019 following the completion of the Former Issuers exchange offer to certain eligible holders of the Existing Notes."
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_004",
+          "text": "The foregoing description of the Supplemental Indentures does not purport to be complete and is subject to, and qualified in its entirety\nby, the full text of the (i) 2016 Indenture, which was included as Exhibit 4.7 to the Companys Registration Statement on Form S-4 (File No. 333-\n230217), filed with the SEC on March 12, 2019 (the Registration Statement), including the supplemental indenture thereto, which was included\nas Exhibit 10.2 to the Companys Current Report on Form 8-K, filed with the SEC on June 17, 2019, (ii) form of 2026 Notes, which was included\nas Exhibit 4.8 to the Registration Statement, (iii) form of 2028 Notes, which was included as Exhibit 4.9 to the Registration Statement, (iv) 2019"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_005",
+          "text": "Indenture, which was included as Exhibit 10.4 to the Companys Current Report on Form 8-K, filed with the SEC on June 17, 2019, (v) Second\nSupplemental Indenture, which is included as Exhibit 4.6 hereto and incorporated herein by reference and (vi) First Supplemental Indenture,\nwhich is included as Exhibit 4.7 hereto and incorporated herein by reference.\n\nItem 9.01\nFinancial Statements and Exhibits.\n\nExhibit No.\nDescription\n4.1\n\nIndenture, dated as of April 28, 2016, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK Finance PLC and\nDeutsche Bank Trust Company Americas (incorporated by reference to Exhibit 4.7 to Amcor plcs Registration Statement on\nForm S-4 (File No. 333-230217), filed on March 12, 2019).\n4.2"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_006",
+          "text": "Supplemental Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK\nFinance PLC and Deutsche Bank Trust Company Americas (incorporated by reference to Exhibit 10.2 to Amcor plcs Current\nReport on Form 8-K, filed on June 17, 2019).\n4.3\n\nForm of 3.625% Guaranteed Senior Notes due 2026 (incorporated by reference to Exhibit 4.8 to Amcor plcs Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.4\n\nForm of 4.500% Guaranteed Senior Notes due 2028 (incorporated by reference to Exhibit 4.9 to Amcor plcs Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.5"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_007",
+          "text": "Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor plc, Amcor Limited, Amcor Flexibles North\nAmerica, Inc. (formerly known as Bemis Company, Inc.) and Amcor UK Finance PLC and Deutsche Bank Trust Company\nAmericas (incorporated by reference to Exhibit 10.4 to Amcor plcs Current Report on Form 8-K, filed on June 17, 2019).\n4.6\n\nSecond Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n4.7\n\nFirst Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n104"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_008",
+          "text": "Cover Page Interactive Data File. The cover page XBRL tags are embedded within the inline XBRL document (contained in\nExhibit 101)."
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2022_8K_dated-2022-07-01\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2022_8K_dated-2022-07-01\n\nItem 8.01\nOther Events."
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_001",
+          "text": "On June 30, 2022, Amcor Finance (USA), Inc. (the Former Issuer) and Amcor Flexibles North America, Inc. (the Substitute Issuer),\neach a wholly-owned subsidiary of Amcor plc (the Company), entered into a (i) Second Supplemental Indenture (the Second Supplemental\nIndenture) with the Trustee (as defined below) with respect to the Indenture, dated as of April 28, 2016 (as amended and/or supplemented to\ndate, the 2016 Indenture and, together with the Second Supplemental Indenture, the 2016 Indenture), among the Former Issuer, the\nguarantors party thereto and Deutsche Bank Trust Company Americas, as trustee (the Trustee), governing the Former Issuers (a) 3.625%\nGuaranteed Senior Notes due 2026 (the 2026 Notes) and (b) 4.500% Guaranteed Senior Notes due 2028 (the 2028 Notes and, together with"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_002",
+          "text": "the 2026 Notes, the Existing Notes) and (ii) First Supplemental Indenture (the First Supplemental Indenture and, together with the Second\nSupplemental Indenture, the Supplemental Indentures) with the Trustee with respect to the Indenture, dated as of June 13, 2019 (as amended\nand/or supplemented to date, the 2019 Indenture and, together with the First Supplemental Indenture, the 2019 Indenture and, together with\nthe 2016 Indenture, the Indentures), among the Former Issuer, the guarantors party thereto and the Trustee, governing the Former Issuers\n(a) 3.625% Guaranteed Senior Notes due 2026 (the New 2026 Notes) and (b) 4.500% Guaranteed Senior Notes due 2028 (the New 2028"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_003",
+          "text": "Notes and, together with the New 2026 Notes, the New Notes), in each case, relating to the substitution of the Substitute Issuer for the Former\nIssuer and the assumption by the Substitute Issuer of the covenants of the Former Issuer under the Indentures. As disclosed in the Companys\nCurrent Report on Form 8-K, filed with the Securities and Exchange Commission (the SEC) on June 17, 2019, the New Notes were issued in\nJune 2019 following the completion of the Former Issuers exchange offer to certain eligible holders of the Existing Notes."
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_004",
+          "text": "The foregoing description of the Supplemental Indentures does not purport to be complete and is subject to, and qualified in its entirety\nby, the full text of the (i) 2016 Indenture, which was included as Exhibit 4.7 to the Companys Registration Statement on Form S-4 (File No. 333-\n230217), filed with the SEC on March 12, 2019 (the Registration Statement), including the supplemental indenture thereto, which was included\nas Exhibit 10.2 to the Companys Current Report on Form 8-K, filed with the SEC on June 17, 2019, (ii) form of 2026 Notes, which was included\nas Exhibit 4.8 to the Registration Statement, (iii) form of 2028 Notes, which was included as Exhibit 4.9 to the Registration Statement, (iv) 2019"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_005",
+          "text": "Indenture, which was included as Exhibit 10.4 to the Companys Current Report on Form 8-K, filed with the SEC on June 17, 2019, (v) Second\nSupplemental Indenture, which is included as Exhibit 4.6 hereto and incorporated herein by reference and (vi) First Supplemental Indenture,\nwhich is included as Exhibit 4.7 hereto and incorporated herein by reference.\n\nItem 9.01\nFinancial Statements and Exhibits.\n\nExhibit No.\nDescription\n4.1\n\nIndenture, dated as of April 28, 2016, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK Finance PLC and\nDeutsche Bank Trust Company Americas (incorporated by reference to Exhibit 4.7 to Amcor plcs Registration Statement on\nForm S-4 (File No. 333-230217), filed on March 12, 2019).\n4.2"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_006",
+          "text": "Supplemental Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK\nFinance PLC and Deutsche Bank Trust Company Americas (incorporated by reference to Exhibit 10.2 to Amcor plcs Current\nReport on Form 8-K, filed on June 17, 2019).\n4.3\n\nForm of 3.625% Guaranteed Senior Notes due 2026 (incorporated by reference to Exhibit 4.8 to Amcor plcs Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.4\n\nForm of 4.500% Guaranteed Senior Notes due 2028 (incorporated by reference to Exhibit 4.9 to Amcor plcs Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.5"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_007",
+          "text": "Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor plc, Amcor Limited, Amcor Flexibles North\nAmerica, Inc. (formerly known as Bemis Company, Inc.) and Amcor UK Finance PLC and Deutsche Bank Trust Company\nAmericas (incorporated by reference to Exhibit 10.4 to Amcor plcs Current Report on Form 8-K, filed on June 17, 2019).\n4.6\n\nSecond Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n4.7\n\nFirst Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n104"
+        },
+        {
+          "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_008",
+          "text": "Cover Page Interactive Data File. The cover page XBRL tags are embedded within the inline XBRL document (contained in\nExhibit 101)."
+        }
+      ]
+    }
+  },
+  {
+    "document_id": "AMCOR_2023Q2_10Q",
+    "page": 14,
+    "source": "starter/data/corpus/AMCOR_2023Q2_10Q__p14.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_fixed_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2023Q2_10Q\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q2_10Q\n\nNote 6 - Restructuring\nThe Company's restructuring activities in the three and six months ended December 31, 2022 were primarily comprised of restructuring\nactivities related to the Russia-Ukraine conflict and the three and six months ended December 31, 2021 included expenses related to the\nCompany's 2019 plan from the integration of acquired Bemis operations which was substantially completed at the e"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_fixed_001",
+          "text": "rations which was substantially completed at the end of fiscal year 2022.\nRestructuring and related expenses, net were $2 million and $10 million during the three months ended December 31, 2022 and 2021, and $3\nmillion and $18 million in the six months ended December 31, 2022 and 2021, respectively, and primarily relate to the Flexibles reportable\nsegment. The expenses related to restructuring activities have been presented on the unaudited condensed consolidated statements of income as\nrestruct"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_fixed_002",
+          "text": "nsed consolidated statements of income as\nrestructuring and other related activities, net.\nAn analysis of the Company's restructuring plan liability is as follows:\n($ in millions)\nEmployee Costs\nFixed Asset\nRelated Costs\nOther Costs\nTotal\nRestructuring\nCosts\nLiability balance at June 30, 2022\n$\n97\n$\n3\n$\n18\n$\n118\nNet charges to earnings\n2\n\n2\nCash paid\n(16)\n(1)\n(8)\n(25)\nReversal of unused amounts\n(2)\n\n(2)\nLiability balance at December 31, 2022\n$\n81\n$\n2\n$\n10\n$\n93\nThe Company expects the majority of"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_fixed_003",
+          "text": "$\n2\n$\n10\n$\n93\nThe Company expects the majority of the liability for employee, fixed assets related, and other costs as of December 31, 2022 to be paid\nwithin the next twelve months. The accruals related to restructuring activities have been recorded on the unaudited condensed consolidated\nbalance sheets under other current liabilities and other non-current liabilities.\n15"
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_para_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2023Q2_10Q\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q2_10Q\n\nNote 6 - Restructuring\nThe Company's restructuring activities in the three and six months ended December 31, 2022 were primarily comprised of restructuring\nactivities related to the Russia-Ukraine conflict and the three and six months ended December 31, 2021 included expenses related to the\nCompany's 2019 plan from the integration of acquired Bemis operations which was substantially completed at the end of fiscal year 2022.\nRestructuring and related expenses, net were $2 million and $10 million during the three months ended December 31, 2022 and 2021, and $3\nmillion and $18 million in the six months ended December 31, 2022 and 2021, respectively, and primarily relate to the Flexibles reportable"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_para_001",
+          "text": "segment. The expenses related to restructuring activities have been presented on the unaudited condensed consolidated statements of income as\nrestructuring and other related activities, net.\nAn analysis of the Company's restructuring plan liability is as follows:\n($ in millions)\nEmployee Costs\nFixed Asset\nRelated Costs\nOther Costs\nTotal\nRestructuring\nCosts\nLiability balance at June 30, 2022\n$\n97\n$\n3\n$\n18\n$\n118\nNet charges to earnings\n2\n\n2\nCash paid\n(16)\n(1)\n(8)\n(25)\nReversal of unused amounts\n(2)"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_para_002",
+          "text": "(2)\nLiability balance at December 31, 2022\n$\n81\n$\n2\n$\n10\n$\n93\nThe Company expects the majority of the liability for employee, fixed assets related, and other costs as of December 31, 2022 to be paid\nwithin the next twelve months. The accruals related to restructuring activities have been recorded on the unaudited condensed consolidated\nbalance sheets under other current liabilities and other non-current liabilities.\n15"
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_para_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2023Q2_10Q\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q2_10Q\n\nNote 6 - Restructuring\nThe Company's restructuring activities in the three and six months ended December 31, 2022 were primarily comprised of restructuring\nactivities related to the Russia-Ukraine conflict and the three and six months ended December 31, 2021 included expenses related to the\nCompany's 2019 plan from the integration of acquired Bemis operations which was substantially completed at the end of fiscal year 2022.\nRestructuring and related expenses, net were $2 million and $10 million during the three months ended December 31, 2022 and 2021, and $3\nmillion and $18 million in the six months ended December 31, 2022 and 2021, respectively, and primarily relate to the Flexibles reportable"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_para_001",
+          "text": "segment. The expenses related to restructuring activities have been presented on the unaudited condensed consolidated statements of income as\nrestructuring and other related activities, net.\nAn analysis of the Company's restructuring plan liability is as follows:\n($ in millions)\nEmployee Costs\nFixed Asset\nRelated Costs\nOther Costs\nTotal\nRestructuring\nCosts\nLiability balance at June 30, 2022\n$\n97\n$\n3\n$\n18\n$\n118\nNet charges to earnings\n2\n\n2\nCash paid\n(16)\n(1)\n(8)\n(25)\nReversal of unused amounts\n(2)"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q2_10Q_p14_para_002",
+          "text": "(2)\nLiability balance at December 31, 2022\n$\n81\n$\n2\n$\n10\n$\n93\nThe Company expects the majority of the liability for employee, fixed assets related, and other costs as of December 31, 2022 to be paid\nwithin the next twelve months. The accruals related to restructuring activities have been recorded on the unaudited condensed consolidated\nbalance sheets under other current liabilities and other non-current liabilities.\n15"
+        }
+      ]
+    }
+  },
+  {
+    "document_id": "AMCOR_2023Q4_EARNINGS",
+    "page": 11,
+    "source": "starter/data/corpus/AMCOR_2023Q4_EARNINGS__p11.md",
+    "chunks": {
+      "A": [
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_fixed_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2023Q4_EARNINGS\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q4_EARNINGS\n\nTwelve Months Ended June 30, 2022\nTwelve Months Ended June 30, 2023\n($ million)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nNet income attributable to Amcor\n\n805\n\n805\n\n805\n\n52.9\n\n1,048\n\n1,048\n\n1,048\n\n70.5\nNet income attributable to non-controlling\ninterests\n\n10\n\n10\n\n10\n\n10\nTax expense\n\n300\n\n300\n\n193\n\n193\nInterest expense, net\n\n135\n\n135\n\n2"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_fixed_001",
+          "text": "300\n\n193\n\n193\nInterest expense, net\n\n135\n\n135\n\n259\n\n259\nDepreciation and amortization\n\n579\n\n569\nEBITDA, EBIT, Net income and EPS\n\n1,829\n\n1,250\n\n805\n\n52.9\n\n2,080\n\n1,510\n\n1,048\n\n70.5\n2019 Bemis Integration Plan\n\n37\n\n37\n\n37\n\n2.5\n\nNet loss on disposals(2)\n\n10\n\n10\n\n10\n\n0.7\n\nImpact of hyperinflation\n\n16\n\n16\n\n16\n\n1.0\n\n24\n\n24\n\n24\n\n1.9\nProperty and other losses, net(3)\n\n13\n\n13\n\n13\n\n0.8\n\n2\n\n2\n\n2\n\n0.1\nRussia-Ukraine conflict impacts(4)\n\n200\n\n200\n\n200\n\n13.2\n\n(90)\n(90)\n(90)\n(6.0)\nPension settlements\n\n8\n\n8"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_fixed_002",
+          "text": "2\n\n(90)\n(90)\n(90)\n(6.0)\nPension settlements\n\n8\n\n8\n\n8\n\n0.5\n\n5\n\n5\n\n5\n\n0.3\nOther\n\n4\n\n4\n\n4\n\n0.3\n\n(3)\n(3)\n(3)\n(0.3)\nAmortization of acquired intangibles (5)\n\n163\n\n163\n\n10.7\n\n160\n\n160\n\n10.8\nTax effect of above items\n\n(32)\n(2.1)\n\n(57)\n(4.0)\nAdjusted EBITDA, EBIT, Net income and EPS\n\n2,117\n\n1,701\n\n1,224\n\n80.5\n\n2,018\n\n1,608\n\n1,089\n\n73.3\nReconciliation of adjusted growth to comparable constant currency growth\n% growth - Adjusted EBITDA, EBIT, Net income, and EPS\n\n(5)\n(5)\n(11)\n(9)\n% items affecting compara"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_fixed_003",
+          "text": "nd EPS\n\n(5)\n(5)\n(11)\n(9)\n% items affecting comparability(6)\n\n3\n\n4\n\n4\n\n4\n% currency impact\n\n3\n\n2\n\n3\n\n3\n% comparable constant currency growth\n\n1\n\n1\n\n(4)\n(2)\nAdjusted EBITDA\n\n2,117\n\n2,018\nInterest paid, net\n\n(119)\n\n(248)\nIncome tax paid\n\n(256)\n\n(225)\nPurchase of property, plant and equipment and\nother intangible assets\n\n(527)\n\n(526)\nProceeds from sales of property, plant and\nequipment and other intangible assets\n\n18\n\n30\nMovement in working capital\n\n(154)\n\n(229)\nOther\n\n(13)\n\n28\nAdjusted Free Cash Fl"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_fixed_004",
+          "text": "(154)\n\n(229)\nOther\n\n(13)\n\n28\nAdjusted Free Cash Flow\n\n1,066\n\n848\n(1) Calculation of diluted EPS for the twelve months ended June 30, 2023 excludes net income attributable to shares to be repurchased under\nforward contracts of $7 million, and $3 million for the twelve months ended June 30, 2022.\n(2) Includes losses on disposal of non-core businesses in fiscal year 2022.\n(3) Property and other losses, net for fiscal year 2023 includes property claims and losses, net of insurance recovery related t"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_fixed_005",
+          "text": "ms and losses, net of insurance recovery related to the closure of our\nbusiness in South Africa. Fiscal year 2022 includes business losses primarily associated with the destruction of our Durban, South Africa facility\nduring general civil unrest in July 2021, net of insurance recovery.\n(4) Includes the net gain on disposal of the Russian business in December 2022 and incremental restructuring and other costs attributable to group\nwide initiatives to offset divested earnings from the Russian busi"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_fixed_006",
+          "text": "to offset divested earnings from the Russian business. Fiscal year 2022 includes impairment charges and restructuring and related\nexpenses.\n(5) Amortization of acquired intangible assets from business combinations.\n(6) Reflects the impact of acquired, disposed, and ceased operations.\n12"
+        }
+      ],
+      "B": [
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2023Q4_EARNINGS\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q4_EARNINGS\n\nTwelve Months Ended June 30, 2022\nTwelve Months Ended June 30, 2023\n($ million)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nNet income attributable to Amcor\n\n805\n\n805\n\n805\n\n52.9\n\n1,048\n\n1,048\n\n1,048\n\n70.5\nNet income attributable to non-controlling\ninterests\n\n10\n\n10\n\n10\n\n10\nTax expense\n\n300\n\n300\n\n193\n\n193\nInterest expense, net\n\n135\n\n135\n\n259\n\n259\nDepreciation and amortization\n\n579\n\n569\nEBITDA, EBIT, Net income and EPS\n\n1,829\n\n1,250\n\n805\n\n52.9\n\n2,080\n\n1,510\n\n1,048\n\n70.5\n2019 Bemis Integration Plan\n\n37\n\n37\n\n37\n\n2.5\n\nNet loss on disposals(2)\n\n10\n\n10\n\n10\n\n0.7\n\nImpact of hyperinflation\n\n16\n\n16\n\n16\n\n1.0\n\n24\n\n24\n\n24"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_001",
+          "text": "1.9\nProperty and other losses, net(3)\n\n13\n\n13\n\n13\n\n0.8\n\n2\n\n2\n\n2\n\n0.1\nRussia-Ukraine conflict impacts(4)\n\n200\n\n200\n\n200\n\n13.2\n\n(90)\n(90)\n(90)\n(6.0)\nPension settlements\n\n8\n\n8\n\n8\n\n0.5\n\n5\n\n5\n\n5\n\n0.3\nOther\n\n4\n\n4\n\n4\n\n0.3\n\n(3)\n(3)\n(3)\n(0.3)\nAmortization of acquired intangibles (5)\n\n163\n\n163\n\n10.7\n\n160\n\n160\n\n10.8\nTax effect of above items\n\n(32)\n(2.1)\n\n(57)\n(4.0)\nAdjusted EBITDA, EBIT, Net income and EPS\n\n2,117\n\n1,701\n\n1,224\n\n80.5\n\n2,018\n\n1,608\n\n1,089\n\n73.3\nReconciliation of adjusted growth to comparable constant currency growth\n% growth - Adjusted EBITDA, EBIT, Net income, and EPS\n\n(5)\n(5)\n(11)\n(9)\n% items affecting comparability(6)\n\n3\n\n4\n\n4\n\n4\n% currency impact\n\n3\n\n2\n\n3\n\n3\n% comparable constant currency growth\n\n1\n\n1\n\n(4)\n(2)\nAdjusted EBITDA\n\n2,117\n\n2,018\nInterest paid, net\n\n(119)"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_002",
+          "text": "(248)\nIncome tax paid\n\n(256)\n\n(225)\nPurchase of property, plant and equipment and\nother intangible assets\n\n(527)\n\n(526)\nProceeds from sales of property, plant and\nequipment and other intangible assets\n\n18\n\n30\nMovement in working capital\n\n(154)\n\n(229)\nOther\n\n(13)\n\n28\nAdjusted Free Cash Flow\n\n1,066"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_003",
+          "text": "848\n(1) Calculation of diluted EPS for the twelve months ended June 30, 2023 excludes net income attributable to shares to be repurchased under\nforward contracts of $7 million, and $3 million for the twelve months ended June 30, 2022.\n(2) Includes losses on disposal of non-core businesses in fiscal year 2022.\n(3) Property and other losses, net for fiscal year 2023 includes property claims and losses, net of insurance recovery related to the closure of our\nbusiness in South Africa. Fiscal year 2022 includes business losses primarily associated with the destruction of our Durban, South Africa facility\nduring general civil unrest in July 2021, net of insurance recovery."
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_004",
+          "text": "(4) Includes the net gain on disposal of the Russian business in December 2022 and incremental restructuring and other costs attributable to group\nwide initiatives to offset divested earnings from the Russian business. Fiscal year 2022 includes impairment charges and restructuring and related\nexpenses.\n(5) Amortization of acquired intangible assets from business combinations.\n(6) Reflects the impact of acquired, disposed, and ceased operations.\n12"
+        }
+      ],
+      "C": [
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_000",
+          "text": "# AMCOR Financial Filing: AMCOR_2023Q4_EARNINGS\n\n**Company**: AMCOR\n\n**Document**: AMCOR_2023Q4_EARNINGS\n\nTwelve Months Ended June 30, 2022\nTwelve Months Ended June 30, 2023\n($ million)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nEBITDA\nEBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nNet income attributable to Amcor\n\n805\n\n805\n\n805\n\n52.9\n\n1,048\n\n1,048\n\n1,048\n\n70.5\nNet income attributable to non-controlling\ninterests\n\n10\n\n10\n\n10\n\n10\nTax expense\n\n300\n\n300\n\n193\n\n193\nInterest expense, net\n\n135\n\n135\n\n259\n\n259\nDepreciation and amortization\n\n579\n\n569\nEBITDA, EBIT, Net income and EPS\n\n1,829\n\n1,250\n\n805\n\n52.9\n\n2,080\n\n1,510\n\n1,048\n\n70.5\n2019 Bemis Integration Plan\n\n37\n\n37\n\n37\n\n2.5\n\nNet loss on disposals(2)\n\n10\n\n10\n\n10\n\n0.7\n\nImpact of hyperinflation\n\n16\n\n16\n\n16\n\n1.0\n\n24\n\n24\n\n24"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_001",
+          "text": "1.9\nProperty and other losses, net(3)\n\n13\n\n13\n\n13\n\n0.8\n\n2\n\n2\n\n2\n\n0.1\nRussia-Ukraine conflict impacts(4)\n\n200\n\n200\n\n200\n\n13.2\n\n(90)\n(90)\n(90)\n(6.0)\nPension settlements\n\n8\n\n8\n\n8\n\n0.5\n\n5\n\n5\n\n5\n\n0.3\nOther\n\n4\n\n4\n\n4\n\n0.3\n\n(3)\n(3)\n(3)\n(0.3)\nAmortization of acquired intangibles (5)\n\n163\n\n163\n\n10.7\n\n160\n\n160\n\n10.8\nTax effect of above items\n\n(32)\n(2.1)\n\n(57)\n(4.0)\nAdjusted EBITDA, EBIT, Net income and EPS\n\n2,117\n\n1,701\n\n1,224\n\n80.5\n\n2,018\n\n1,608\n\n1,089\n\n73.3\nReconciliation of adjusted growth to comparable constant currency growth\n% growth - Adjusted EBITDA, EBIT, Net income, and EPS\n\n(5)\n(5)\n(11)\n(9)\n% items affecting comparability(6)\n\n3\n\n4\n\n4\n\n4\n% currency impact\n\n3\n\n2\n\n3\n\n3\n% comparable constant currency growth\n\n1\n\n1\n\n(4)\n(2)\nAdjusted EBITDA\n\n2,117\n\n2,018\nInterest paid, net\n\n(119)"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_002",
+          "text": "(248)\nIncome tax paid\n\n(256)\n\n(225)\nPurchase of property, plant and equipment and\nother intangible assets\n\n(527)\n\n(526)\nProceeds from sales of property, plant and\nequipment and other intangible assets\n\n18\n\n30\nMovement in working capital\n\n(154)\n\n(229)\nOther\n\n(13)\n\n28\nAdjusted Free Cash Flow\n\n1,066"
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_003",
+          "text": "848\n(1) Calculation of diluted EPS for the twelve months ended June 30, 2023 excludes net income attributable to shares to be repurchased under\nforward contracts of $7 million, and $3 million for the twelve months ended June 30, 2022.\n(2) Includes losses on disposal of non-core businesses in fiscal year 2022.\n(3) Property and other losses, net for fiscal year 2023 includes property claims and losses, net of insurance recovery related to the closure of our\nbusiness in South Africa. Fiscal year 2022 includes business losses primarily associated with the destruction of our Durban, South Africa facility\nduring general civil unrest in July 2021, net of insurance recovery."
+        },
+        {
+          "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_004",
+          "text": "(4) Includes the net gain on disposal of the Russian business in December 2022 and incremental restructuring and other costs attributable to group\nwide initiatives to offset divested earnings from the Russian business. Fiscal year 2022 includes impairment charges and restructuring and related\nexpenses.\n(5) Amortization of acquired intangible assets from business combinations.\n(6) Reflects the impact of acquired, disposed, and ceased operations.\n12"
+        }
+      ]
+    }
+  }
+]

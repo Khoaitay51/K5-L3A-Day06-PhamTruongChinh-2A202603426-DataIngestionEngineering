@@ -8,9 +8,18 @@ Biến tài liệu thành kho tri thức có thể truy xuất cho AI agent, r�
 |---|---|---|
 | Tối thiểu **30 trang nội dung** | Tối thiểu **3 cấu hình** | Tối thiểu **20 câu hỏi** |
 
-## Bắt đầu nhanh
+## Bài nộp của Phạm Trường Chinh · 2A202603426 · L3A
 
-Dùng [starter PostgreSQL + pgvector](starter/README.md) để dựng database và hoàn thiện các hàm TODO, hoặc tự chọn vector store tương đương. Starter chỉ là khung: **bạn tự hiện thực pipeline và benchmark**.
+Pipeline Python dùng Ollama và PostgreSQL + pgvector. Corpus gồm 35 trang nội dung từ 6 doanh nghiệp. Bộ benchmark gồm 20 câu tự soạn từ các trang nguồn, tách 15 dev và 5 test theo tài liệu.
+
+- [Cài đặt và chạy từ bản clone mới](starter/README.md)
+- [Manifest và nguồn dữ liệu](data/manifest.json)
+- [Câu hỏi và bằng chứng](benchmark/questions.json)
+- [Cấu hình và nhật ký thí nghiệm](artifacts/experiment_log.csv)
+- [Báo cáo cá nhân](report/individual/2A202603426_PhamTruongChinh.md)
+- [Kết quả và trace](results/)
+
+Corpus là các trích đoạn từ mẫu công khai [FinanceBench của PatronusAI](https://huggingface.co/datasets/PatronusAI/financebench), dùng cho bài tập phi thương mại. Dataset card ghi giấy phép [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Bài làm chuẩn hóa trích đoạn thành Markdown, chọn trang và soạn bộ câu hỏi riêng. Điều khoản của từng tài liệu do doanh nghiệp phát hành cần được kiểm tra trước khi tái phân phối riêng tài liệu đó.
 
 ## 1. Xây pipeline
 

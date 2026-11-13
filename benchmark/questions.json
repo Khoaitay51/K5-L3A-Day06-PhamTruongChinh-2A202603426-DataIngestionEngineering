@@ -1,0 +1,256 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "How much cash did 3M use to buy property, plant and equipment in fiscal 2018, in USD millions?",
+    "expected_answer": "1,577 million USD in cash outflow.",
+    "gold_source_id": "3M_2018_10K",
+    "gold_page": 59,
+    "evidence_quote": "Purchases of property, plant and equipment (PP&E) (1,577)",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "What was 3M's net property, plant and equipment at the end of 2018, in USD millions?",
+    "expected_answer": "8,738 million USD.",
+    "gold_source_id": "3M_2018_10K",
+    "gold_page": 57,
+    "evidence_quote": "Property, plant and equipment net 8,738 8,866",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "How far did 3M's operating margin fall in FY2022, in percentage points?",
+    "expected_answer": "1.7 percentage points, from 20.8% to 19.1%.",
+    "gold_source_id": "3M_2022_10K",
+    "gold_page": 26,
+    "evidence_quote": "Operating income margin 19.1 % 20.8 % (1.7)%",
+    "filter": {
+      "company": "3M",
+      "year": 2022
+    }
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "Which 3M business segment posted negative organic sales growth in FY2022, and by how much?",
+    "expected_answer": "Consumer, down 0.9%.",
+    "gold_source_id": "3M_2022_10K",
+    "gold_page": 24,
+    "evidence_quote": "Organic sales",
+    "filter": null,
+    "additional_evidence_quotes": [
+      "Consumer (0.9)"
+    ]
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "How much cash and cash equivalents did 3M report as of June 30, 2023, and how does that compare with December 31, 2022?",
+    "expected_answer": "4,258 million USD, up from 3,655 million USD.",
+    "gold_source_id": "3M_2023Q2_10Q",
+    "gold_page": 4,
+    "evidence_quote": "June 30, 2023 December 31, 2022 Assets Current assets Cash and cash equivalents $ 4,258 $ 3,655",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "How much was 3M's Q2 2023 dividend per share?",
+    "expected_answer": "1.50 USD per share.",
+    "gold_source_id": "3M_2023Q2_10Q",
+    "gold_page": 61,
+    "evidence_quote": "year of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.",
+    "filter": {
+      "company": "3M",
+      "year": 2023
+    }
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "In February 2023, how many consecutive years of dividend increases did 3M reach?",
+    "expected_answer": "65 consecutive years.",
+    "gold_source_id": "3M_2023Q2_10Q",
+    "gold_page": 61,
+    "evidence_quote": "authorization. In February 2023, 3Ms Board of Directors declared a first-quarter 2023 dividend of $1.50 per share, an increase of 1 percent. This marked the 65th consecutive year of dividend increases for 3M. In May 2023, 3M's Board of Directors declared a second-quarter 2023 dividend of $1.50 per share.",
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "What were Amcor's net trade receivables at June 30, 2020, in USD millions?",
+    "expected_answer": "1,615.9 million USD.",
+    "gold_source_id": "AMCOR_2020_10K",
+    "gold_page": 49,
+    "evidence_quote": "Trade receivables, net 1,615.9 1,864.3",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "What change to the issuer's obligations did Amcor describe in its July 2022 filing about supplemental indentures?",
+    "expected_answer": "The substitute issuer replaced the former issuer and assumed its covenants under the indentures.",
+    "gold_source_id": "AMCOR_2022_8K_dated-2022-07-01",
+    "gold_page": 1,
+    "evidence_quote": "Notes and, together with the New 2026 Notes, the New Notes), in each case, relating to the substitution of the Substitute Issuer for the Former Issuer and the assumption by the Substitute Issuer of the covenants of the Former Issuer under the Indentures. As disclosed in the Companys",
+    "filter": {
+      "company": "AMCOR",
+      "year": 2022
+    }
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "By how much did Amcor's current liabilities decrease from FY2022 to FY2023, in USD millions?",
+    "expected_answer": "627 million USD, from 5,103 million to 4,476 million.",
+    "gold_source_id": "AMCOR_2023_10K",
+    "gold_page": 51,
+    "evidence_quote": "Total current liabilities 4,476 5,103",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "Which facility in China did Amcor acquire in March 2023, and what was the purchase consideration?",
+    "expected_answer": "A medical-device packaging site in Shanghai for 60 million USD, subject to customary post-closing adjustments.",
+    "gold_source_id": "AMCOR_2023_10K",
+    "gold_page": 63,
+    "evidence_quote": "On March 17, 2023, the Company completed the acquisition of 100% equity interest in a medical device packaging manufacturing site in Shanghai, China. The purchase consideration of $60 million is subject to customary post-closing adjustments. The consideration includes contingent consideration of $20 million, to be earned and paid in cash over the three years following the acquisition date, subject to meeting",
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "Name the customer industries explicitly listed in Amcor's description of its packaging business.",
+    "expected_answer": "Food, beverage, pharmaceutical, medical, and home and personal-care.",
+    "gold_source_id": "AMCOR_2023_10K",
+    "gold_page": 4,
+    "evidence_quote": "more than 150 years, with origins in both Australia and the USA. Today, we are a global leader in developing and producing responsible packaging for food, beverage, pharmaceutical, medical, home and personal-care, and other products. Our innovation excellence and global",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "metadata_filter",
+    "question": "At the end of Amcor's FY2023 second quarter, what proportion of the restructuring liability was for employee costs?",
+    "expected_answer": "About 87.1%, or 81 million USD out of 93 million USD.",
+    "gold_source_id": "AMCOR_2023Q2_10Q",
+    "gold_page": 14,
+    "evidence_quote": "Employee Costs Fixed Asset Related Costs Other Costs Total Restructuring Costs",
+    "filter": {
+      "company": "AMCOR",
+      "year": 2023
+    },
+    "additional_evidence_quotes": [
+      "Liability balance at December 31, 2022 $ 81 $ 2 $ 10 $ 93"
+    ]
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "How did Amcor's adjusted EBITDA change in FY2023 versus FY2022, in USD millions?",
+    "expected_answer": "It fell from 2,117 to 2,018 million USD, a decrease of 99 million USD.",
+    "gold_source_id": "AMCOR_2023Q4_EARNINGS",
+    "gold_page": 11,
+    "evidence_quote": "Twelve Months Ended June 30, 2022 Twelve Months Ended June 30, 2023 ($ million)",
+    "filter": null,
+    "additional_evidence_quotes": [
+      "Adjusted EBITDA 2,117 2,018"
+    ]
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "source_evidence",
+    "question": "What was the net cash consideration Amcor received for disposing of its Russian business, excluding disposed cash and net-settled items?",
+    "expected_answer": "365 million USD.",
+    "gold_source_id": "AMCOR_2023_10K",
+    "gold_page": 63,
+    "evidence_quote": "On December 23, 2022, the Company completed the sale of its Russian business after receiving all necessary regulatory approvals and cash proceeds, including receipt of closing cash balances. The sale follows the Companys previously announced plan to pursue the orderly sale of its Russian business. The total net cash consideration received, excluding disposed cash and items settled net, was $365 million and resulted in a pre-tax net gain of $215 million. The carrying value of the Russian business had previously been impaired by $90 million in the quarter ended",
+    "filter": null
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "What was AMD's FY2022 gross margin, and what was the main reason for the decline from FY2021?",
+    "expected_answer": "45%, down from 48%, mainly due to amortization of intangible assets tied to the Xilinx acquisition.",
+    "gold_source_id": "AMD_2022_10K",
+    "gold_page": 42,
+    "evidence_quote": "driven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022, was 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.",
+    "filter": {
+      "company": "AMD",
+      "year": 2022
+    }
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "metadata_filter",
+    "question": "What primarily drove the 7.6% growth in Best Buy's comparable services sales in fiscal Q2 2024?",
+    "expected_answer": "Cumulative growth in the paid membership base.",
+    "gold_source_id": "BESTBUY_2024Q2_10Q",
+    "gold_page": 17,
+    "evidence_quote": "Services: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.",
+    "filter": {
+      "company": "BESTBUY",
+      "year": 2024
+    }
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "source_evidence",
+    "question": "Between which months and years were Boeing 787 deliveries suspended because of production quality issues?",
+    "expected_answer": "From May 2021 to August 2022.",
+    "gold_source_id": "BOEING_2022_10K",
+    "gold_page": 8,
+    "evidence_quote": "In addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries, including a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787",
+    "filter": null
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "source_evidence",
+    "question": "How much did American Express's net income change from 2021 to 2022, in USD millions?",
+    "expected_answer": "It decreased by 546 million USD, from 8,060 to 7,514 million USD.",
+    "gold_source_id": "AMERICANEXPRESS_2022_10K",
+    "gold_page": 43,
+    "evidence_quote": "Net income 7,514 8,060",
+    "filter": null,
+    "alternate_evidence": [
+      {
+        "gold_source_id": "AMERICANEXPRESS_2022_10K",
+        "gold_page": 95,
+        "evidence_quote": "Net income $ 7,514 $ 8,060"
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "source_evidence",
+    "question": "What net earnings figure starts Best Buy's consolidated operating cash flow reconciliation for FY2023, in USD millions?",
+    "expected_answer": "1,419 million USD.",
+    "gold_source_id": "BESTBUY_2023_10K",
+    "gold_page": 41,
+    "evidence_quote": "Net earnings $ 1,419",
+    "filter": null
+  }
+]

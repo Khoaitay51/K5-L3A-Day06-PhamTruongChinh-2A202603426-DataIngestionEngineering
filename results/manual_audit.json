@@ -1,0 +1,593 @@
+{
+  "assessor": "Codex, AI-assisted review of the regenerated results; student confirmation pending.",
+  "coherence_10_samples": {
+    "selection_rule": "First ten source pages sorted by document ID and page, at character offset 0 of the normalized page. Score the first chunk containing the start of each page.",
+    "scale": "0: no intelligible substantive content; 1: partial content or context; 2: self-contained unit.",
+    "scores": {
+      "A": {
+        "samples": [
+          {
+            "document_id": "3M_2018_10K",
+            "page": 57,
+            "chunk_id": "3M_2018_10K_p57_fixed_000",
+            "score": 1,
+            "reason": "Balance-sheet context is clear, but the work-in-process row loses the second value."
+          },
+          {
+            "document_id": "3M_2018_10K",
+            "page": 59,
+            "chunk_id": "3M_2018_10K_p59_fixed_000",
+            "score": 1,
+            "reason": "Operating cash-flow table is readable up to depreciation, then cuts the next row mid-word."
+          },
+          {
+            "document_id": "3M_2022_10K",
+            "page": 24,
+            "chunk_id": "3M_2022_10K_p24_fixed_000",
+            "score": 1,
+            "reason": "Identifies the segment table, but cuts the reference to the notes mid-sentence."
+          },
+          {
+            "document_id": "3M_2022_10K",
+            "page": 26,
+            "chunk_id": "3M_2022_10K_p26_fixed_000",
+            "score": 1,
+            "reason": "Keeps period and expense rows but cuts the next row label at the letter G."
+          },
+          {
+            "document_id": "3M_2023Q2_10Q",
+            "page": 4,
+            "chunk_id": "3M_2023Q2_10Q_p4_fixed_000",
+            "score": 1,
+            "reason": "Keeps the dates and cash row but cuts the final inventory row label."
+          },
+          {
+            "document_id": "3M_2023Q2_10Q",
+            "page": 61,
+            "chunk_id": "3M_2023Q2_10Q_p61_fixed_000",
+            "score": 1,
+            "reason": "Explains the repurchase program but cuts off the sentence about its end date."
+          },
+          {
+            "document_id": "AMCOR_2020_10K",
+            "page": 49,
+            "chunk_id": "AMCOR_2020_10K_p49_fixed_000",
+            "score": 1,
+            "reason": "Keeps the current assets section, but truncates the investment figure to 77."
+          },
+          {
+            "document_id": "AMCOR_2022_8K_dated-2022-07-01",
+            "page": 1,
+            "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_fixed_000",
+            "score": 1,
+            "reason": "Names both issuers but cuts the first indenture description before its date."
+          },
+          {
+            "document_id": "AMCOR_2023Q2_10Q",
+            "page": 14,
+            "chunk_id": "AMCOR_2023Q2_10Q_p14_fixed_000",
+            "score": 1,
+            "reason": "Gives the restructuring period and topic, but cuts the sentence about the 2019 plan."
+          },
+          {
+            "document_id": "AMCOR_2023Q4_EARNINGS",
+            "page": 11,
+            "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_fixed_000",
+            "score": 1,
+            "reason": "Keeps the year and reconciliation headings but cuts the interest expense row."
+          }
+        ],
+        "average": 1.0
+      },
+      "B": {
+        "samples": [
+          {
+            "document_id": "3M_2018_10K",
+            "page": 57,
+            "chunk_id": "3M_2018_10K_p57_para_000",
+            "score": 1,
+            "reason": "Keeps more rows, but the net property, plant and equipment row loses its comparison value."
+          },
+          {
+            "document_id": "3M_2018_10K",
+            "page": 59,
+            "chunk_id": "3M_2018_10K_p59_para_000",
+            "score": 1,
+            "reason": "Keeps prior rows, but ends at a changes-in-assets heading without its detail."
+          },
+          {
+            "document_id": "3M_2022_10K",
+            "page": 24,
+            "chunk_id": "3M_2022_10K_p24_para_000",
+            "score": 0,
+            "reason": "Contains provenance headings only and no substantive sales information."
+          },
+          {
+            "document_id": "3M_2022_10K",
+            "page": 26,
+            "chunk_id": "3M_2022_10K_p26_para_000",
+            "score": 1,
+            "reason": "Keeps more operating expense rows, but the final comparative goodwill row is incomplete."
+          },
+          {
+            "document_id": "3M_2023Q2_10Q",
+            "page": 4,
+            "chunk_id": "3M_2023Q2_10Q_p4_para_000",
+            "score": 0,
+            "reason": "Contains provenance headings only and no balance-sheet figures."
+          },
+          {
+            "document_id": "3M_2023Q2_10Q",
+            "page": 61,
+            "chunk_id": "3M_2023Q2_10Q_p61_para_000",
+            "score": 1,
+            "reason": "Retains earlier repurchase context, but leaves the final sentence unfinished."
+          },
+          {
+            "document_id": "AMCOR_2020_10K",
+            "page": 49,
+            "chunk_id": "AMCOR_2020_10K_p49_para_000",
+            "score": 2,
+            "reason": "Keeps dates, units and complete rows from cash through operating lease assets."
+          },
+          {
+            "document_id": "AMCOR_2022_8K_dated-2022-07-01",
+            "page": 1,
+            "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_000",
+            "score": 0,
+            "reason": "Contains only the document header and Item 8.01 heading."
+          },
+          {
+            "document_id": "AMCOR_2023Q2_10Q",
+            "page": 14,
+            "chunk_id": "AMCOR_2023Q2_10Q_p14_para_000",
+            "score": 1,
+            "reason": "Keeps the first restructuring paragraph but cuts the segment description."
+          },
+          {
+            "document_id": "AMCOR_2023Q4_EARNINGS",
+            "page": 11,
+            "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_000",
+            "score": 1,
+            "reason": "Keeps table headings and several rows, but the hyperinflation row ends before its last column."
+          }
+        ],
+        "average": 0.8
+      },
+      "C": {
+        "samples": [
+          {
+            "document_id": "3M_2018_10K",
+            "page": 57,
+            "chunk_id": "3M_2018_10K_p57_para_000",
+            "score": 1,
+            "reason": "Keeps more rows, but the net property, plant and equipment row loses its comparison value."
+          },
+          {
+            "document_id": "3M_2018_10K",
+            "page": 59,
+            "chunk_id": "3M_2018_10K_p59_para_000",
+            "score": 1,
+            "reason": "Keeps prior rows, but ends at a changes-in-assets heading without its detail."
+          },
+          {
+            "document_id": "3M_2022_10K",
+            "page": 24,
+            "chunk_id": "3M_2022_10K_p24_para_000",
+            "score": 0,
+            "reason": "Contains provenance headings only and no substantive sales information."
+          },
+          {
+            "document_id": "3M_2022_10K",
+            "page": 26,
+            "chunk_id": "3M_2022_10K_p26_para_000",
+            "score": 1,
+            "reason": "Keeps more operating expense rows, but the final comparative goodwill row is incomplete."
+          },
+          {
+            "document_id": "3M_2023Q2_10Q",
+            "page": 4,
+            "chunk_id": "3M_2023Q2_10Q_p4_para_000",
+            "score": 0,
+            "reason": "Contains provenance headings only and no balance-sheet figures."
+          },
+          {
+            "document_id": "3M_2023Q2_10Q",
+            "page": 61,
+            "chunk_id": "3M_2023Q2_10Q_p61_para_000",
+            "score": 1,
+            "reason": "Retains earlier repurchase context, but leaves the final sentence unfinished."
+          },
+          {
+            "document_id": "AMCOR_2020_10K",
+            "page": 49,
+            "chunk_id": "AMCOR_2020_10K_p49_para_000",
+            "score": 2,
+            "reason": "Keeps dates, units and complete rows from cash through operating lease assets."
+          },
+          {
+            "document_id": "AMCOR_2022_8K_dated-2022-07-01",
+            "page": 1,
+            "chunk_id": "AMCOR_2022_8K_dated-2022-07-01_p1_para_000",
+            "score": 0,
+            "reason": "Contains only the document header and Item 8.01 heading."
+          },
+          {
+            "document_id": "AMCOR_2023Q2_10Q",
+            "page": 14,
+            "chunk_id": "AMCOR_2023Q2_10Q_p14_para_000",
+            "score": 1,
+            "reason": "Keeps the first restructuring paragraph but cuts the segment description."
+          },
+          {
+            "document_id": "AMCOR_2023Q4_EARNINGS",
+            "page": 11,
+            "chunk_id": "AMCOR_2023Q4_EARNINGS_p11_para_000",
+            "score": 1,
+            "reason": "Keeps table headings and several rows, but the hyperinflation row ends before its last column."
+          }
+        ],
+        "average": 0.8
+      }
+    }
+  },
+  "metadata_usefulness_test_top3": {
+    "selection_rule": "All ranks of the five test queries. Compare chunk metadata against each local manifest entry.",
+    "complete_and_accurate": {
+      "A": 15,
+      "B": 15,
+      "C": 15
+    },
+    "records_checked_per_strategy": 15,
+    "records": {
+      "A": {
+        "q16": [
+          {
+            "rank": 1,
+            "chunk_id": "AMD_2022_10K_p42_fixed_007",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "AMD_2022_10K_p42_fixed_003",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "AMD_2022_10K_p42_fixed_002",
+            "issues": []
+          }
+        ],
+        "q17": [
+          {
+            "rank": 1,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p17_fixed_000",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p17_fixed_001",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p17_fixed_004",
+            "issues": []
+          }
+        ],
+        "q18": [
+          {
+            "rank": 1,
+            "chunk_id": "BOEING_2022_10K_p8_fixed_007",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "BOEING_2022_10K_p8_fixed_008",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "BOEING_2022_10K_p8_fixed_006",
+            "issues": []
+          }
+        ],
+        "q19": [
+          {
+            "rank": 1,
+            "chunk_id": "AMERICANEXPRESS_2022_10K_p95_fixed_000",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "AMERICANEXPRESS_2022_10K_p43_fixed_000",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "AMERICANEXPRESS_2022_10K_p97_fixed_000",
+            "issues": []
+          }
+        ],
+        "q20": [
+          {
+            "rank": 1,
+            "chunk_id": "BESTBUY_2023_10K_p41_fixed_000",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p19_fixed_000",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "BESTBUY_2017_10K_p55_fixed_000",
+            "issues": []
+          }
+        ]
+      },
+      "B": {
+        "q16": [
+          {
+            "rank": 1,
+            "chunk_id": "AMD_2022_10K_p42_para_001",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "AMD_2022_10K_p42_para_004",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "AMD_2022_10K_p42_para_000",
+            "issues": []
+          }
+        ],
+        "q17": [
+          {
+            "rank": 1,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_000",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_001",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p16_para_000",
+            "issues": []
+          }
+        ],
+        "q18": [
+          {
+            "rank": 1,
+            "chunk_id": "BOEING_2022_10K_p8_para_005",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "BOEING_2022_10K_p8_para_006",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "BOEING_2022_10K_p7_para_004",
+            "issues": []
+          }
+        ],
+        "q19": [
+          {
+            "rank": 1,
+            "chunk_id": "AMERICANEXPRESS_2022_10K_p43_para_000",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "AMERICANEXPRESS_2022_10K_p154_para_000",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "AMERICANEXPRESS_2022_10K_p44_para_000",
+            "issues": []
+          }
+        ],
+        "q20": [
+          {
+            "rank": 1,
+            "chunk_id": "BESTBUY_2023_10K_p41_para_000",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p19_para_000",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "BESTBUY_2017_10K_p55_para_000",
+            "issues": []
+          }
+        ]
+      },
+      "C": {
+        "q16": [
+          {
+            "rank": 1,
+            "chunk_id": "AMD_2022_10K_p42_para_001",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "AMD_2022_10K_p42_para_004",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "AMD_2022_10K_p42_para_000",
+            "issues": []
+          }
+        ],
+        "q17": [
+          {
+            "rank": 1,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_000",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_001",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p16_para_000",
+            "issues": []
+          }
+        ],
+        "q18": [
+          {
+            "rank": 1,
+            "chunk_id": "BOEING_2022_10K_p8_para_005",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "BOEING_2022_10K_p8_para_006",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "BOEING_2022_10K_p7_para_004",
+            "issues": []
+          }
+        ],
+        "q19": [
+          {
+            "rank": 1,
+            "chunk_id": "AMERICANEXPRESS_2022_10K_p95_para_000",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "AMERICANEXPRESS_2022_10K_p154_para_000",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "AMERICANEXPRESS_2022_10K_p43_para_000",
+            "issues": []
+          }
+        ],
+        "q20": [
+          {
+            "rank": 1,
+            "chunk_id": "BESTBUY_2023_10K_p41_para_000",
+            "issues": []
+          },
+          {
+            "rank": 2,
+            "chunk_id": "BESTBUY_2024Q2_10Q_p19_para_000",
+            "issues": []
+          },
+          {
+            "rank": 3,
+            "chunk_id": "BESTBUY_2017_10K_p55_para_000",
+            "issues": []
+          }
+        ]
+      }
+    }
+  },
+  "grounding_quality_5_test": {
+    "scale": "0: no usable evidence; 1: partial evidence; 2: sufficient top-3 evidence with source.",
+    "A": {
+      "q16": {
+        "score": 1,
+        "reason": "Rank 1 gives both margin percentages and intangible amortization, but the acquisition name is truncated."
+      },
+      "q17": {
+        "score": 2,
+        "reason": "Rank 2 names the 7.6% increase and attributes it to growth in paid membership."
+      },
+      "q18": {
+        "score": 2,
+        "reason": "Rank 1 gives the exact May 2021 to August 2022 suspension dates. Its leading context is clipped, so the full exact quote test misses."
+      },
+      "q19": {
+        "score": 0,
+        "reason": "The top chunks include statement headings, revenue and balance-sheet figures without the net-income values."
+      },
+      "q20": {
+        "score": 2,
+        "reason": "Rank 1 gives net earnings of 1,419 in the operating cash flow reconciliation."
+      },
+      "distribution": {
+        "0": 1,
+        "1": 1,
+        "2": 3
+      },
+      "average": 1.4
+    },
+    "B": {
+      "q16": {
+        "score": 2,
+        "reason": "Rank 2 gives both margin percentages and ties the change to amortization of Xilinx acquisition intangibles."
+      },
+      "q17": {
+        "score": 2,
+        "reason": "Rank 2 names the 7.6% increase and attributes it to growth in paid membership."
+      },
+      "q18": {
+        "score": 2,
+        "reason": "Rank 1 gives the suspension dates and the production quality context."
+      },
+      "q19": {
+        "score": 0,
+        "reason": "The retrieved chunks are provenance headers and do not provide the net-income figures."
+      },
+      "q20": {
+        "score": 2,
+        "reason": "Rank 1 gives net earnings of 1,419 in the operating cash flow reconciliation."
+      },
+      "distribution": {
+        "0": 1,
+        "1": 0,
+        "2": 4
+      },
+      "average": 1.6
+    },
+    "C": {
+      "q16": {
+        "score": 2,
+        "reason": "Rank 2 gives both margin percentages and ties the change to amortization of Xilinx acquisition intangibles."
+      },
+      "q17": {
+        "score": 2,
+        "reason": "Rank 2 names the 7.6% increase and attributes it to growth in paid membership."
+      },
+      "q18": {
+        "score": 2,
+        "reason": "Rank 1 gives the suspension dates and the production quality context."
+      },
+      "q19": {
+        "score": 0,
+        "reason": "The retrieved chunks are provenance headers and do not provide the net-income figures."
+      },
+      "q20": {
+        "score": 2,
+        "reason": "Rank 1 gives net earnings of 1,419 in the operating cash flow reconciliation."
+      },
+      "distribution": {
+        "0": 1,
+        "1": 0,
+        "2": 4
+      },
+      "average": 1.6
+    }
+  }
+}

@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,"document_id,source,page,company,year,doc_type",none,Ollama Nomic Embed Text v1.5 (768d),Short windows can keep specific facts but cut tables and sentences.,2/15 (13.3%),3/15 (20.0%),1/5 (20.0%),2/5 (40.0%),"258 chunks, median=500 chars, ingest=48.36s, cost=$0"
+B,paragraph,800,80 on oversized individual lines,"document_id,source,page,company,year,doc_type",none,Ollama Nomic Embed Text v1.5 (768d),Grouping paragraphs can preserve more context and reduce chunk count.,6/15 (40.0%),6/15 (40.0%),2/5 (40.0%),4/5 (80.0%),"185 chunks, median=708 chars, ingest=49.11s, cost=$0"
+C,paragraph,800,80 on oversized individual lines,"document_id,source,page,company,year,doc_type","company, year when provided",Ollama Nomic Embed Text v1.5 (768d),Filter can improve evidence retrieval on questions with an explicit scope.,6/15 (40.0%),7/15 (46.7%),2/5 (40.0%),4/5 (80.0%),"185 chunks, median=708 chars, ingest=0.34s, cost=$0"

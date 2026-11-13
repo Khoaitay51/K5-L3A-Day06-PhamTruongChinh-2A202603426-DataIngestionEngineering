@@ -1,0 +1,23 @@
+2026-11-13T19:13:42+07:00
+Python 3.12.3
+Database: day6_lab | PostgreSQL: 16.16 (Debian 16.16-1.pgdg12+1) | pgvector: 0.8.7
+Setup OK.
+{"version":"0.35.0"}
+[1/5] Loaded 35 corpus pages (all >= 1500 chars).
+[2/5] Loaded 20 benchmark questions (15 dev / 5 test).
+[3/5] Connected to PostgreSQL + pgvector and Ollama (nomic-embed-text, dim=768).
+    Strategy A (fixed_size_500_50): 258 chunks, median=500 chars, time=48.36s, stored=258
+    Strategy B (paragraph_800): 185 chunks, median=708 chars, time=49.11s, stored=185
+    Strategy C (paragraph_800_filtered): 185 chunks, median=708 chars, time=0.34s, stored=185
+[4/5] Embedding queries and running top-3 retrieval...
+
+[5/5] Benchmark Summary:
+Strategy   Split  Hit@1        Hit@3        FilterOK
+A          dev    2/15 (13.3%) 3/15 (20.0%) N/A
+A          test   1/5 (20.0%)  2/5 (40.0%)  N/A
+B          dev    6/15 (40.0%) 6/15 (40.0%) N/A
+B          test   2/5 (40.0%)  4/5 (80.0%)  N/A
+C          dev    6/15 (40.0%) 7/15 (46.7%) 4/4
+C          test   2/5 (40.0%)  4/5 (80.0%)  2/2
+
+Results saved to: results/

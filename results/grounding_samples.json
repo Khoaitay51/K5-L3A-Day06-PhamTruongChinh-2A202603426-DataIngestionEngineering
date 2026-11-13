@@ -1,0 +1,1220 @@
+{
+  "A": [
+    {
+      "question_id": "q16",
+      "split": "test",
+      "type": "metadata_filter",
+      "question": "What was AMD's FY2022 gross margin, and what was the main reason for the decline from FY2021?",
+      "gold_source_id": "AMD_2022_10K",
+      "gold_page": 42,
+      "evidence_quote": "driven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022, was 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.",
+      "applied_filter": null,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "AMD_2022_10K_p42_fixed_007",
+          "document_id": "AMD_2022_10K",
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "page": 42,
+          "score": 0.71015,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 42,
+            "year": 2022,
+            "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+            "company": "AMD",
+            "doc_type": "10K",
+            "char_count": 500,
+            "chunk_index": 7,
+            "document_id": "AMD_2022_10K"
+          },
+          "text": "from the prior year period driven by the inclusion\nof Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue primarily due to lower processor shipments\ndriven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022,\nwas 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xi"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "AMD_2022_10K_p42_fixed_003",
+          "document_id": "AMD_2022_10K",
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "page": 42,
+          "score": 0.692885,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 42,
+            "year": 2022,
+            "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+            "company": "AMD",
+            "doc_type": "10K",
+            "char_count": 500,
+            "chunk_index": 3,
+            "document_id": "AMD_2022_10K"
+          },
+          "text": "rmative year for AMD as we took several major steps that scaled and reshaped our business. In February 2022, we completed our strategic\nacquisition of Xilinx, Inc. (Xilinx) which expanded our technology and product portfolio to include adaptable hardware platforms that enable hardware\nacceleration and rapid innovation across a variety of technologies and established AMD in multiple embedded markets where we have traditionally not had a\nsignificant presence. We now offer Field Programmable Gate A"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "AMD_2022_10K_p42_fixed_002",
+          "document_id": "AMD_2022_10K",
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "page": 42,
+          "score": 0.69283,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 42,
+            "year": 2022,
+            "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+            "company": "AMD",
+            "doc_type": "10K",
+            "char_count": 499,
+            "chunk_index": 2,
+            "document_id": "AMD_2022_10K"
+          },
+          "text": "an analysis of changes in our financial\ncondition and a discussion of our off-balance sheet arrangements. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 that are\nnot included in this Form 10-K can be found in Managements Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of\nour Annual Report on Form 10-K for the fiscal year ended December 25, 2021.\nOverview\n2022 was a transformative year for AMD as we took several major step"
+        }
+      ]
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "type": "metadata_filter",
+      "question": "What primarily drove the 7.6% growth in Best Buy's comparable services sales in fiscal Q2 2024?",
+      "gold_source_id": "BESTBUY_2024Q2_10Q",
+      "gold_page": 17,
+      "evidence_quote": "Services: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.",
+      "applied_filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p17_fixed_000",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+          "page": 17,
+          "score": 0.785385,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 17,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 500,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nNotable comparable sales changes by revenue category were as follows:\n\nComputing and Mobile Phones: The 6.4% comparable sales decline was driven primarily by computing, mobile phones and tablets.\n\nConsumer Electronics: The 5.7% comparable sales decline was driven primarily by home theater, partially offset by comparable sales growth in\nheadphones and portable speakers.\n\nAp"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p17_fixed_001",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+          "page": 17,
+          "score": 0.753726,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 17,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 500,
+            "chunk_index": 1,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "es growth in\nheadphones and portable speakers.\n\nAppliances: The 16.1% comparable sales decline was driven primarily by large appliances.\n\nEntertainment: The 9.0% comparable sales growth was driven primarily by gaming, partially offset by comparable sales declines in virtual reality and\ndrones.\n\nServices: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.\n\nOur gross profit rate increased in the second quarter of fiscal 2024, primarily due t"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p17_fixed_004",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+          "page": 17,
+          "score": 0.729155,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 17,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 500,
+            "chunk_index": 4,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "to our gross profit and operating income rates for the past nine\nquarters and approximated 1.4% of Domestic revenue in fiscal 2023, an increase of approximately 50 basis points compared to fiscal 2020. This growth has\nbeen driven by the increased usage of our credit card, both at and outside of Best Buy, and the favorable credit environment. For fiscal 2024, we expect this\nprofit-sharing revenue to have a relatively neutral impact to our annual gross profit rate compared to last year, as the ben"
+        }
+      ]
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "type": "source_evidence",
+      "question": "Between which months and years were Boeing 787 deliveries suspended because of production quality issues?",
+      "gold_source_id": "BOEING_2022_10K",
+      "gold_page": 8,
+      "evidence_quote": "In addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries, including a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787",
+      "applied_filter": null,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "BOEING_2022_10K_p8_fixed_007",
+          "document_id": "BOEING_2022_10K",
+          "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+          "page": 8,
+          "score": 0.803779,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 8,
+            "year": 2022,
+            "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+            "company": "BOEING",
+            "doc_type": "10K",
+            "char_count": 499,
+            "chunk_index": 7,
+            "document_id": "BOEING_2022_10K"
+          },
+          "text": "787 deliveries,\nincluding a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787\naircraft. A number of our customers have contractual remedies, including compensation for late deliveries or rights to reject individual airplane\ndeliveries based on delivery delays. Delays on the 737, 777X and 787 programs have resulted in, and may continue to result in, customers\nhaving the right to terminate orders, be compensated for la"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "BOEING_2022_10K_p8_fixed_008",
+          "document_id": "BOEING_2022_10K",
+          "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+          "page": 8,
+          "score": 0.734781,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 8,
+            "year": 2022,
+            "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+            "company": "BOEING",
+            "doc_type": "10K",
+            "char_count": 500,
+            "chunk_index": 8,
+            "document_id": "BOEING_2022_10K"
+          },
+          "text": "e right to terminate orders, be compensated for late deliveries and/or substitute orders for other Boeing aircraft.\nWe must minimize disruption caused by production changes, achieve operational stability and implement productivity improvements in order to\nmeet customer demand and maintain our profitability. We have previously announced plans to adjust production rates on several of our\ncommercial aircraft programs. The 787 program is currently producing at low rates and we expect to gradually in"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "BOEING_2022_10K_p8_fixed_006",
+          "document_id": "BOEING_2022_10K",
+          "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+          "page": 8,
+          "score": 0.699477,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 8,
+            "year": 2022,
+            "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+            "company": "BOEING",
+            "doc_type": "10K",
+            "char_count": 500,
+            "chunk_index": 6,
+            "document_id": "BOEING_2022_10K"
+          },
+          "text": "agencies\noutside the U.S. implement more stringent regulations, we may incur additional compliance costs. In addition, the introduction of new aircraft\nprograms and/or derivatives, such as the 777X, 737-7 and 737-10, involves increased risks associated with meeting development, testing,\ncertification and production schedules.\nIn addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries,\nincluding a suspension of 787 del"
+        }
+      ]
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "type": "source_evidence",
+      "question": "How much did American Express's net income change from 2021 to 2022, in USD millions?",
+      "gold_source_id": "AMERICANEXPRESS_2022_10K",
+      "gold_page": 43,
+      "evidence_quote": "Net income 7,514 8,060",
+      "alternate_evidence": [
+        {
+          "gold_source_id": "AMERICANEXPRESS_2022_10K",
+          "gold_page": 95,
+          "evidence_quote": "Net income $ 7,514 $ 8,060"
+        }
+      ],
+      "applied_filter": null,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "AMERICANEXPRESS_2022_10K_p95_fixed_000",
+          "document_id": "AMERICANEXPRESS_2022_10K",
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p95.md",
+          "page": 95,
+          "score": 0.789316,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 95,
+            "year": 2022,
+            "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p95.md",
+            "company": "AMERICANEXPRESS",
+            "doc_type": "10K",
+            "char_count": 500,
+            "chunk_index": 0,
+            "document_id": "AMERICANEXPRESS_2022_10K"
+          },
+          "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K\n\nTable of Contents\nCONSOLIDATED STATEMENTS OF INCOME\nYear Ended December 31 (Millions, except per share amounts)\n2022\n2021\n2020\nRevenues\nNon-interest revenues\nDiscount revenue\n$\n30,739\n$\n24,563\n$\n19,435\nNet card fees\n6,070\n5,195\n4,664\nService fees and other revenue\n4,521\n3,316\n2,702\nProcessed revenue\n1,637\n1,556\n1,301\nTotal non-interest revenues\n42,967\n34,630\n28,10"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "AMERICANEXPRESS_2022_10K_p43_fixed_000",
+          "document_id": "AMERICANEXPRESS_2022_10K",
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
+          "page": 43,
+          "score": 0.781378,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 43,
+            "year": 2022,
+            "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
+            "company": "AMERICANEXPRESS",
+            "doc_type": "10K",
+            "char_count": 500,
+            "chunk_index": 0,
+            "document_id": "AMERICANEXPRESS_2022_10K"
+          },
+          "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K\n\nTable of Contents\nTABLE 1: SUMMARY OF FINANCIAL PERFORMANCE\nYears Ended December 31,\nChange\nChange\n(Millions, except percentages, per share amounts and where indicated)\n2022\n2021\n2020\n2022 vs. 2021\n2021 vs. 2020\nSelected Income Statement Data\nTotal revenues net of interest expense\n$\n52,862\n$\n42,380\n$\n36,087\n$\n10,482\n25 %\n$\n6,293\n17 %\nProvisions for credit losses\n2"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "AMERICANEXPRESS_2022_10K_p97_fixed_000",
+          "document_id": "AMERICANEXPRESS_2022_10K",
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p97.md",
+          "page": 97,
+          "score": 0.763743,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 97,
+            "year": 2022,
+            "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p97.md",
+            "company": "AMERICANEXPRESS",
+            "doc_type": "10K",
+            "char_count": 500,
+            "chunk_index": 0,
+            "document_id": "AMERICANEXPRESS_2022_10K"
+          },
+          "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K\n\nTable of Contents\nCONSOLIDATED BALANCE SHEETS\nDecember 31 (Millions, except share data)\n2022\n2021\nAssets\nCash and cash equivalents\nCash and due from banks (includes restricted cash of consolidated variable interest entities: 2022, $5; 2021, $11)\n$\n5,510\n$\n1,292\nInterest-bearing deposits in other banks (includes securities purchased under resale agreements: 2022, $"
+        }
+      ]
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "type": "source_evidence",
+      "question": "What net earnings figure starts Best Buy's consolidated operating cash flow reconciliation for FY2023, in USD millions?",
+      "gold_source_id": "BESTBUY_2023_10K",
+      "gold_page": 41,
+      "evidence_quote": "Net earnings $ 1,419",
+      "applied_filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "BESTBUY_2023_10K_p41_fixed_000",
+          "document_id": "BESTBUY_2023_10K",
+          "source": "starter/data/corpus/BESTBUY_2023_10K__p41.md",
+          "page": 41,
+          "score": 0.7988,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 41,
+            "year": 2023,
+            "source": "starter/data/corpus/BESTBUY_2023_10K__p41.md",
+            "company": "BESTBUY",
+            "doc_type": "10K",
+            "char_count": 500,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2023_10K"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2023_10K\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2023_10K\n\nConsolidated Statements of Cash Flows\n$ in millions\n\nFiscal Years Ended\nJanuary 28, 2023\n\nJanuary 29, 2022\n\nJanuary 30, 2021\nOperating activities\n\nNet earnings\n$\n1,419\n\n$\n2,454\n\n$\n1,798\n\nAdjustments to reconcile net earnings to total cash provided by operating activities:\n\nDepreciation and amortization\n\n918\n\n869\n\n839\nRestructuring charges\n\n147\n\n(34)\n\n254\nStock-based compensation\n\n138\n\n141\n\n135\nD"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p19_fixed_000",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+          "page": 19,
+          "score": 0.752114,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 19,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 499,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nConsolidated Non-GAAP Financial Measures\n\nReconciliations of operating income, effective tax rate and diluted EPS (GAAP financial measures) to non-GAAP operating income, non-GAAP effective tax rate\nand non-GAAP diluted EPS (non-GAAP financial measures) were as follows ($ in millions, except per share amounts):\n\nThree Months Ended\n\nSix Months Ended\n\nJuly 29, 2023\n\nJuly 30,"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "BESTBUY_2017_10K_p55_fixed_000",
+          "document_id": "BESTBUY_2017_10K",
+          "source": "starter/data/corpus/BESTBUY_2017_10K__p55.md",
+          "page": 55,
+          "score": 0.731357,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 55,
+            "year": 2017,
+            "source": "starter/data/corpus/BESTBUY_2017_10K__p55.md",
+            "company": "BESTBUY",
+            "doc_type": "10K",
+            "char_count": 500,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2017_10K"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2017_10K\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2017_10K\n\nTable of Contents\nConsolidated Statements of Earnings\n$ and shares in millions, except per share amounts\nFiscal Years Ended\n\nJanuary 28, 2017\nJanuary 30, 2016\nJanuary 31, 2015\nRevenue\n$\n39,403\n$\n39,528\n$\n40,339\nCostofgoodssold\n\n29,963\n\n30,334\n\n31,292\nRestructuringchargescostofgoodssold\n\n3\n\nGrossprofit\n\n9,440\n\n9,191\n\n9,047\nSelling,generalandadministrativeexpenses\n\n7,547\n\n7,618\n\n7,592\nRestructurin"
+        }
+      ]
+    }
+  ],
+  "B": [
+    {
+      "question_id": "q16",
+      "split": "test",
+      "type": "metadata_filter",
+      "question": "What was AMD's FY2022 gross margin, and what was the main reason for the decline from FY2021?",
+      "gold_source_id": "AMD_2022_10K",
+      "gold_page": 42,
+      "evidence_quote": "driven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022, was 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.",
+      "applied_filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "AMD_2022_10K_p42_para_001",
+          "document_id": "AMD_2022_10K",
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "page": 42,
+          "score": 0.711811,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 42,
+            "year": 2022,
+            "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+            "company": "AMD",
+            "doc_type": "10K",
+            "char_count": 695,
+            "chunk_index": 1,
+            "document_id": "AMD_2022_10K"
+          },
+          "text": "(collectively, us, our or AMD), including a discussion of our results of operations for 2022 compared to 2021, an analysis of changes in our financial\ncondition and a discussion of our off-balance sheet arrangements. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 that are\nnot included in this Form 10-K can be found in Managements Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of\nour Annual Report on Form 10-K for the fiscal year ended December 25, 2021.\nOverview\n2022 was a transformative year for AMD as we took several major steps that scaled and reshaped our business. In February 2022, we completed our strategic"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "AMD_2022_10K_p42_para_004",
+          "document_id": "AMD_2022_10K",
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "page": 42,
+          "score": 0.708296,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 42,
+            "year": 2022,
+            "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+            "company": "AMD",
+            "doc_type": "10K",
+            "char_count": 778,
+            "chunk_index": 4,
+            "document_id": "AMD_2022_10K"
+          },
+          "text": "primarily due to higher semi-custom product sales, and a significant increase in Embedded segment revenue from the prior year period driven by the inclusion\nof Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue primarily due to lower processor shipments\ndriven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022,\nwas 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.\nOperating income for 2022 was $1.3 billion compared to operating income of $3.6 billion for 2021. The decrease in operating income was primarily driven by"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "AMD_2022_10K_p42_para_000",
+          "document_id": "AMD_2022_10K",
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "page": 42,
+          "score": 0.669576,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 42,
+            "year": 2022,
+            "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+            "company": "AMD",
+            "doc_type": "10K",
+            "char_count": 789,
+            "chunk_index": 0,
+            "document_id": "AMD_2022_10K"
+          },
+          "text": "# AMD Financial Filing: AMD_2022_10K\n\n**Company**: AMD\n\n**Document**: AMD_2022_10K\n\nTable of Contents\nITEM 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS\nThe following discussion should be read in conjunction with the consolidated financial statements as of December 31, 2022 and December 25, 2021 and for\neach of the three years in the period ended December 31, 2022 and related notes, which are included in this Annual Report on Form 10-K as well as with the\nother sections of this Annual Report on Form 10-K, Part II, Item 8: Financial Statements and Supplementary Data.\nIntroduction\nIn this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries"
+        }
+      ]
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "type": "metadata_filter",
+      "question": "What primarily drove the 7.6% growth in Best Buy's comparable services sales in fiscal Q2 2024?",
+      "gold_source_id": "BESTBUY_2024Q2_10Q",
+      "gold_page": 17,
+      "evidence_quote": "Services: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.",
+      "applied_filter": null,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_000",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+          "page": 17,
+          "score": 0.797135,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 17,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 744,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nNotable comparable sales changes by revenue category were as follows:\n\nComputing and Mobile Phones: The 6.4% comparable sales decline was driven primarily by computing, mobile phones and tablets.\n\nConsumer Electronics: The 5.7% comparable sales decline was driven primarily by home theater, partially offset by comparable sales growth in\nheadphones and portable speakers.\n\nAppliances: The 16.1% comparable sales decline was driven primarily by large appliances.\n\nEntertainment: The 9.0% comparable sales growth was driven primarily by gaming, partially offset by comparable sales declines in virtual reality and\ndrones."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_001",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+          "page": 17,
+          "score": 0.746812,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 17,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 494,
+            "chunk_index": 1,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "Services: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.\n\nOur gross profit rate increased in the second quarter of fiscal 2024, primarily due to favorable product margin rates, improved financial performance from our\nmembership offerings, which included higher services margin rates and reduced costs associated with program changes made to our free membership offering,\nand an improved gross profit rate from our Health initiatives."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p16_para_000",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p16.md",
+          "page": 16,
+          "score": 0.71658,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 16,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p16.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 665,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nSegment Performance Summary\n\nDomestic Segment\n\nSelected financial data for the Domestic segment was as follows ($ in millions):\n\nThree Months Ended\n\nSix Months Ended\n\nJuly 29, 2023\n\nJuly 30, 2022\n\nJuly 29, 2023\n\nJuly 30, 2022\nRevenue\n$\n8,890\n$\n9,569\n$\n17,691\n$\n19,463\nRevenue % change\n\n(7.1)%\n(13.1)%\n(9.1)%\n(10.9)%\nComparable sales % change(1)\n\n(6.3)%\n(12.7)%\n(8.4)%\n(10.6)%\nGross profit\n$\n2,052\n$\n2,109\n$\n4,044\n$\n4,279\nGross profit as a % of revenue\n\n23.1 %\n22.0 %\n22.9 %\n22.0 %\nSG&A\n$\n1,730\n$\n1,732\n$\n3,440\n$\n3,473\nSG&A as a % of revenue"
+        }
+      ]
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "type": "source_evidence",
+      "question": "Between which months and years were Boeing 787 deliveries suspended because of production quality issues?",
+      "gold_source_id": "BOEING_2022_10K",
+      "gold_page": 8,
+      "evidence_quote": "In addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries, including a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787",
+      "applied_filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "BOEING_2022_10K_p8_para_005",
+          "document_id": "BOEING_2022_10K",
+          "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+          "page": 8,
+          "score": 0.843386,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 8,
+            "year": 2022,
+            "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+            "company": "BOEING",
+            "doc_type": "10K",
+            "char_count": 687,
+            "chunk_index": 5,
+            "document_id": "BOEING_2022_10K"
+          },
+          "text": "In addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries,\nincluding a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787\naircraft. A number of our customers have contractual remedies, including compensation for late deliveries or rights to reject individual airplane\ndeliveries based on delivery delays. Delays on the 737, 777X and 787 programs have resulted in, and may continue to result in, customers\nhaving the right to terminate orders, be compensated for late deliveries and/or substitute orders for other Boeing aircraft."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "BOEING_2022_10K_p8_para_006",
+          "document_id": "BOEING_2022_10K",
+          "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+          "page": 8,
+          "score": 0.752428,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 8,
+            "year": 2022,
+            "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+            "company": "BOEING",
+            "doc_type": "10K",
+            "char_count": 689,
+            "chunk_index": 6,
+            "document_id": "BOEING_2022_10K"
+          },
+          "text": "We must minimize disruption caused by production changes, achieve operational stability and implement productivity improvements in order to\nmeet customer demand and maintain our profitability. We have previously announced plans to adjust production rates on several of our\ncommercial aircraft programs. The 787 program is currently producing at low rates and we expect to gradually increase to 5 per month in 2023.\nProduction of the 777X is currently paused and is expected to resume in 2023. The 737 program has experienced operational and supply chain\nchallenges stabilizing production at 31 per month. We plan to gradually increase 737 production rates based on market demand and supply"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "BOEING_2022_10K_p7_para_004",
+          "document_id": "BOEING_2022_10K",
+          "source": "starter/data/corpus/BOEING_2022_10K__p7.md",
+          "page": 7,
+          "score": 0.631609,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 7,
+            "year": 2022,
+            "source": "starter/data/corpus/BOEING_2022_10K__p7.md",
+            "company": "BOEING",
+            "doc_type": "10K",
+            "char_count": 680,
+            "chunk_index": 4,
+            "document_id": "BOEING_2022_10K"
+          },
+          "text": "competitive. Significant deterioration in the global economic environment, the airline industry generally or the financial stability of one or more of\nour major customers could result in fewer new orders for aircraft or services, or could cause customers to seek to postpone or cancel contractual\norders and/or payments to us, which could result in lower revenues, profitability and cash flows and a reduction in our contractual backlog. In\naddition, because our commercial aircraft backlog consists of aircraft scheduled for delivery over a period of several years, any of these\nmacroeconomic, industry or customer impacts could unexpectedly affect deliveries over a long period."
+        }
+      ]
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "type": "source_evidence",
+      "question": "How much did American Express's net income change from 2021 to 2022, in USD millions?",
+      "gold_source_id": "AMERICANEXPRESS_2022_10K",
+      "gold_page": 43,
+      "evidence_quote": "Net income 7,514 8,060",
+      "alternate_evidence": [
+        {
+          "gold_source_id": "AMERICANEXPRESS_2022_10K",
+          "gold_page": 95,
+          "evidence_quote": "Net income $ 7,514 $ 8,060"
+        }
+      ],
+      "applied_filter": null,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "AMERICANEXPRESS_2022_10K_p43_para_000",
+          "document_id": "AMERICANEXPRESS_2022_10K",
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
+          "page": 43,
+          "score": 0.727037,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 43,
+            "year": 2022,
+            "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
+            "company": "AMERICANEXPRESS",
+            "doc_type": "10K",
+            "char_count": 132,
+            "chunk_index": 0,
+            "document_id": "AMERICANEXPRESS_2022_10K"
+          },
+          "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "AMERICANEXPRESS_2022_10K_p154_para_000",
+          "document_id": "AMERICANEXPRESS_2022_10K",
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p154.md",
+          "page": 154,
+          "score": 0.727037,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 154,
+            "year": 2022,
+            "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p154.md",
+            "company": "AMERICANEXPRESS",
+            "doc_type": "10K",
+            "char_count": 132,
+            "chunk_index": 0,
+            "document_id": "AMERICANEXPRESS_2022_10K"
+          },
+          "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "AMERICANEXPRESS_2022_10K_p44_para_000",
+          "document_id": "AMERICANEXPRESS_2022_10K",
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p44.md",
+          "page": 44,
+          "score": 0.727037,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 44,
+            "year": 2022,
+            "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p44.md",
+            "company": "AMERICANEXPRESS",
+            "doc_type": "10K",
+            "char_count": 132,
+            "chunk_index": 0,
+            "document_id": "AMERICANEXPRESS_2022_10K"
+          },
+          "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+        }
+      ]
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "type": "source_evidence",
+      "question": "What net earnings figure starts Best Buy's consolidated operating cash flow reconciliation for FY2023, in USD millions?",
+      "gold_source_id": "BESTBUY_2023_10K",
+      "gold_page": 41,
+      "evidence_quote": "Net earnings $ 1,419",
+      "applied_filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "BESTBUY_2023_10K_p41_para_000",
+          "document_id": "BESTBUY_2023_10K",
+          "source": "starter/data/corpus/BESTBUY_2023_10K__p41.md",
+          "page": 41,
+          "score": 0.794212,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 41,
+            "year": 2023,
+            "source": "starter/data/corpus/BESTBUY_2023_10K__p41.md",
+            "company": "BESTBUY",
+            "doc_type": "10K",
+            "char_count": 800,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2023_10K"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2023_10K\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2023_10K\n\nConsolidated Statements of Cash Flows\n$ in millions\n\nFiscal Years Ended\nJanuary 28, 2023\n\nJanuary 29, 2022\n\nJanuary 30, 2021\nOperating activities\n\nNet earnings\n$\n1,419\n\n$\n2,454\n\n$\n1,798\n\nAdjustments to reconcile net earnings to total cash provided by operating activities:\n\nDepreciation and amortization\n\n918\n\n869\n\n839\nRestructuring charges\n\n147\n\n(34)\n\n254\nStock-based compensation\n\n138\n\n141\n\n135\nDeferred income taxes\n\n51\n\n14\n\n(36)\nOther, net\n\n12\n\n11\n\n3\nChanges in operating assets and liabilities, net of acquired assets and liabilities:\n\nReceivables\n\n(103)\n\n17\n\n73\nMerchandise inventories\n\n809\n\n(328)\n\n(435)\nOther assets\n\n(21)\n\n(14)\n\n(51)\nAccounts payable\n\n(1,099)\n\n(201)\n\n1,676\nIncome taxes\n\n36"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p19_para_000",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+          "page": 19,
+          "score": 0.761784,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 19,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 794,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nConsolidated Non-GAAP Financial Measures\n\nReconciliations of operating income, effective tax rate and diluted EPS (GAAP financial measures) to non-GAAP operating income, non-GAAP effective tax rate\nand non-GAAP diluted EPS (non-GAAP financial measures) were as follows ($ in millions, except per share amounts):\n\nThree Months Ended\n\nSix Months Ended\n\nJuly 29, 2023\n\nJuly 30, 2022\n\nJuly 29, 2023\n\nJuly 30, 2022\nOperating income\n$\n348\n$\n371\n$\n659\n$\n833\n% of revenue\n\n3.6 %\n3.6 %\n3.5 %\n4.0 %\nIntangible asset amortization(1)\n\n21\n\n22\n\n41\n\n44\nRestructuring charges(2)\n\n(7)\n\n34\n\n(16)\n\n35\nNon-GAAP operating income\n$\n362\n$\n427\n$\n684\n$\n912\n% of revenue\n\n3.8 %\n4.1 %\n3.6 %\n4.3 %"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "BESTBUY_2017_10K_p55_para_000",
+          "document_id": "BESTBUY_2017_10K",
+          "source": "starter/data/corpus/BESTBUY_2017_10K__p55.md",
+          "page": 55,
+          "score": 0.736115,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 55,
+            "year": 2017,
+            "source": "starter/data/corpus/BESTBUY_2017_10K__p55.md",
+            "company": "BESTBUY",
+            "doc_type": "10K",
+            "char_count": 785,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2017_10K"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2017_10K\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2017_10K\n\nTable of Contents\nConsolidated Statements of Earnings\n$ and shares in millions, except per share amounts\nFiscal Years Ended\n\nJanuary 28, 2017\nJanuary 30, 2016\nJanuary 31, 2015\nRevenue\n$\n39,403\n$\n39,528\n$\n40,339\nCostofgoodssold\n\n29,963\n\n30,334\n\n31,292\nRestructuringchargescostofgoodssold\n\n3\n\nGrossprofit\n\n9,440\n\n9,191\n\n9,047\nSelling,generalandadministrativeexpenses\n\n7,547\n\n7,618\n\n7,592\nRestructuringcharges\n\n39\n\n198\n\n5\nOperatingincome\n\n1,854\n\n1,375\n\n1,450\nOtherincome(expense)\n\nGainonsaleofinvestments\n\n3\n\n2\n\n13\nInvestmentincomeandother\n\n31\n\n13\n\n14\nInterestexpense\n\n(72)\n(80)\n(90)\nEarningsfromcontinuingoperationsbeforeincometaxexpense\n\n1,816\n\n1,310\n\n1,387\nIncometaxexpense\n\n609\n\n503"
+        }
+      ]
+    }
+  ],
+  "C": [
+    {
+      "question_id": "q16",
+      "split": "test",
+      "type": "metadata_filter",
+      "question": "What was AMD's FY2022 gross margin, and what was the main reason for the decline from FY2021?",
+      "gold_source_id": "AMD_2022_10K",
+      "gold_page": 42,
+      "evidence_quote": "driven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022, was 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.",
+      "applied_filter": {
+        "company": "AMD",
+        "year": 2022
+      },
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": true,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "AMD_2022_10K_p42_para_001",
+          "document_id": "AMD_2022_10K",
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "page": 42,
+          "score": 0.711811,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 42,
+            "year": 2022,
+            "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+            "company": "AMD",
+            "doc_type": "10K",
+            "char_count": 695,
+            "chunk_index": 1,
+            "document_id": "AMD_2022_10K"
+          },
+          "text": "(collectively, us, our or AMD), including a discussion of our results of operations for 2022 compared to 2021, an analysis of changes in our financial\ncondition and a discussion of our off-balance sheet arrangements. Discussions of 2020 items and year-to-year comparisons between 2021 and 2020 that are\nnot included in this Form 10-K can be found in Managements Discussion and Analysis of Financial Condition and Results of Operations in Part II, Item 7 of\nour Annual Report on Form 10-K for the fiscal year ended December 25, 2021.\nOverview\n2022 was a transformative year for AMD as we took several major steps that scaled and reshaped our business. In February 2022, we completed our strategic"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "AMD_2022_10K_p42_para_004",
+          "document_id": "AMD_2022_10K",
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "page": 42,
+          "score": 0.708296,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 42,
+            "year": 2022,
+            "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+            "company": "AMD",
+            "doc_type": "10K",
+            "char_count": 778,
+            "chunk_index": 4,
+            "document_id": "AMD_2022_10K"
+          },
+          "text": "primarily due to higher semi-custom product sales, and a significant increase in Embedded segment revenue from the prior year period driven by the inclusion\nof Xilinx embedded product sales. This growth was partially offset by a 10% decrease in Client segment revenue primarily due to lower processor shipments\ndriven by a weak PC market and significant inventory correction actions across the PC supply chain. Gross margin, as a percentage of net revenue for 2022,\nwas 45%, compared to 48% in 2021. The decrease in gross margin was primarily due to amortization of intangible assets associated with the Xilinx acquisition.\nOperating income for 2022 was $1.3 billion compared to operating income of $3.6 billion for 2021. The decrease in operating income was primarily driven by"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "AMD_2022_10K_p42_para_000",
+          "document_id": "AMD_2022_10K",
+          "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+          "page": 42,
+          "score": 0.669576,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 42,
+            "year": 2022,
+            "source": "starter/data/corpus/AMD_2022_10K__p42.md",
+            "company": "AMD",
+            "doc_type": "10K",
+            "char_count": 789,
+            "chunk_index": 0,
+            "document_id": "AMD_2022_10K"
+          },
+          "text": "# AMD Financial Filing: AMD_2022_10K\n\n**Company**: AMD\n\n**Document**: AMD_2022_10K\n\nTable of Contents\nITEM 7. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS\nThe following discussion should be read in conjunction with the consolidated financial statements as of December 31, 2022 and December 25, 2021 and for\neach of the three years in the period ended December 31, 2022 and related notes, which are included in this Annual Report on Form 10-K as well as with the\nother sections of this Annual Report on Form 10-K, Part II, Item 8: Financial Statements and Supplementary Data.\nIntroduction\nIn this section, we will describe the general financial condition and the results of operations of Advanced Micro Devices, Inc. and its wholly-owned subsidiaries"
+        }
+      ]
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "type": "metadata_filter",
+      "question": "What primarily drove the 7.6% growth in Best Buy's comparable services sales in fiscal Q2 2024?",
+      "gold_source_id": "BESTBUY_2024Q2_10Q",
+      "gold_page": 17,
+      "evidence_quote": "Services: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.",
+      "applied_filter": {
+        "company": "BESTBUY",
+        "year": 2024
+      },
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": true,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_000",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+          "page": 17,
+          "score": 0.797135,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 17,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 744,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nNotable comparable sales changes by revenue category were as follows:\n\nComputing and Mobile Phones: The 6.4% comparable sales decline was driven primarily by computing, mobile phones and tablets.\n\nConsumer Electronics: The 5.7% comparable sales decline was driven primarily by home theater, partially offset by comparable sales growth in\nheadphones and portable speakers.\n\nAppliances: The 16.1% comparable sales decline was driven primarily by large appliances.\n\nEntertainment: The 9.0% comparable sales growth was driven primarily by gaming, partially offset by comparable sales declines in virtual reality and\ndrones."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p17_para_001",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+          "page": 17,
+          "score": 0.746812,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 17,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p17.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 494,
+            "chunk_index": 1,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "Services: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.\n\nOur gross profit rate increased in the second quarter of fiscal 2024, primarily due to favorable product margin rates, improved financial performance from our\nmembership offerings, which included higher services margin rates and reduced costs associated with program changes made to our free membership offering,\nand an improved gross profit rate from our Health initiatives."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p16_para_000",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p16.md",
+          "page": 16,
+          "score": 0.71658,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 16,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p16.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 665,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nSegment Performance Summary\n\nDomestic Segment\n\nSelected financial data for the Domestic segment was as follows ($ in millions):\n\nThree Months Ended\n\nSix Months Ended\n\nJuly 29, 2023\n\nJuly 30, 2022\n\nJuly 29, 2023\n\nJuly 30, 2022\nRevenue\n$\n8,890\n$\n9,569\n$\n17,691\n$\n19,463\nRevenue % change\n\n(7.1)%\n(13.1)%\n(9.1)%\n(10.9)%\nComparable sales % change(1)\n\n(6.3)%\n(12.7)%\n(8.4)%\n(10.6)%\nGross profit\n$\n2,052\n$\n2,109\n$\n4,044\n$\n4,279\nGross profit as a % of revenue\n\n23.1 %\n22.0 %\n22.9 %\n22.0 %\nSG&A\n$\n1,730\n$\n1,732\n$\n3,440\n$\n3,473\nSG&A as a % of revenue"
+        }
+      ]
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "type": "source_evidence",
+      "question": "Between which months and years were Boeing 787 deliveries suspended because of production quality issues?",
+      "gold_source_id": "BOEING_2022_10K",
+      "gold_page": 8,
+      "evidence_quote": "In addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries, including a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787",
+      "applied_filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "BOEING_2022_10K_p8_para_005",
+          "document_id": "BOEING_2022_10K",
+          "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+          "page": 8,
+          "score": 0.843386,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 8,
+            "year": 2022,
+            "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+            "company": "BOEING",
+            "doc_type": "10K",
+            "char_count": 687,
+            "chunk_index": 5,
+            "document_id": "BOEING_2022_10K"
+          },
+          "text": "In addition, we have experienced production quality issues, including in our supply chain, which have contributed to lower 787 deliveries,\nincluding a suspension of 787 deliveries from May 2021 to August 2022. We continue to conduct inspections and rework on built and stored 787\naircraft. A number of our customers have contractual remedies, including compensation for late deliveries or rights to reject individual airplane\ndeliveries based on delivery delays. Delays on the 737, 777X and 787 programs have resulted in, and may continue to result in, customers\nhaving the right to terminate orders, be compensated for late deliveries and/or substitute orders for other Boeing aircraft."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "BOEING_2022_10K_p8_para_006",
+          "document_id": "BOEING_2022_10K",
+          "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+          "page": 8,
+          "score": 0.752428,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 8,
+            "year": 2022,
+            "source": "starter/data/corpus/BOEING_2022_10K__p8.md",
+            "company": "BOEING",
+            "doc_type": "10K",
+            "char_count": 689,
+            "chunk_index": 6,
+            "document_id": "BOEING_2022_10K"
+          },
+          "text": "We must minimize disruption caused by production changes, achieve operational stability and implement productivity improvements in order to\nmeet customer demand and maintain our profitability. We have previously announced plans to adjust production rates on several of our\ncommercial aircraft programs. The 787 program is currently producing at low rates and we expect to gradually increase to 5 per month in 2023.\nProduction of the 777X is currently paused and is expected to resume in 2023. The 737 program has experienced operational and supply chain\nchallenges stabilizing production at 31 per month. We plan to gradually increase 737 production rates based on market demand and supply"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "BOEING_2022_10K_p7_para_004",
+          "document_id": "BOEING_2022_10K",
+          "source": "starter/data/corpus/BOEING_2022_10K__p7.md",
+          "page": 7,
+          "score": 0.631609,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 7,
+            "year": 2022,
+            "source": "starter/data/corpus/BOEING_2022_10K__p7.md",
+            "company": "BOEING",
+            "doc_type": "10K",
+            "char_count": 680,
+            "chunk_index": 4,
+            "document_id": "BOEING_2022_10K"
+          },
+          "text": "competitive. Significant deterioration in the global economic environment, the airline industry generally or the financial stability of one or more of\nour major customers could result in fewer new orders for aircraft or services, or could cause customers to seek to postpone or cancel contractual\norders and/or payments to us, which could result in lower revenues, profitability and cash flows and a reduction in our contractual backlog. In\naddition, because our commercial aircraft backlog consists of aircraft scheduled for delivery over a period of several years, any of these\nmacroeconomic, industry or customer impacts could unexpectedly affect deliveries over a long period."
+        }
+      ]
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "type": "source_evidence",
+      "question": "How much did American Express's net income change from 2021 to 2022, in USD millions?",
+      "gold_source_id": "AMERICANEXPRESS_2022_10K",
+      "gold_page": 43,
+      "evidence_quote": "Net income 7,514 8,060",
+      "alternate_evidence": [
+        {
+          "gold_source_id": "AMERICANEXPRESS_2022_10K",
+          "gold_page": 95,
+          "evidence_quote": "Net income $ 7,514 $ 8,060"
+        }
+      ],
+      "applied_filter": null,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "AMERICANEXPRESS_2022_10K_p95_para_000",
+          "document_id": "AMERICANEXPRESS_2022_10K",
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p95.md",
+          "page": 95,
+          "score": 0.727037,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 95,
+            "year": 2022,
+            "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p95.md",
+            "company": "AMERICANEXPRESS",
+            "doc_type": "10K",
+            "char_count": 132,
+            "chunk_index": 0,
+            "document_id": "AMERICANEXPRESS_2022_10K"
+          },
+          "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "AMERICANEXPRESS_2022_10K_p154_para_000",
+          "document_id": "AMERICANEXPRESS_2022_10K",
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p154.md",
+          "page": 154,
+          "score": 0.727037,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 154,
+            "year": 2022,
+            "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p154.md",
+            "company": "AMERICANEXPRESS",
+            "doc_type": "10K",
+            "char_count": 132,
+            "chunk_index": 0,
+            "document_id": "AMERICANEXPRESS_2022_10K"
+          },
+          "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "AMERICANEXPRESS_2022_10K_p43_para_000",
+          "document_id": "AMERICANEXPRESS_2022_10K",
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
+          "page": 43,
+          "score": 0.727037,
+          "evidence_hit": false,
+          "page_match": true,
+          "metadata": {
+            "page": 43,
+            "year": 2022,
+            "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
+            "company": "AMERICANEXPRESS",
+            "doc_type": "10K",
+            "char_count": 132,
+            "chunk_index": 0,
+            "document_id": "AMERICANEXPRESS_2022_10K"
+          },
+          "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+        }
+      ]
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "type": "source_evidence",
+      "question": "What net earnings figure starts Best Buy's consolidated operating cash flow reconciliation for FY2023, in USD millions?",
+      "gold_source_id": "BESTBUY_2023_10K",
+      "gold_page": 41,
+      "evidence_quote": "Net earnings $ 1,419",
+      "applied_filter": null,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "page_hit_at_3": true,
+      "filter_compliant": null,
+      "top_3": [
+        {
+          "rank": 1,
+          "chunk_id": "BESTBUY_2023_10K_p41_para_000",
+          "document_id": "BESTBUY_2023_10K",
+          "source": "starter/data/corpus/BESTBUY_2023_10K__p41.md",
+          "page": 41,
+          "score": 0.794212,
+          "evidence_hit": true,
+          "page_match": true,
+          "metadata": {
+            "page": 41,
+            "year": 2023,
+            "source": "starter/data/corpus/BESTBUY_2023_10K__p41.md",
+            "company": "BESTBUY",
+            "doc_type": "10K",
+            "char_count": 800,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2023_10K"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2023_10K\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2023_10K\n\nConsolidated Statements of Cash Flows\n$ in millions\n\nFiscal Years Ended\nJanuary 28, 2023\n\nJanuary 29, 2022\n\nJanuary 30, 2021\nOperating activities\n\nNet earnings\n$\n1,419\n\n$\n2,454\n\n$\n1,798\n\nAdjustments to reconcile net earnings to total cash provided by operating activities:\n\nDepreciation and amortization\n\n918\n\n869\n\n839\nRestructuring charges\n\n147\n\n(34)\n\n254\nStock-based compensation\n\n138\n\n141\n\n135\nDeferred income taxes\n\n51\n\n14\n\n(36)\nOther, net\n\n12\n\n11\n\n3\nChanges in operating assets and liabilities, net of acquired assets and liabilities:\n\nReceivables\n\n(103)\n\n17\n\n73\nMerchandise inventories\n\n809\n\n(328)\n\n(435)\nOther assets\n\n(21)\n\n(14)\n\n(51)\nAccounts payable\n\n(1,099)\n\n(201)\n\n1,676\nIncome taxes\n\n36"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "BESTBUY_2024Q2_10Q_p19_para_000",
+          "document_id": "BESTBUY_2024Q2_10Q",
+          "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+          "page": 19,
+          "score": 0.761784,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 19,
+            "year": 2024,
+            "source": "starter/data/corpus/BESTBUY_2024Q2_10Q__p19.md",
+            "company": "BESTBUY",
+            "doc_type": "10Q",
+            "char_count": 794,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2024Q2_10Q"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2024Q2_10Q\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2024Q2_10Q\n\nTable of Contents\n\nConsolidated Non-GAAP Financial Measures\n\nReconciliations of operating income, effective tax rate and diluted EPS (GAAP financial measures) to non-GAAP operating income, non-GAAP effective tax rate\nand non-GAAP diluted EPS (non-GAAP financial measures) were as follows ($ in millions, except per share amounts):\n\nThree Months Ended\n\nSix Months Ended\n\nJuly 29, 2023\n\nJuly 30, 2022\n\nJuly 29, 2023\n\nJuly 30, 2022\nOperating income\n$\n348\n$\n371\n$\n659\n$\n833\n% of revenue\n\n3.6 %\n3.6 %\n3.5 %\n4.0 %\nIntangible asset amortization(1)\n\n21\n\n22\n\n41\n\n44\nRestructuring charges(2)\n\n(7)\n\n34\n\n(16)\n\n35\nNon-GAAP operating income\n$\n362\n$\n427\n$\n684\n$\n912\n% of revenue\n\n3.8 %\n4.1 %\n3.6 %\n4.3 %"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "BESTBUY_2017_10K_p55_para_000",
+          "document_id": "BESTBUY_2017_10K",
+          "source": "starter/data/corpus/BESTBUY_2017_10K__p55.md",
+          "page": 55,
+          "score": 0.736115,
+          "evidence_hit": false,
+          "page_match": false,
+          "metadata": {
+            "page": 55,
+            "year": 2017,
+            "source": "starter/data/corpus/BESTBUY_2017_10K__p55.md",
+            "company": "BESTBUY",
+            "doc_type": "10K",
+            "char_count": 785,
+            "chunk_index": 0,
+            "document_id": "BESTBUY_2017_10K"
+          },
+          "text": "# BEST_BUY Financial Filing: BESTBUY_2017_10K\n\n**Company**: BEST_BUY\n\n**Document**: BESTBUY_2017_10K\n\nTable of Contents\nConsolidated Statements of Earnings\n$ and shares in millions, except per share amounts\nFiscal Years Ended\n\nJanuary 28, 2017\nJanuary 30, 2016\nJanuary 31, 2015\nRevenue\n$\n39,403\n$\n39,528\n$\n40,339\nCostofgoodssold\n\n29,963\n\n30,334\n\n31,292\nRestructuringchargescostofgoodssold\n\n3\n\nGrossprofit\n\n9,440\n\n9,191\n\n9,047\nSelling,generalandadministrativeexpenses\n\n7,547\n\n7,618\n\n7,592\nRestructuringcharges\n\n39\n\n198\n\n5\nOperatingincome\n\n1,854\n\n1,375\n\n1,450\nOtherincome(expense)\n\nGainonsaleofinvestments\n\n3\n\n2\n\n13\nInvestmentincomeandother\n\n31\n\n13\n\n14\nInterestexpense\n\n(72)\n(80)\n(90)\nEarningsfromcontinuingoperationsbeforeincometaxexpense\n\n1,816\n\n1,310\n\n1,387\nIncometaxexpense\n\n609\n\n503"
+        }
+      ]
+    }
+  ]
+}
