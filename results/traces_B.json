@@ -1453,27 +1453,6 @@
     "top_3": [
       {
         "rank": 1,
-        "chunk_id": "AMERICANEXPRESS_2022_10K_p43_para_000",
-        "document_id": "AMERICANEXPRESS_2022_10K",
-        "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
-        "page": 43,
-        "score": 0.727037,
-        "evidence_hit": false,
-        "page_match": true,
-        "metadata": {
-          "page": 43,
-          "year": 2022,
-          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
-          "company": "AMERICANEXPRESS",
-          "doc_type": "10K",
-          "char_count": 132,
-          "chunk_index": 0,
-          "document_id": "AMERICANEXPRESS_2022_10K"
-        },
-        "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
-      },
-      {
-        "rank": 2,
         "chunk_id": "AMERICANEXPRESS_2022_10K_p154_para_000",
         "document_id": "AMERICANEXPRESS_2022_10K",
         "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p154.md",
@@ -1485,6 +1464,27 @@
           "page": 154,
           "year": 2022,
           "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p154.md",
+          "company": "AMERICANEXPRESS",
+          "doc_type": "10K",
+          "char_count": 132,
+          "chunk_index": 0,
+          "document_id": "AMERICANEXPRESS_2022_10K"
+        },
+        "text": "# AMERICAN_EXPRESS Financial Filing: AMERICANEXPRESS_2022_10K\n\n**Company**: AMERICAN_EXPRESS\n\n**Document**: AMERICANEXPRESS_2022_10K"
+      },
+      {
+        "rank": 2,
+        "chunk_id": "AMERICANEXPRESS_2022_10K_p43_para_000",
+        "document_id": "AMERICANEXPRESS_2022_10K",
+        "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
+        "page": 43,
+        "score": 0.727037,
+        "evidence_hit": false,
+        "page_match": true,
+        "metadata": {
+          "page": 43,
+          "year": 2022,
+          "source": "starter/data/corpus/AMERICANEXPRESS_2022_10K__p43.md",
           "company": "AMERICANEXPRESS",
           "doc_type": "10K",
           "char_count": 132,

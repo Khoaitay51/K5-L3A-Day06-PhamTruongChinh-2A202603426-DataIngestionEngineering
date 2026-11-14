@@ -7,7 +7,7 @@
       "min_chars": 62,
       "median_chars": 500,
       "max_chars": 500,
-      "ingest_seconds": 48.36,
+      "ingest_seconds": 44.58,
       "cost_usd": 0.0,
       "idempotent_reingest_ok": true,
       "stored_rows": 258
@@ -53,7 +53,7 @@
       "min_chars": 63,
       "median_chars": 708,
       "max_chars": 800,
-      "ingest_seconds": 49.11,
+      "ingest_seconds": 49.54,
       "cost_usd": 0.0,
       "idempotent_reingest_ok": true,
       "stored_rows": 185
@@ -99,7 +99,7 @@
       "min_chars": 63,
       "median_chars": 708,
       "max_chars": 800,
-      "ingest_seconds": 0.34,
+      "ingest_seconds": 0.19,
       "cost_usd": 0.0,
       "idempotent_reingest_ok": true,
       "stored_rows": 185
